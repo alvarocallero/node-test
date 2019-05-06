@@ -12,6 +12,12 @@ var app=http.createServer(function (req, res) {
   }else{
     console.log('===>>> The method of the request was not POST');
   }
+  let body = '';
+  req.on('data', chunk => {
+    body += chunk.toString(); // convert Buffer to string
+   });
+
+   console.log('===>>> The body is: '+body);
   //outputs string with line end symbol
 });
 var port = process.env.PORT || 5000;
