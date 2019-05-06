@@ -9,7 +9,7 @@ var app=http.createServer(function (req, res) {
 });
 var port = process.env.PORT || 5000;
 app.listen(port, function() {
-  console.log("Listening on " + port);
+  console.log("Listening on PORT!!!!! " + port);
 });
 // }).listen(1337, "127.0.0.1");
 //sets port and IP address of the server
