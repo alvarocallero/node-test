@@ -7,7 +7,6 @@ var app=http.createServer(function (req, res) {
   res.end('Hello World\n');
 
   console.log("The req is: " + req.body);
-  console.log("The body is: " + body);
   if (req.method === 'POST') {
     console.log('===>>> The method of the request was POST');
   }else{
