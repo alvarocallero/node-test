@@ -7,6 +7,12 @@ var app=http.createServer(function (req, res) {
   res.end('Hello World\n');
 
   console.log("The req is: " + req.body);
+  console.log("The body is: " + body);
+  if (req.method === 'POST') {
+    console.log('===>>> The method of the request was POST');
+  }else{
+    console.log('===>>> The method of the request was not POST');
+  }
   //outputs string with line end symbol
 });
 var port = process.env.PORT || 5000;
