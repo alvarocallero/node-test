@@ -6,7 +6,7 @@ var app=http.createServer(function (req, res) {
   //sets the right header and status code
   res.end('Hello World\n');
 
-  console.log("The req is: " + req);
+  console.log("The req is: " + req.body);
   //outputs string with line end symbol
 });
 var port = process.env.PORT || 5000;
