@@ -126,7 +126,7 @@
   "deliveryFormat" : "In-person;Virtual",
   "courseRegion" : "AMER",
   "courseOverview" : "In this hands-on course, you will learn about Field Service Lightning components and even have the opportunity to implement Field Service Lightning for AW Computing, our fictitious company. Through discussion and interactive exercises, you will discover details of Field Service Lightning functionality, what you need to know prior to setting it up, and the steps required to successfully implement it.",
-  "courseName" : "Course Developer 5000",
+  "courseName" : "Course Developer 5",
   "courseLanguage" : "English",
   "courseCode" : "FSL201",
   "audience" : "This course is recommended for Implementation Consultants and Salesforce Administrators either working with, or for, organizations deploying Field Service Lightning. You should have a solid understanding of Salesforce Administrator functionality and concepts prior to attending this course."
@@ -214,7 +214,7 @@
   "deliveryFormat" : "In-person;Virtual",
   "courseRegion" : "JAPAN",
   "courseOverview" : "Einstein Analytics を使用した効果的なダッシュボードの構築と、アクセス設定の方法を学習します。アクセス管理の基本となるアプリケーションの設定方法とダッシュボード内の各種ウィジェットの構成方法、ウィジェットのファセット化による動的なダッシュボードや、モバイル向けダッシュボードなど、より効果的なダッシュボードを作成することによって、ビジネスユーザは素早くデータを探索することが可能になり、新たな知見を得ることができるようになります。",
-  "courseName" : "Course Developer 9",
+  "courseName" : "Course Developer 999",
   "courseLanguage" : "Japanese",
   "courseCode" : "ANC201",
   "audience" : "• Einstein Analytics で効果的なレンズやダッシュボードを構築してビジネスユーザのデータ探索を推進する方\n• ユーザやアプリケーションの設定からダッシュボード作成までの基本的なプロセスを理解したい方\n\n\n【受講前提条件】\n「 Einstein Analytics 1: データ探索編」コースの修了、または同等の知識があること"
