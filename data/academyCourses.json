@@ -150,7 +150,7 @@
   "courseOverview" : "If you are a Marketing Cloud user or administrator who is responsible for developing the email journey your customers will take with your organization, this hands-on course is an essential class for you. \n\nIn this one-day course, you will learn the fundamentals of a customer journey. You will then explore Contact Builder and how to set up your data in order to leverage the data in Journey Builder. In Journey Builder, you will learn to create and develop strategic customer interactions within various Journey Builder activities.",
   "courseName" : "Course Developer 6",
   "courseLanguage" : "English",
-  "courseCode" : "JB101",
+  "courseCode" : "JB1011",
   "audience" : "<p>Getting Started with Journey Builder is designed for individuals in the following roles: </p><p>• Administrators responsible for the setup, configuration, and maintenance of their organization’s Marketing Cloud applications. </p><p>• Content editors and publishers who will assist in the setup of customer journeys. </p><p>• Channel managers who are responsible for the marketing automation channel within an organization.</p>"
 }, {
   "virtualDuration" : "4 days",
