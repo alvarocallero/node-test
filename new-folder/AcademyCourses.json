@@ -126,7 +126,7 @@
   "deliveryFormat" : "In-person;Virtual",
   "courseRegion" : "AMER",
   "courseOverview" : "In this hands-on course, you will learn about Field Service Lightning components and even have the opportunity to implement Field Service Lightning for AW Computing, our fictitious company. Through discussion and interactive exercises, you will discover details of Field Service Lightning functionality, what you need to know prior to setting it up, and the steps required to successfully implement it.",
-  "courseName" : "Course Developer 5",
+  "courseName" : "Course Developer 5000",
   "courseLanguage" : "English",
   "courseCode" : "FSL201",
   "audience" : "This course is recommended for Implementation Consultants and Salesforce Administrators either working with, or for, organizations deploying Field Service Lightning. You should have a solid understanding of Salesforce Administrator functionality and concepts prior to attending this course."
