@@ -214,7 +214,7 @@
   "deliveryFormat" : "In-person;Virtual",
   "courseRegion" : "JAPAN",
   "courseOverview" : "Einstein Analytics を使用した効果的なダッシュボードの構築と、アクセス設定の方法を学習します。アクセス管理の基本となるアプリケーションの設定方法とダッシュボード内の各種ウィジェットの構成方法、ウィジェットのファセット化による動的なダッシュボードや、モバイル向けダッシュボードなど、より効果的なダッシュボードを作成することによって、ビジネスユーザは素早くデータを探索することが可能になり、新たな知見を得ることができるようになります。",
-  "courseName" : "Course Developer 999",
+  "courseName" : "Course Developer 9",
   "courseLanguage" : "Japanese",
   "courseCode" : "ANC201",
   "audience" : "• Einstein Analytics で効果的なレンズやダッシュボードを構築してビジネスユーザのデータ探索を推進する方\n• ユーザやアプリケーションの設定からダッシュボード作成までの基本的なプロセスを理解したい方\n\n\n【受講前提条件】\n「 Einstein Analytics 1: データ探索編」コースの修了、または同等の知識があること"
