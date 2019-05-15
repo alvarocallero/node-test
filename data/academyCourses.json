@@ -140,7 +140,7 @@
   "product" : "Marketing Cloud",
   "preworkLink" : "https://trailhead.salesforce.com/users/tacademy/trailmixes/getting-started-with-journey-builder-pre-work",
   "objectives" : "<p>• Engage in critical thinking in regards to the customer journey. </p><p>• Create and relate data structures in Contact Builder. </p><p>• Build an interaction with various activities. </p><p>• Optimize journeys through versioning</p>",
-  "name" : "Journey Builder 101",
+  "name" : "Content Builder Essentials for Digital Marketer",
   "level" : "Beginner",
   "lessonsandtopics" : "<p><b>Customer Journeys </b></p><p>• Describe why customer journeys are important </p><p>• Define the customer journey </p><p>• Identify how to create 1:1 customer journeys </p><p><br></p><p><b>Marketing Cloud </b></p><p>• Define the Marketing Cloud </p><p>• Log in to the Marketing Cloud </p><p><br></p><p><b>Contact Builder </b></p><p>• Define Contact Builder </p><p>• Describe and use the various tools in Contact Builder </p><p>• Reiterate the concepts of Subscriber Key, Primary Key, and Contact Key </p><p><br></p><p><b>Journey Builder </b></p><p>• Define Journey Builder </p><p>• Define an Interaction </p><p>• Build an Interaction </p><p>• Create an Entry Event </p><p>• Utilize various Journey Builder activities </p><p><br></p><p><b>Monitoring and Optimizing </b></p><p>• Set a goal </p><p>• Test the Interaction </p><p>• Review metrics </p><p>• Create a new version of an Interaction</p>",
   "inpersonDuration" : "1 day",
