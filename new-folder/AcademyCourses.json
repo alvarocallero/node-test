@@ -162,7 +162,7 @@
   "preworkAuthor" : "",
   "objectives" : "• Salesforce エコシステムにおける Heroku のユースケースと利点の理解\n• Heroku、Heroku ボタンを使用した Web アプリのデプロイ\n• Heroku アドオンを使用したWebアプリの拡張\n• Heroku アプリの自動スケール設定\n• Salesforce アプリと Heroku の連携\n• Heroku を用いた継続的デリバリーと継続的インテグレーションの実装",
   "name" : "Heroku アプリケーション開発",
-  "localizedCourseName" : "Heroku アプリケーション",
+  "localizedCourseName" : "Heroku アプリケーショ",
   "level" : "Beginner",
   "lessonsandtopics" : "Heroku 概要\n• PaaS のフルスタックサービスへの適用\n• Heroku を利用するメリット\n\nGit 入門\n• Git とは\n• Git へのアクセス方法\n\nHeroku によるアプリケーションのデプロイ\n• デプロイプロセス\n• Heroku Dyno の種類\n• Heroku ボタンの作成\n• Heroku アドオンのプロビジョニング\n• Heroku ダッシュボードの操作\n\nHeroku Dyno を使用したアプリケーションのスケール\n• Heroku の内部動作\n• Heroku 自動スケール設定によるアプリケーションのスケール\n\nSalesforce と Heroku のインテグレーション\n• Heroku Connect 概要\n• Heroku Connect によるオブジェクトの同期\n• Heroku Connect の設定\n• Salesforce と Heroku のインテグレーション\n\nHeroku による継続的インテグレーションと継続的デリバリー\n• 継続的インテグレーションと継続的デリバリー\n• Heroku Flow\n• Heroku Pipeline\n• GitHub インテグレーション\n• レビューアプリと Heroku Pipeline の接続\n• Heroku CI を使用した自動テスト",
   "inpersonDuration" : "1 day",
