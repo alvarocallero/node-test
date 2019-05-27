@@ -22,6 +22,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "<p>Complet et pratique, ce cours est destiné aux administrateurs désireux de tout savoir sur la manière dont Salesforce peut répondre aux besoins les plus urgents de leur entreprise. Grâce à des scénarios conformes à la réalité, le cours L’essentiel de l’administration pour les administrateurs expérimentés couvre des sujets tels que l’extension de Salesforce avec des applications et des objets personnalisés, la génération de rapports et tableaux de bord complexes, et l’automatisation des processus commerciaux complexes pour vous permettre de travailler de manière plus efficace et de profiter au mieux de Salesforce.</p>",
   "courseLanguage" : "French",
+  "courseCountry" : null,
   "courseCode" : "ADM211",
   "audience" : "<p>Ce cours est destiné aux administrateurs avec un minimum de 6 mois d’expérience sur Salesforce et/ou aux administrateurs qui ont suivi la formation L’administration pour les nouveaux administrateurs.</p>"
 }, {
@@ -48,6 +49,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "<p>Der Kurs Grundlagen der Administration für erfahrene Administratoren ist mit seinen fortgeschrittenen Inhalten und zahlreichen praktischen Übungen ideal für Administratoren, die ihr Wissen über die Salesforce Anwendungen vertiefen und weitergehende, administrative Funktionalitaeten erlernen möchten. Themenbereiche werden anhand von realistischen Szenarien erarbeitet, wie z.B. das Erweitern der Salesforce Anwendung durch neue Objekte und Anwendungen, Erstellen komplexer Berichte und Dashboards und Automatisieren komplexer Geschäftsprozesse, um Ihre Arbeit mit Salesforce noch effizienter zu gestalten.</p>",
   "courseLanguage" : "German",
+  "courseCountry" : null,
   "courseCode" : "ADM211",
   "audience" : "<p>Grundlagen der Administration für erfahrene Administratoren ist für folgende Zielgruppen gedacht Administratoren mit mindestens sechs Monaten Erfahrung mit Salesforce und/oder Administratoren, die den Kurs Grundlagen der Administration für neue Administratoren absolviert haben</p>"
 }, {
@@ -74,6 +76,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "Comprehensive and hands-on, this course is for administrators who are ready to significantly ramp up their skills and knowledge about using Salesforce to solve their most pressing business needs. Using real-world scenarios, Administration Essentials for Experienced Admins covers topics such as extending Salesforce with custom objects and apps, generating complex reports and dashboards, and automating complex business processes to help you work more efficiently and get more out of Salesforce.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "ADM211",
   "audience" : "Administrators with at least six months of experience using Salesforce; and/ or Administrators who have completed the Administration Essentials for New Admins course."
 }, {
@@ -100,6 +103,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "技術や知識のさらなる向上を目指す上級管理者を対象とした、Salesforce を使った課題解決について学習します。課題を仮定したシナリオに沿ってカスタムオブジェクトとカスタムアプリケーションを使った Salesforce の拡張、複雑なレポートとダッシュボードの作成、複雑なビジネスプロセスの自動化など、課題解決のシミュレーションを実施しながら、Salesforce の効率的な活用方法を習得します。\n\n※本コースは Salesforce Classic 環境のユーザインターフェースを利用します。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "ADM211",
   "audience" : "• Salesforce Classic 環境のユーザインターフェースをご利用で、技術や知識のさらなる向上を目指す上級管理者\n\n\n【受講前提条件】\n• Salesforce の使用経験が 6 カ月間以上あるシステム管理者\nまたは\n• 「Salesforce 管理 Ⅰ[前編] [後編]」コースの修了、または同等の知識があること"
 }, {
@@ -126,6 +130,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "<p>Complet et pratique, ce cours est destiné aux administrateurs désireux de tout savoir sur la manière dont Salesforce peut répondre aux besoins les plus urgents de leur entreprise. Grâce à des scénarios conformes à la réalité, le cours L’essentiel de l’administration pour les administrateurs expérimentés couvre des sujets tels que l’extension de Salesforce avec des applications Lightning et des objets personnalisés, la génération de rapports et tableaux de bord complexes, et l’automatisation des processus commerciaux complexes pour vous permettre de travailler de manière plus efficace et de profiter au mieux de Salesforce. Des sujets supplémentaires seront également les pages d’enregistrement dans Lightning, Lightning Knowledge et Lightning Data.</p>",
   "courseLanguage" : "French",
+  "courseCountry" : null,
   "courseCode" : "ADX211",
   "audience" : "<p>Ce cours est destiné aux administrateurs avec un minimum de 6 mois d’expérience sur Salesforce et/ou aux administrateurs qui ont suivi la formation L’administration pour les nouveaux administrateurs.</p>"
 }, {
@@ -152,6 +157,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "Lightning Experience 環境のユーザインターフェースをご利用で、技術や知識のさ らなる向上を目指す上級管理者を対象とした、Salesforce を使った課題解決につい て学習します。課題を仮定したシナリオに沿って、カスタムオブジェクトとカスタ ムアプリケーションを使った Salesforce の拡張、複雑なレポートとダッシュボード の作成、複雑なビジネスプロセスの自動化など、課題解決のシミュレーションを 実施しながら、Salesforce の効率的な活用方法を習得します。 \n\n※本コースは Lightning Experience 環境のユーザインターフェースを利用します。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "ADX211",
   "audience" : "• Lightning Experience 環境のユーザインターフェースをご利用で、技術や知識のさらなる向上を目指す上級管理者\n\n\n【受講前提条件】\n• Salesforce の使用経験が 6 ヶ月間以上あるシステム管理者\n または\n •「Salesforce 管理Ⅰ[前編] [後編]」コースの修了、または同等の知識があること"
 }, {
@@ -178,6 +184,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "<p>Der Kurs Grundlagen der Administration für erfahrene Administratoren ist mit seinen fortgeschrittenen Inhalten und zahlreichen praktischen Übungen ideal für Administratoren, die ihr Wissen über die Salesforce Anwendungen vertiefen und weitergehende, administrative Funktionalitaeten erlernen möchten. Themenbereiche werden anhand von realistischen Szenarien erarbeitet, wie z.B. das Erweitern der Salesforce Anwendung durch neue Objekte und Lightning Anwendungen, Erstellen komplexer Berichte und Dashboards und Automatisieren komplexer Geschäftsprozesse, um Ihre Arbeit mit Salesforce noch effizienter zu gestalten. Als zusätzliche Themen werden auch Lightning-Datensatzseiten, Lightning Knowledge und Lightning Data behandelt.</p>",
   "courseLanguage" : "German",
+  "courseCountry" : null,
   "courseCode" : "ADX211",
   "audience" : "<p>Grundlagen der Administration für erfahrene Administratoren ist für folgende Zielgruppen gedacht: Administratoren mit mindestens sechs Monaten Erfahrung mit Salesforce und/oder Administratoren, die den Kurs Grundlagen der Administration für neue Administratoren absolviert haben</p>"
 }, {
@@ -204,6 +211,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "Comprehensive and hands-on, this course is for administrators who are ready to significantly ramp up their skills and knowledge about using Salesforce to solve their most pressing business needs. Using real-world scenarios, this course covers topics such as extending Salesforce with custom objects and Lightning apps, generating complex reports and dashboards, and automating complex business processes to help you work more efficiently and get more out of Salesforce. Additional topics include Lightning Record Pages, Lightning Knowledge, and Lightning Data.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "ADX211",
   "audience" : "Administrators with at least six months of experience using Salesforce; and/ or Administrators who have completed the Administration Essentials for New Admins course"
 }, {
@@ -230,6 +238,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "Become a Salesforce.com Certified Administrator! This comprehensive hands-on course is a must for new Salesforce administrators. For maximum benefit, we recommend administrators take this course before starting a Salesforce deployment or when taking over an existing deployment.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "ADM201C",
   "audience" : "<ul><li>New system administrators responsible for the setup, configuration, and maintenance of their organization’s Salesforce applications</li><li>Other groups that would benefit from deepening their knowledge of Salesforce, including power users, sales operations, and IT managers</li></ul>"
 }, {
@@ -256,6 +265,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "If you are an existing Salesforce Administrator who wants to learn the techniques and best practices to ensure the success of your deployment and sit for the Salesforce Administrator Certification examination, then this is the class for you. In this five-day comprehensive and hands-on course, you will learn the fundamentals you’ll need as a Salesforce Administrator, ranging from topics such as how to set up, configure, and maintain your Salesforce instance, to how to set up workflow automation. This is a combination learn &amp; certify class, which gives you the option to sit for the highly valued Salesforce Administrator certification exam on the final day of class. If you want some more time, you’ll be able to conserve your certification exam voucher for use at a later date.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "ADM201C",
   "audience" : "<p>Administration Essentials for Administrators + Certification is ideal for: </p><ul><li>System administrators responsible for the setup, configuration, and maintenance of their organization’s Salesforce applications. </li><li>Power users, sales operations personnel, and IT managers that would benefit from deepening their knowledge of Salesforce. </li><li>People who are interested in taking the Salesforce Certified Administrator Exam.</li></ul>"
 }, {
@@ -282,6 +292,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "Become a Salesforce.com Certified Administrator! This comprehensive hands-on course is a must for new Salesforce administrators. For maximum benefit, we recommend administrators take this course before starting a Salesforce deployment or when taking over an existing deployment.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "ADM201",
   "audience" : "<ul><li>New system administrators responsible for the setup, configuration, and maintenance of their organization’s Salesforce applications</li><li>Other groups that would benefit from deepening their knowledge of Salesforce, including power users, sales operations, and IT managers</li></ul>"
 }, {
@@ -308,6 +319,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "<p>L’essentiel de l’administration pour les nouveaux administrateurs est une formation complète et pratique qui garantira votre réussite avec Salesforce. Elle est indispensable pour les nouveaux administrateurs. Nous recommandons aux administrateurs de suivre cette formation avant de déployer Salesforce ou au moment de reprendre un déploiement existant.</p>",
   "courseLanguage" : "French",
+  "courseCountry" : null,
   "courseCode" : "ADM201",
   "audience" : "<p>Le cours L’essentiel de l’administration pour les nouveaux administrateurs s’adresse:</p><p><br></p><ul><li>Aux nouveaux administrateurs systèmes chargés de l’installation, de la configuration et de la maintenance des applications Salesforce dans leur entreprise</li><li>À d’autres employés qui souhaitent approfondir leur connaissance de Salesforce, comme les utilisateurs expérimentés, le personnel des opérations de ventes et les responsables informatiques</li></ul>"
 }, {
@@ -334,6 +346,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "Salesforce Classic 環境のユーザインターフェースをご利用の Salesforce 管理者に必須となる機能を、ハンズオン演習を交えて包括的に学習します。\n管理者が Salesforce のご利用を開始される前、または業務を引き継がれるタイミングでのご受講が効果的です。\n \n[前編]では、Salesforce 導入にあたって重要な要素となる情報共有セキュリティやカスタマイズ等の機能を学習します。本コースと「 Salesforce 管理Ⅰ [後編] 」コースを合わせて受講することで、重要な基本機能を包括的に学習することができます。学習効果を最大限に高めるためには、本コースのご受講後に [後編] を受講されることを強くお勧めします。\n\n※本コースは Salesforce Classic 環境のユーザインターフェースを利用します。Lightning Experience 環境をご利用の方は「、 Salesforce 管理 I [前編] 」コース（ADX201-1）をご受講ください。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "ADM201-1",
   "audience" : "<ul><li>Salesforce Classic 環境のユーザインターフェースで Salesforce アプリケーションの設定、構成、保守をご担当される方（新任のシステム管理者、およびパワーユーザ、セールスオペレーション担当者、IT マネージャー等のエンドユーザ） </li><li>認定アドミニストレーター」資格の取得を目指している方 【受講前提条件】 どなたでもご受講が可能です。 ※ご受講前に CRM の基本知識、および Salesforce の概要を学びたい方は、Trailhead（無料オンライン学習リソース）の「Salesforce Classic の CRM」のモジュールで学習されることをお勧めします（必須ではありません）。</li></ul>"
 }, {
@@ -360,6 +373,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "Salesforce Classic 環境のユーザインターフェースをご利用の Salesforce 管理者に必須となる機能を、ハンズオン演習を交えて包括的に学習します。\n管理者が Salesforce のご利用を開始される前、または業務を引き継がれるタイミングでのご受講が効果的です。\n\n[後編]では、Salesforce 導入にあたって重要な要素となるレポートやワークフローの機能を学習します。本コースと、「 Salesforce 管理Ⅰ[前編]」コースを合わせて受講することで、重要な基本機能を包括的に学習することができます。学習効果を最大限に高めるためには、本コースのご受講前に [前編] を受講されることを強くお勧めします。\n\n※本コースは Salesforce Classic 環境のユーザインターフェースを利用します。Lightning Experience 環境をご利用の方は、「Salesforce 管理 I [後編] 」コース（ADX201-2）をご受講ください。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "ADM201-2",
   "audience" : "• Salesforce Classic 環境のユーザインターフェースで Salesforce アプリケーションの設定、構成、保守をご担当される方（新任のシステム管理者、およびパワーユーザ、\nセールスオペレーション担当者、IT マネージャー等のエンドユーザ）\n•「認定アドミニストレーター」資格の取得を目指している方\n\n\n【受講前提条件】\n「Salesforce 管理Ⅰ [前編]」コースの修了、または同等の知識があること"
 }, {
@@ -386,6 +400,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "<p>Umfassender Überblick mit vielen praktischen Übungen. Grundlagen der Administration für neue Administratoren ist das Herzstück Ihrer Ausbildung für die erfolgreiche Administration Ihrer Salesforce-Anwendung. Ein “Muss” für neue Administratoren. Wir empfehlen diesen Kurs im Vorfeld Ihrer operativen Verantwortung für Salesforce zu absolvieren.</p>",
   "courseLanguage" : "German",
+  "courseCountry" : null,
   "courseCode" : "ADM201",
   "audience" : "<p>Grundlagen der Administration für neue Administratoren ist gedacht für: </p><ul><li>Neue Systemadministratoren, die für die Einrichtung, Konfiguration und Pflege der Salesforce-Anwendungen ihres Unternehmens verantwortlich sind </li><li>Andere Gruppen, die ihrer Salesforce-Kenntnisse vertiefen möchten, darunter Power User, Mitarbeiter in der Vertriebssteuerung und IT Manager. </li></ul><p><br></p><p>Sie können diesen Kurs als Präsenzkurs oder in einem virtuellen Klassenraum absolvieren. Der virtuelle Klassenraum spart den Teilnehmern Reisekosten. In beiden Fällen beinhaltet der Kurs praktische Übungen und individuelle Betreuung durch den Kursleiter sowie die Interaktion mit anderen Teilnehmern. Wenn Sie virtuell am Kurs teilnehmen möchten, benötigen Sie lediglich einen Webbrowser und ein Telefon, um dem Unterricht folgen zu können und praktische Erfahrung mit der Anwendung zu sammeln.</p>"
 }, {
@@ -412,6 +427,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "<p>Approfondie et interactive, L’essentiel de l’administration pour les nouveaux administrateurs avec l’expérience Lightning est une formation complète et pratique qui garantira votre réussite avec Salesforce Lightning. Elle est indispensable pour les nouveaux administrateurs et nous recommandons de suivre cette formation avant de déployer Salesforce ou au moment de reprendre un déploiement existant.</p>",
   "courseLanguage" : "French",
+  "courseCountry" : null,
   "courseCode" : "ADX201",
   "audience" : "<p>Le cours L’essentiel de l’administration pour les nouveaux administrateurs avec l’expérience Lightning s’adresse: </p><ul><li>aux nouveaux administrateurs systèmes chargés de l’installation, de la configuration et de la maintenance des applications Salesforce dans leur entreprise </li><li>à d’autres employés qui souhaitent approfondir leur connaissance de Salesforce, comme les utilisateurs expérimentés, le personnel des opérations de ventes et les responsables informatiques</li></ul>"
 }, {
@@ -438,6 +454,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "<p>Umfassender Überblick mit vielen praktischen Übungen. Grundlagen der Administration für neue Administratoren mit Lightning Experience ist das Herzstück Ihrer Ausbildung für die erfolgreiche Administration Ihrer Salesforce-Anwendung mit Lightning Experience. Ein “Muss” für neue Administratoren. Wir empfehlen diesen Kurs im Vorfeld Ihrer operativen Verantwortung für Salesforce zu absolvieren.</p>",
   "courseLanguage" : "German",
+  "courseCountry" : null,
   "courseCode" : "ADX201",
   "audience" : "<p>Grundlagen der Administration für neue Administratoren mit Lightning Experience ist gedacht für: </p><ul><li>Neue Systemadministratoren, die für die Einrichtung, Konfiguration und Pflege der Salesforce-Anwendungen ihres Unternehmens verantwortlich sind </li><li>Andere Gruppen, die ihre Kenntnisse mit Lightning Experience vertiefen möchten, z.B. Power User, Mitarbeiter in der Vertriebssteuerung und IT Manager.</li></ul>"
 }, {
@@ -464,6 +481,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "Extensive and interactive, Administrative Essentials for New Admins in Lightning Experience is the core training that ensures your success with Salesforce Lightning. It’s a must for new administrators, and we recommend completing this course before starting a Salesforce deployment or when taking over an existing deployment.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "ADX201",
   "audience" : "New system administrators responsible for the setup, configuration, and maintenance of their organization’s Salesforce applications. Other groups that would benefit from deepening their knowledge of Salesforce Lightning Experience, including power users, sales operations, and IT managers."
 }, {
@@ -490,6 +508,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "Lightning コンポーネントフレームワークを使用した、レスポンシブなアプリケーションの開発スキルを学習します。Lightning コンポーネントの作成とモバイル・デスクトップ環境への追加、組織内のデータに安全にアクセスできるコンポーネントの構築、標準イベントとカスタムイベントを使用したインタラクティブ化、ベストプラクティスを活用した保守・再利用しやすいコードの記述方法などを学習します。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "DEX460",
   "audience" : "• Lightning コンポーネントの作成について学習したい方\n\n\n【受講前提条件】\n• Salesforce の基本概念を十分に理解していること \n• 1 年間以上の Java プログラミング経験（または他のオブジェクト指向プログラミング言語経験）があること\n• 基本的な HTML を記述できること \n• JavaScript の概念と用語を理解できること"
 }, {
@@ -516,6 +535,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "If you are an Apex programmer who wants to develop responsive applications using Aura Components, this course will give you hands-on experience building a single-page application. You will build a Lightning application and Aura components that have the Salesforce look and feel and can securely access, display, and manipulate data in your org. You will also use standard and custom events to make your application interactive. You will employ best practices to build maintainable and reusable code, including nested components and JavaScript helper functions.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "DEX460",
   "audience" : "<p>This course is designed for people who have intermediate-level knowledge of JavaScript, familiarity with HTML5 / CSS3 concepts, and a basic understanding of the Salesforce platform.</p>"
 }, {
@@ -542,6 +562,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "If you are an Apex programmer who wants to develop responsive applications using Aura Components, this course will give you hands-on experience building a single-page application. You will build a Lightning application and Aura components that have the Salesforce look and feel and can securely access, display, and manipulate data in your org. You will also use standard and custom events to make your application interactive. You will employ best practices to build maintainable and reusable code, including nested components and JavaScript helper functions.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "DEX460",
   "audience" : "<p>N/A</p>"
 }, {
@@ -568,6 +589,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "Salesforce B2B Commerce ストアフロント/サイトの運営管理に必要な機能について、ハンズオン演習を交えながら体感的に学習します。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "B2B101",
   "audience" : "• Salesforce B2B Commerce の導入・管理を行う方（マーチャントなどの実装プロジェクトに参加される方） \n\n\n【受講前提条件】\n• どなたでもご受講が可能です。（6ヶ月間以上の Salesforce の管理経験、または「Salesforce 管理Ⅰ[前編][後編]コース修了レベルの知識があることを推奨しますが、必須ではありません。）"
 }, {
@@ -594,6 +616,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "B2B Commerce (formerly CloudCraze) Foundational Training is a 2.5-day expert-led course designed to provide an orientation of the B2B Commerce components. This course provides hands-on experience to set up and configure the essential elements required to manage a site/storefront.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "B2B101",
   "audience" : "The audience for B2B Commerce Foundational Training is any individual who will participate in a new B2B Commerce implementation project or provide functional maintenance in a support or administrative role. Beginning Administrator; Experienced Administrator; Beginning Developer; Experienced Developer; Business Analyst/ Solution Architect"
 }, {
@@ -620,6 +643,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "B2B Commerce (formerly CloudCraze) Foundational Training is a 2.5-day expert-led course designed to provide an orientation of the B2B Commerce components. This course provides hands-on experience to set up and configure the essential elements required to manage a site/storefront.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "B2B101",
   "audience" : "The audience for B2B Commerce Foundational Training is any individual who will participate in a new B2B Commerce implementation project or provide functional maintenance in a support or administrative role."
 }, {
@@ -646,6 +670,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "<p>B2B Commerce (formerly CloudCraze) Technical Training is a 4-day expert-led course that includes the foundational course (B2B-101) plus added technical topics. It is designed to provide an orientation of the B2B Commerce components as well as hands-on exploration of the platform across architectural, functional, and technical topics.</p>",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "B2B201",
   "audience" : "<p>The audience for B2B Commerce Technical Training is any individual who will participate in a new implementation who needs working knowledge and experience with B2B Commerce technical components. Attendees should have intermediate skills in: </p><ul><li>Object Oriented Programming (Apex or Java) </li><li>Full-Stack Development (VisualForce, JavaScript, CSS and REST APIs, JSON, Handlebars, and jQuery) </li><li>Salesforce Administration (Sharing Rules, Process Builder, and Object Relationships)</li></ul>"
 }, {
@@ -672,6 +697,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "<p>B2B Commerce (formerly CloudCraze) Technical Training is a 4-day expert-led course that includes the foundational course (B2B-101) plus added technical topics. It is designed to provide an orientation of the B2B Commerce components as well as hands-on exploration of the platform across architectural, functional, and technical topics.</p>",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "B2B201",
   "audience" : "<p>The audience for B2B Commerce Technical Training is any individual who will participate in a new implementation who needs working knowledge and experience with B2B Commerce technical components. Attendees should have intermediate skills in: </p><ul><li>Object Oriented Programming (Apex or Java) </li><li>Full-Stack Development (VisualForce, JavaScript, CSS and REST APIs, JSON, Handlebars, and jQuery) </li><li>Salesforce Administration (Sharing Rules, Process Builder, and Object Relationships)</li></ul>"
 }, {
@@ -698,6 +724,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "Salesforce B2B Commerce ストアフロント/サイトの開発やカスタマイズに必要な機能とスキルについて、ハンズオン演習を交えながら体感的に学習します。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "B2B201",
   "audience" : "• Salesforce B2B Commerce の開発・実装プロジェクトに参加される方\n\n【受講前提条件】\n• Salesforce の特徴や機能を十分に理解していること\n • Visualforce および Apex の基本的な概念や用語を理解していること\n • 「Salesforce B2B Commerce 管理」コースの修了、または同等の知識があること \n\n※以下のような経験があることも推奨しますが、必須ではありません。 \n• オブジェクト指向プログラミング(Java、Apex など)の実装経験 \n• Web アプリケーションの開発(JavaScript、CSS、REST API、Visualforce など) の経験\n • Salesforce の管理(主に共有ルール、プロセスビルダー、オブジェクト管理)の経験"
 }, {
@@ -724,6 +751,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Ready to start building in Einstein Analytics? In this course, you’ll find out how to design and create an effective dashboard layout to help viewers quickly find their way around. You’ll learn how to build lenses and add them into your dashboards using the Einstein Analytics Dashboard Designer. Once you’ve created a dashboard, you’ll also learn how to optimize the dashboard for mobile. Finally you’ll also learn how to organize your lenses and dashboards using apps and ensure that only the right users have access to them.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "ANC201",
   "audience" : "This course is aimed at users with the Einstein Analytics license who need to build effective lenses and dashboards for their business users to explore their data. It may also be of interest to users who are connecting and integrating this data, to understand how it is used in the lens and dashboard building process."
 }, {
@@ -750,6 +778,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "Ready to start building in Einstein Analytics? In this course, you’ll find out how to design and create an effective dashboard layout to help viewers quickly find their way around. You’ll learn how to build lenses and add them into your dashboards using the Einstein Analytics Dashboard Designer. Once you’ve created a dashboard, you’ll also learn how to optimize the dashboard for mobile. Finally you’ll also learn how to organize your lenses and dashboards using apps and ensure that only the right users have access to them.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "ANC201",
   "audience" : "This course is aimed at users with the Einstein Analytics license who need to build effective lenses and dashboards for their business users to explore their data. It may also be of interest to users who are connecting and integrating this data, to understand how it is used in the lens and dashboard building process."
 }, {
@@ -776,6 +805,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "Einstein Analytics を使用した効果的なダッシュボードの構築と、アクセス設定の方法を学習します。アクセス管理の基本となるアプリケーションの設定方法とダッシュボード内の各種ウィジェットの構成方法、ウィジェットのファセット化による動的なダッシュボードや、モバイル向けダッシュボードなど、より効果的なダッシュボードを作成することによって、ビジネスユーザは素早くデータを探索することが可能になり、新たな知見を得ることができるようになります。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "ANC201",
   "audience" : "• Einstein Analytics で効果的なレンズやダッシュボードを構築してビジネスユーザのデータ探索を推進する方\n• ユーザやアプリケーションの設定からダッシュボード作成までの基本的なプロセスを理解したい方\n\n\n【受講前提条件】\n「 Einstein Analytics 1: データ探索編」コースの修了、または同等の知識があること"
 }, {
@@ -802,6 +832,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Sind Sie bereit für den nächsten Schritt auf Ihrer Karriereleiter, indem Sie ein zertifizierter Salesforce-Administrator werden? Anhand von Details zu den Prüfungszielen unterstützt Sie dieser Kurs dabei, Ihre Kenntnisse zu Lösungsansätzen zu verbessern und Ihr Wissen zu wichtigen Themen zu vertiefen. Kursleiter präsentieren verschiedene Administrations- und Konfigurationsszenarien, die sich auf die Prüfungsziele beziehen. Mithilfe von Fragen zu diesen Szenarien können Sie sich optimal auf Ihre Prüfung vorbereiten.",
   "courseLanguage" : "German",
+  "courseCountry" : null,
   "courseCode" : "CRT101",
   "audience" : "<p>Der Kurs Vorbereitung für die Zertifizierung zum Salesforce Administrator ist für erfahrene Salesforce-Administratoren gedacht, die sich als SalesforceAdministrator zertifizieren lassen möchten.</p>"
 }, {
@@ -828,6 +859,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "「認定アドミニストレーター」試験に備えてポイントを学習するコースです。\n「Salesforce 管理Ⅰ[前編] [後編]」コースの内容を復習して、試験に必要な知識を確認し、サンプル問題を解いて学習のポイントをおさえることで、理解度を確認します。\nコースには含まれていなかったトピックについても触れ、テキスト、配布資料、オンラインヘルプなどを使って、出題範囲を効果的に学習することで、合格に必要な知識を補うことができます。\n本コース受講後にご自身でポイントを整理して復習し、理解を深めてから試験を受験することを強くお勧めします。\n\n※通常、本コースには試験は含まれておりません。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "CRT101",
   "audience" : "•「認定アドミニストレーター」試験の合格を目指している方\n\n\n【受講前提条件】\n•「Salesforce 管理Ⅰ[前編] [後編]」コースを修了、または同等の知識があること\n• 受講前に、事前課題に取り組める方"
 }, {
@@ -854,6 +886,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Êtes-vous prêt à prendre la prochaine étape dans votre carrière en devenant un Salesforce Administrator certifié? Cette formation présente les objectifs de l’examen et vous aidera à perfectionner vos compétences en résolution de problèmes et à renforcer vos connaissances en sujets clé. Les formateurs présenteront différentes scénarios en administration et configuration liés aux objectifs de l&#39;examen et les questions liées à ces scénarios vous aideront à vous préparer à votre examen.",
   "courseLanguage" : "French",
+  "courseCountry" : null,
   "courseCode" : "CRT101",
   "audience" : "La préparation à la certification Salesforce Administrator est conçue pour les administrateurs de Salesforce expérimentés qui souhaiteront obtenir la certification de Salesforce Administrator."
 }, {
@@ -880,6 +913,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "Are you ready to take the next step in your career by becoming a Salesforce\nCertified Administrator? By covering the details around the exam objectives,\nthis course will help hone your problem-solving skills and reinforce your\nknowledge of key topics. Instructors will present different administration and\nconfiguration scenarios tied to the exam objectives. Questions related to\nthese scenarios will help prepare you to help prepare you for your exam.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "CRT101",
   "audience" : "Certification Preparation for Administrator is designed for experienced\nSalesforce administrators who are planning to take the Salesforce\nAdministrator Certification."
 }, {
@@ -906,6 +940,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "Are you ready to be recognized for your mastery of Salesforce administration by becoming a Salesforce Certified Advanced Administrator? By covering the details around the exam objectives, this course will help hone your knowledge of of next-level techniques to administer and manage Salesforce’s CRM capabilities through guided scenarios, lecture, and discussion.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "CRT211",
   "audience" : "This course is ideal for any administrator with an interest in furthering the development of their Salesforce CRM administration, Sales and Service Cloud management, and process automation skills, and who ultimately wants to succeed at the Salesforce Certified Advanced Administrator exam"
 }, {
@@ -932,6 +967,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "「認定上級アドミニストレーター」試験に備えてポイントを学習するコースです。このコースでは、ガイド付きシナリオ、講義、サンプル問題を通して試験の目的を詳細に確認することにより、SalesforceのCRM機能を管理する高度な手法についての知識をさらに増やすことができます。\n本コース受講後にご自身でポイントを整理して復習し、理解を深めてから試験を受験されることを強くおすすめします。\n\n※通常、本コースには試験は含まれておりません。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "CRT211",
   "audience" : "• 「認定上級アドミニストレーター」試験の合格を目指している方 \n• CRM 管理の開発、Sales Cloud および Service Cloud の管理、プロセス自動化のスキル取得の促進に関心があるシステム管理者\n\n\n\n【受講前提条件】\n• 「認定アドミニストレーター」資格があること\n• 「Salesforce 管理Ⅱ」コースの修了、または同等の知識があること \n\n※ 1年間以上の Salesforce 組織管理の実績があることも推奨します。"
 }, {
@@ -958,6 +994,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Are you ready to be recognized for your mastery of Salesforce administration by becoming a Salesforce Certified Advanced Administrator? By covering the details around the exam objectives, this course will help hone your knowledge of of next-level techniques to administer and manage Salesforce’s CRM capabilities through guided scenarios, lecture, and discussion.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "CRT211",
   "audience" : "This course is ideal for any administrator with an interest in furthering the development of their Salesforce CRM administration, Sales and Service Cloud management, and process automation skills, and who ultimately wants to succeed at the Salesforce Certified Advanced Administrator exam."
 }, {
@@ -984,6 +1021,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Sind Sie bereit, für Ihr Wissen zur Salesforce-Administration anerkannt zu werden, indem Sie ein zertifizierter Salesforce Advanced Administrator werden? Anhand von Details zu den Prüfungszielen unterstützt Sie dieser Kurs dabei, Ihre Kenntnisse zu fortgeschrittenen Methoden zu vervollständigen, um Salesforce CRM Funktionalitäten anhand von Szenarien und Diskussionen zu verwalten.",
   "courseLanguage" : "German",
+  "courseCountry" : null,
   "courseCode" : "CRT211",
   "audience" : "<p>Dieser Kurs ist ideal für alle Administratoren, die Interesse haben Ihr Wissen hinsichtlich der Salesforce CRM Administration, Sales und Service Cloud Verwaltung, und Ihre Fähigkeiten zur Prozessautomatisierung auszubauen. Und für alle diejenigen, die die Zertifizierung zum fortgeschrittenen Salesforce- Administrator anstreben möchten.</p>"
 }, {
@@ -1010,6 +1048,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "Are you ready to take the next step in your career by becoming a Salesforce Certified Community Cloud Consultant? You will be presented with scenarios to help reinforce your knowledge of Community Cloud functionality, challenging you to think through requirements and design considerations. The course provides an overview of the exam objectives to help you focus your efforts to prepare for the Salesforce Community Cloud Consultant Certification exam.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "CRT271",
   "audience" : "Certification Preparation for Community Cloud Consultants is designed for experienced administrators who are responsible for setting up, configuring, and managing Salesforce Communities in their organization. As a Salesforce administrator, you should have a solid understanding of Salesforce functionality and concepts."
 }, {
@@ -1036,6 +1075,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "「認定 Community Cloud コンサルタント」試験に備えてポイントを学習するコースです。「Community Cloud 管理」コースで学習した機能を復習して試験に必要な知識を確認し、コースに含まれていない出題範囲のトピックについても学習することで知識を補います。サンプル問題を解くことで自分の理解度を把握し、学習のポイントを確認できます。\n本コース受講後にご自身でポイントを整理して復習し、理解を深めてから試験を受験することを強くお勧めします。\n\n※通常、本コースには試験は含まれておりません。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "CRT271",
   "audience" : "• 「認定 Community Cloud コンサルタント」試験の合格を目指している方\n\n\n【受講前提条件】\n• 「認定アドミニストレーター」資格があること\n•「Community Cloud 管理」コースを修了、または同等の知識があること"
 }, {
@@ -1062,6 +1102,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Are you ready to take the next step in your career by becoming a Salesforce Certified Community Cloud Consultant? You will be presented with scenarios to help reinforce your knowledge of Community Cloud functionality, challenging you to think through requirements and design considerations. The course provides an overview of the exam objectives to help you focus your efforts to prepare for the Salesforce Community Cloud Consultant Certification exam.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "CRT271",
   "audience" : "Certification Preparation for Community Cloud Consultants is designed for experienced administrators who are responsible for setting up, configuring, and managing Salesforce Communities in their organization. As a Salesforce administrator, you should have a solid understanding of Salesforce functionality and concepts."
 }, {
@@ -1088,6 +1129,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "Are you ready to take the next step in your career by becoming a Salesforce Certified Community Cloud Consultant? You will be presented with scenarios to help reinforce your knowledge of Community Cloud functionality, challenging you to think through requirements and design considerations. The course provides an overview of the exam objectives to help you focus your efforts to prepare for the Salesforce Community Cloud Consultant Certification exam.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "CRT271",
   "audience" : "Certification Preparation for Community Cloud Consultants is designed for experienced administrators who are responsible for setting up, configuring, and managing Salesforce Communities in their organization. As a Salesforce administrator, you should have a solid understanding of Salesforce functionality and concepts."
 }, {
@@ -1114,6 +1156,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "「認定 Platform アプリケーションビルダー」試験に備え、試験範囲に含まれる\n重要な概念や機能を学習するコースです。 「Salesforce Platform アプリケーションビルダー 基礎」コースの内容を復習して基礎を固め、コース内では解説していない試験範囲の概要にも理解を広げることでスコアアップを目指します。また、サンプル問題を解いて自分の理解度を把握します。\n本コース受講後にご自身でポイントを整理して復習し、理解を深めてから試験を受験することを強くお勧めします。\n\n※通常、本コースには試験は含まれておりません。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "CRT402",
   "audience" : "• 「認定 Platform アプリケーションビルダー」試験の合格を目指している方\n\n\n【受講前提条件】\n• 「Salesforce Platform アプリケーションビルダー 基礎 」コースを修了、または同等の知識があること\n• 「認定 Platform アプリケーションビルダー」受験ガイドを確認し、試験範囲を理解していること"
 }, {
@@ -1140,6 +1183,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "Are you ready to take the next step in your career by becoming a Salesforce Certified Platform App Builder? By covering the details around the exam objectives, this course will help hone your knowledge of Salesforce application lifecycle management and the declarative and programmatic solutions available to you through guided scenarios, lecture, and discussion.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "CRT402",
   "audience" : "Certification Preparation for Platform App Builder is ideal for administrators, system integrators, and independent software vendors (ISVs) with an interest in sharpening the development, deployment, and administrative skills required to succeed in becoming a Salesforce Certified Platform App Builder."
 }, {
@@ -1166,6 +1210,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "Are you ready to take the next step in your career by becoming a Salesforce Certified Platform App Builder? By covering the details around the exam objectives, this course will help hone your knowledge of Salesforce application lifecycle management and the declarative and programmatic solutions available to you through guided scenarios, lecture, and discussion.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "CPQ211",
   "audience" : "Certification Preparation for Platform App Builder is ideal for administrators, system integrators, and independent software vendors (ISVs) with an interest in sharpening the development, deployment, and administrative skills required to succeed in becoming a Salesforce Certified Platform App Builder."
 }, {
@@ -1192,6 +1237,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Are you ready to take the next step in your career by becoming a Salesforce Certified Platform App Builder? By covering the details around the exam objectives, this course will help hone your knowledge of Salesforce application lifecycle management and the declarative and programmatic solutions available to you through guided scenarios, lecture, and discussion.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "CRT402",
   "audience" : "Certification Preparation for Platform App Builder is ideal for administrators, system integrators, and independent software vendors (ISVs) with an interest in sharpening the development, deployment, and administrative skills required to succeed in becoming a Salesforce Certified Platform App Builder"
 }, {
@@ -1218,6 +1264,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "「認定 Platform デベロッパー」試験に備え、試験範囲に含まれる重要な概念や機能を学習するコースです。「Salesforce Platform 開発者: Apex と Visualforce [前編][後編]」コースの内容を復習して知識を固め、コースでは解説していない試験範囲の概要にも理解を広げることでスコアアップを目指します。\n本コース受講後にご自身でポイントを整理して復習し、理解を深めてから試験を受験することを強くお勧めします。\n\n※通常、本コースには試験は含まれておりません。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "CRT450",
   "audience" : "•「 認定 Platform デベロッパー」試験の合格を目指している方\n\n\n【受講前提条件】\n•「Salesforce Platform 開発者: Apex と Visualforce [前編][後編]」コースを修了、\nまたは同等の知識があること\n• 「認定 Platform デベロッパー」受験ガイドを確認し、試験範囲を理解していること"
 }, {
@@ -1244,6 +1291,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "Are you ready to take the next step in your career by becoming a Salesforce Certified Platform Developer 1?\n\n By covering the details around the exam objectives, this course will help hone your problem-solving skills and reinforce your knowledge of key topics. A mock exam at the end of the course will help you assess your readiness.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "CRT450",
   "audience" : "This course is intended for an individual who has experience developing and deploying basic business logic and user interfaces using the programmatic capabilities of the Salesforce platform, including practical application of the skills and concepts noted in the exam objectives below."
 }, {
@@ -1270,6 +1318,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Are you ready to take the next step in your career by becoming a Salesforce Certified Platform Developer 1? By covering the details around the exam objectives, this course will help hone your problem-solving skills and reinforce your knowledge of key topics. A mock exam at the end of the course will help you assess your readiness.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "CRT450",
   "audience" : "This course is intended for an individual who has experience developing and deploying basic business logic and user interfaces using the programmatic capabilities of the Salesforce platform, including practical application of the skills and concepts noted in the exam objectives below."
 }, {
@@ -1296,6 +1345,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "Are you ready to take the next step in your career by becoming a Salesforce.com Certified Sales Cloud Consultant? Instructors will present scenarios that will help reinforce your knowledge of Sales Cloud functionality by thinking through requirements design considerations. The course provides an overview of the exam objectives to help you focus your efforts to prepare for the Salesforce.com Sales Cloud Consultant Certification exam.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "CRT251",
   "audience" : "<p>Preparing for Your Salesforce Sales Cloud Consultant Certification is designed for individuals who have experience designing Sales Cloud solutions and are preparing to take the Salesforce Sales Cloud Consultant Certification exam.</p><p><br></p><p>You should have the following experience before attending this class:</p><ul><li>Attainment of the Salesforce Administrator Certification</li><li>Knowledge of the topics discussed in the Sales Cloud Consultant Certification Study Guide</li><li>Experience implementing Sales Cloud and designing Sales Cloud solutions</li></ul>"
 }, {
@@ -1322,6 +1372,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "「認定 Sales Cloud コンサルタント」試験に備えてポイントを学習するコースです。\n資格取得に必要な知識を確認し、配布資料やオンラインヘルプなどを使用して、出題範囲を効果的に学習しながら知識を補います。サンプル問題を解くことで自分の理解度を把握し、学習のポイントをおさえます。\n本コース受講後にご自身でポイントを整理して復習し、理解を深めてから受験することを強くお勧めします。\n\n※通常、本コースには試験は含まれておりません。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "CRT251",
   "audience" : "「認定 Sales Cloud コンサルタント」試験の合格を目指している方\n\n\n【受講前提条件】\n• 「認定アドミニストレーター」資格があること\n•「Sales Cloud 管理アドバンス」コースを修了、または同等の知識があること"
 }, {
@@ -1348,6 +1399,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Êtes-vous prêt à prendre la prochaine étape dans votre carrière en devenant un consultant certifié Salesforce Sales Cloud ? Les formateurs vont présenter les scénarios qui vous aideront à renforcer vos connaissances des fonctionnalités Sales Cloud en réfléchissant aux considérations des besoins en conception. Cette formation présente les objectifs de l’examen pour vous aider à concentrer vos efforts sur la préparation de l’examen de certification Consultant Salesforce Sales Cloud.",
   "courseLanguage" : "French",
+  "courseCountry" : null,
   "courseCode" : "CRT251",
   "audience" : "<p>La préparation à la certification Consultant Salesforce Sales Cloud est conçue pour les personnes expérimentées dans la conception de solutions Sales Cloud et qui préparent l’examen de certification Consultant Salesforce Sales Cloud. Afin de pouvoir suivre cette formation vous devez : </p><ul><li>Avoir réussi la certification Administrateur Salesforce </li><li>Connaître les sujets traités dans le guide d’étude de la certification Consultant Sales Cloud </li><li>Avoir de l’expérience dans l’implémentation de Sales Cloud et la conception de solutions Sales Cloud</li></ul>"
 }, {
@@ -1374,6 +1426,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Sind Sie bereit für den nächsten Schritt auf Ihrer Karriereleiter, indem Sie ein zertifizierter Salesforce Sales Cloud-Consultant werden? Anhand von Szenarien vertiefen Sie Ihr Wissen zur Sales Cloud-Funktionalität und spielen Anforderungen und Designaspekte durch. Der Kurs bietet einen Überblick über die Prüfungsziele und unterstützt Sie dadurch bei Ihren Vorbereitungen auf die Zertifizierung zum Salesforce Sales Cloud-Consultant.",
   "courseLanguage" : "German",
+  "courseCountry" : null,
   "courseCode" : "CRT251",
   "audience" : "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(62, 62, 60);\">Dieser Kurs ist ideal </span>für Personen gedacht, die über Erfahrung beim Entwerfen von Sales Cloud-Lösungen verfügen und sich auf die Prüfung zur Zertifizierung als Salesforce Sales Cloud-Consultant vorbereiten. Vor dem Besuch dieses Kurses sollten Sie über die folgenden Erfahrungen verfügen: </p><ul><li>Erfolgreiche Zertifizierung zum Salesforce-Administrator </li><li>Kenntnisse über die Themen aus dem Study Guide zur Zertifizierung zum Salesforce Sales Cloud-Consultant </li><li>Erfahrung bei der Implementierung der Sales Cloud und dem Entwerfen von Sales Cloud-Lösungen</li></ul>"
 }, {
@@ -1400,6 +1453,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "「認定 Service Cloud コンサルタント」試験に備えてポイントを学習するコースです。\n資格取得に必要な知識を確認し、サンプル問題を解きながら自分の理解度を把握して学習のポイントをおさえます。配布資料、オンラインヘルプなどを使い、出題範囲を効果的に学習することで必要な知識を補うことができます。\n本コース受講後にご自身でポイントを整理して復習し、理解を深めてから受験することを強くお勧めします。\n\n※通常、本コースには試験は含まれておりません。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "CRT261",
   "audience" : "• 「認定 Service Cloud コンサルタント」試験の合格を目指している方\n\n\n【受講前提条件】\n• 「認定アドミニストレーター」資格があること\n•「Service Cloud 管理」コースを修了、または同等の知識があること"
 }, {
@@ -1426,6 +1480,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Êtes-vous prêt à prendre la prochaine étape dans votre carrière en devenant un consultant certifié Salesforce.com (http://salesforce.com/) Service Cloud? Les formateurs vont présenter les scénarios qui vous aideront à renforcer vos connaissances des fonctionnalités Service Cloud en réfléchissant aux considérations en besoin et conception. Cette formation présente les objectifs de l’examen pour vous aider à concentrer vos efforts sur la préparation de l’examen de certification Consultant Salesforce Service Cloud.",
   "courseLanguage" : "French",
+  "courseCountry" : null,
   "courseCode" : "CRT261",
   "audience" : "<p>La préparation à la certification consultant Salesforce Service Cloud est conçue pour les personnes expérimentées dans la conception de solutions Service Cloud et qui préparent l’examen de certification Consultant Salesforce Service Cloud. Afin de pouvoir suivre cette formation vous devez:</p><ul><li>Avoir réussi la certification et maintenir la certification Administrateur Salesforce</li><li>Connaître les sujets traités dans le guide d’étude de la certification Consultant Service Cloud</li><li>Avoir de l”expérience dans l’implémentation de Service Cloud et la conception de solutions Service Cloud</li></ul>"
 }, {
@@ -1452,6 +1507,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Sind Sie bereit für den nächsten Schritt auf Ihrer Karriereleiter, indem Sie ein zertifizierter Salesforce Service Cloud-Consultant werden? Anhand von Szenarien vertiefen Sie Ihr Wissen zur Sales Cloud-Funktionalität und spielen Anforderungen und Designaspekte durch. Der Kurs bietet einen Überblick über die Prüfungsziele und unterstützt Sie dadurch bei Ihren Vorbereitungen auf die Zertifizierung zum Salesforce Service Cloud-Consultant.",
   "courseLanguage" : "German",
+  "courseCountry" : null,
   "courseCode" : "CRT261",
   "audience" : "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(62, 62, 60);\">Dieser Kurs ist ideal für </span>Personen gedacht, die über Erfahrung beim Entwerfen von Service Cloud-Lösungen verfügen und sich auf die Prüfung zur Zertifizierung als Salesforce Service Cloud-Consultant vorbereiten. Vor dem Besuch dieses Kurses sollten Sie über die folgenden Erfahrungen verfügen: </p><ul><li>Erfolgreiche Zertifizierung zum Salesforce-Administrator </li><li>Kenntnisse zu den Themen, die im Kurs zur Zertifizierung zum Salesforce Service Cloud-Consultant behandelt werden </li><li>Erfahrung bei der Implementierung der Service Cloud und dem Entwerfen von Service Cloud-Lösungen</li></ul>"
 }, {
@@ -1478,6 +1534,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "Are you ready to take the next step in your career by becoming a Salesforce Certified Service Cloud Consultant? Instructors will present scenarios that will help reinforce your knowledge of Service Cloud functionality by thinking through requirements and design considerations. The course provides an overview of the exam objectives to help you focus your efforts to prepare for the Salesforce Service Cloud Consultant Certification exam.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "CRT261",
   "audience" : "<p>Preparing for Your Salesforce Service Cloud Consultant Certification is designed for individuals who have experience designing Service Cloud solutions and are preparing to take the Salesforce Service Cloud Consultant Certification exam.</p><p><br></p><p>You should have the following experience before attending this class:</p><ul><li>Attainment and maintenance of the Salesforce Administrator Certification</li><li>Knowledge of the topics discussed in the Service Cloud Consultant Certification Study Guide</li><li>Experience implementing Service Cloud and designing Service Cloud solutions</li></ul>"
 }, {
@@ -1504,6 +1561,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "The Content Builder Essentials for the Digital Marketer course provides you the basics for getting started with the Salesforce Marketing Cloud Email Application. In this interactive course, email marketers will gain hands-on experience creating relevant emails based on subscriber data and learn how to use enhanced functionality in Email Studio to test and send emails.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "EML101",
   "audience" : "This course is designed for digital Marketers whose sole responsibility is the creation of emails, and for those who want to learn the capabilities of Content Builder and features of Email Studio. No prior knowledge of the Marketing Cloud is needed."
 }, {
@@ -1530,6 +1588,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "The Content Builder Essentials for the Digital Marketer course provides you the basics for getting started with the Salesforce Marketing Cloud Email Application. In this interactive course, email marketers will gain hands-on experience creating relevant emails based on subscriber data and learn how to use enhanced functionality in Email Studio to test and send emails.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "EML101",
   "audience" : "This course is designed for digital Marketers whose sole responsibility is the creation of emails, and for those who want to learn the capabilities of Content Builder and features of Email Studio. No prior knowledge of the Marketing Cloud is needed."
 }, {
@@ -1556,6 +1615,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "Salesforce Platform 開発におけるファーストステップのコースです。迅速にアプリケーションを開発するために Salesforce Platform の宣言的機能（マウス操作による開発機能）の活用方法を、ハンズオン演習を通じて学習します。工数を大幅に削減できるノンプログラミングの開発者を養成します。\n\n※本コースは Lightning Experience 環境のユーザインターフェースを利用します。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "DEX402",
   "audience" : "• 初めてSalesforceの機能を学習される方\n• Salesforce Platform の宣言的機能を学習したい開発者\n• Salesforce Platform のプログラミングやインテグレーション機能の前提知識を学習したい技術者\n• 「認定 Platform アプリケーションビルダー」資格の取得を目指す方\n\n※標準アプリケーションの管理やカスタマイズも学習したい方は、本コースではなく「Salesforce 管理Ⅰ[前編][後編]」コース（修了済みの方は受講不要）をご受講後に、「Salesforce Platform アプリケーションビルダー基礎差分」コースのご受講されることをお勧めします。\n\n\n【受講前提条件】\n• アプリケーション開発の経験があること\n•「Salesforce 管理Ⅰ[前編][後編]」コースの修了、および同等の知識があること（Salesforce のカスタマイズ、システム管理および Lightning Experience 操作に関する知識があること）\n\n※いち早く Salesforce の操作に慣れていただくためには、事前に Trailhead と開発者コミュニティをご覧になることをお勧めします。\n\n Trailhead\n https://trailhead.salesforce.com/ja\n \n開発者コミュニティ\n http://developer.salesforce.com/ja/"
 }, {
@@ -1582,6 +1642,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Etes-vous prêts à aller plus loin que l’administration Salesforce pour déverrouiller plus de fonctionnalités avec le développement déclaratif ? Durant 5 jours de cours, de scénarios guidés et de discussions vous allez découvrir un ensemble d’outils “cliquer, pas coder” proposé par Salesforce pour développer des applications et des fonctionnalités efficaces. Vous allez également approfondir vos connaissances dans le déploiement d’applications, les outils d’automatisation, la sécurité, la personnalisation de l’interface utilisateur et plus encore!",
   "courseLanguage" : "French",
+  "courseCountry" : null,
   "courseCode" : "DEX402",
   "audience" : "La formation Développement déclaratif pour les Platform App Builders est idéale pour les administrateurs, les intégrateurs systèmes et les éditeurs de logiciels indépendants, qui souhaitent parfaire leurs compétences dans le développement, le déploiement et l’administration avancée de leur application."
 }, {
@@ -1608,6 +1669,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "Are you ready to move beyond Salesforce administration to unlock even greater capabilities through declarative programming? Master Salesforce’s suite of click-not-code options for developing valuable apps and functionality over five days of guided scenarios, lectures, and discussion. Build your knowledge of app deployment, automation tools, security, UI customization, and more!",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "DEX402",
   "audience" : "Ideal for administrators, programmers, and point-and-click developers who want to understand the declarative development tools available on the platform."
 }, {
@@ -1634,6 +1696,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Möchten Sie über die Grundlagen der Salesforce-Administration hinausgehen und mit der deklarativen Programmierung noch leistungsfähigere Funktionen bereitstellen? Meistern Sie die Vielfalt von „click not code“ Optionen zum Entwickeln wertvoller Anwendungen und Funktionen. Dazu können Sie fünf Tage lang auf interaktive Szenarien, Vorträge und Diskussionen zugreifen. Entwickeln Sie Kenntnisse in Bereichen wie Bereitstellung von Anwendungen, Automatisierungstools, Sicherheit Benutzeroberflächenanpassung und mehr!",
   "courseLanguage" : "German",
+  "courseCountry" : null,
   "courseCode" : "DEX402",
   "audience" : "<p><span style=\"color: rgb(62, 62, 60);\">Dieser Kurs ist ideal für </span>Administratoren, Systemintegratoren und unabhängige Software-Anbieter geeignet, die ihre Kenntnisse der Anwednungs-Entwicklung und -Bereitstellung und der erweiterten SalesforceAdministration vertiefen möchten.</p>"
 }, {
@@ -1660,6 +1723,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "Heroku が提供する Web アプリ構築、スケーリング、インテグレーションの機能を、ハンズオン演習を交えて学習します。\n\nHeroku のユースケースを学習した後、Heroku ボタン（1クリック・リリース）、Heroku アドオン（Heroku Elements マーケットプレイスからのサードパーティコンポーネント）などの、Heroku の機能を使用したアプリの構築、リリース、拡張のスキルを習得します。その他にも、アプリの要求に基づいた Heroku Dyno をスケールする方法、Heroku Connect アドオンを使用した Salesforce データの Heroku Postgres への読み書き、Heroku Flow、Heroku Pipeline とレビューアプリを使用した継続的デリバリー、継続的インテグレーションを実現する方法を学習することができます。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "DEX701",
   "audience" : "• Heroku を活用したシステム提案、アプリケーション設計を学習したいプログラマー、開発者、技術者\n\n\n【受講前提条件】\n• Salesforce の特徴や機能を十分に理解していること\n• HTML、基本的な JavaScript の概念と用語を理解できること\n• リレーショナルデータベースの基本的なデータモデリングを理解していること"
 }, {
@@ -1686,6 +1750,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "In this 1-day course, you will gain hands-on experience with the Heroku features and functionality used for building, scaling, and integrating web apps. After touring the use cases of Heroku, you will learn how to build, deploy, and extend apps using Heroku features, such as Heroku Buttons (for one-click deployment) and Heroku Add-ons (third-party components from the Heroku Elements Marketplace). Next, you’ll configure an app to scale, based on demand, using Heroku dynos. Then, you will read and write Salesforce data to Heroku Postgres using the Heroku Connect add-on. The course will wrap up with instruction on how to use Heroku flow, pipelines, and review apps to implement continuous delivery and integration.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "DEX701",
   "audience" : "This course is designed for programmers and developers who have a solid understanding of Salesforce concepts and functionality, basic HTML, basic JavaScript, and basic data modeling for relational databases."
 }, {
@@ -1712,6 +1777,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "In this 1-day course, you will gain hands-on experience with the Heroku features and functionality used for building, scaling, and integrating web apps. After touring the use cases of Heroku, you will learn how to build, deploy, and extend apps using Heroku features, such as Heroku Buttons (for one-click deployment) and Heroku Add-ons (third-party components from the Heroku Elements Marketplace). \n\nNext, you’ll configure an app to scale, based on demand, using Heroku dynos. Then, you will read and write Salesforce data to Heroku Postgres using the Heroku Connect add-on. The course will wrap up with instruction on how to use Heroku flow, pipelines, and review apps to implement continuous delivery and integration.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "DEX701",
   "audience" : "This course is designed for programmers and developers who have a solid understanding of Salesforce concepts and functionality, basic HTML, basic JavaScript, and basic data modeling for relational databases."
 }, {
@@ -1738,6 +1804,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "This course introduces the core programming concepts, relevant files, and scripting language for Salesforce B2C Commerce. The course teaches developers how to customize the SiteGenesis reference application and modify a Commerce Cloud storefront.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "CCD101",
   "audience" : "<p>Developers who have: </p><ul><li>At least two years of experience with Java or JavaScript programming. </li><li>Familiarity with the jQuery library and JSON syntax.</li></ul>"
 }, {
@@ -1764,6 +1831,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "In diesem Kurs werden die wichtigsten Programmierkonzepte, relevanten Dateien und Skriptsprachen für Salesforce B2C Commerce vorgestellt. Der Kurs lehrt Entwicklern, wie Sie die SiteGenesis-Referenzanwendung anpassen und Sie einen Commerce Cloud-Online-Shop (Storefront) abändern können.",
   "courseLanguage" : "German",
+  "courseCountry" : null,
   "courseCode" : "CCD101",
   "audience" : "<p>Entwickler mit mindestens 2 Jahren Erfahrung mit Java oder JavaScriptProgrammierung und Vorkenntnissen zu jQuery Library und JSON Syntax.</p>"
 }, {
@@ -1790,6 +1858,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "Salesforce B2C Commerce プラットフォームで、サイトを開発・カスタマイズするために必要なプログラミングの主要概念、ファイル、およびスクリプティング言語について学習します。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "CCD101",
   "audience" : "• Salesforce B2C Commerce プラットフォームの機能を学習したいアプリケーション開発者\n• 「認定 Salesforce B2C Commerce デベロッパー(旧名：認定Commerce Cloud Digital デベロッパー)」資格の取得を目指す方\n\n\n【受講前提条件】\nJava、C#、JavaScript などの言語での実装経験があること"
 }, {
@@ -1816,6 +1885,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Ce cours présente les concepts de base de la programmation, les fichiers pertinents, et langage de script pour Salesforce B2C Commerce. Cette formation enseigne aux développeurs comment personnaliser l’application de référence SiteGenesis et modifier une vitrine/ boutique en ligne Commerce Cloud.",
   "courseLanguage" : "French",
+  "courseCountry" : null,
   "courseCode" : "CCD101",
   "audience" : "<p>Aux développeurs qui ont: </p><ul><li>Au moins deux ans d’expérience en programmation Java ou JavaScript. </li><li>Des connaissances en bibliothèque jQuery et syntaxe JSON.</li></ul>"
 }, {
@@ -1842,6 +1912,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "Email Essentials is designed to get you up and running on the Salesforce Marketing Cloud Email Application. In this interactive course, email marketers will gain hands-on experience creating emails, sending and tracking results, managing subscriber data, segmenting data to deliver targeted, relevant messages, and learning automation tools to automate campaigns and daily tasks.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "EEB101",
   "audience" : "This course is designed for email digital marketers who manage the email channel for their organization. No prior knowledge of the Marketing Cloud is needed."
 }, {
@@ -1868,6 +1939,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "<p>Die Schulung E-Mail Grundlagen ist für Ihren Einstieg in die E-MailAnwendung der Salesforce Marketing Cloud vorgesehen. Dieser interaktive Kurs vermittelt E-Mail-Marketern viele praktische Erfahrungen wie das Erstellen und Senden von E-Mails, das Tracking von Ergebnissen, das Verwalten von Abonnentendaten, das Segmentieren von Daten für den zielgerichteten Versand sowie das Versenden von relevanten Nachrichten. Außerdem lernen sie Automatisierungstools zum Automatisieren von Kampagnen und täglichen Aufgaben kennen.</p>",
   "courseLanguage" : "German",
+  "courseCountry" : null,
   "courseCode" : "EEB101",
   "audience" : "<p>Dieser Kurs richtet sich an Digital Marketer, die für den E-Mail-Kanal in ihrem Unternehmen zuständig sind. Es sind keine Vorkenntnisse in Bezug auf die Marketing Cloud erforderlich.</p>"
 }, {
@@ -1894,6 +1966,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "La formation L’essentiel des e-mails vous permet une prise en main sur l’application de messagerie Marketing Cloud. Grâce à cette formation interactive, les professionnels du marketing par e-mail gagneront en expérience pratique pour création d’e-mails, l’envoi et le suivi des résultats, la gestion des données des abonnés, la segmentation des données afin de créer des messages ciblés pertinents, et l’utilisation des outils d’automatisation de campagnes et des tâches quotidiennes.",
   "courseLanguage" : "French",
+  "courseCountry" : null,
   "courseCode" : "EEB101",
   "audience" : "<p>Cette formation est destinée aux professionnels du marketing numérique qui gèrent le canal de messagerie électronique pour leur organisation. Aucune connaissance préalable sur Marketing Cloud est requise.</p>"
 }, {
@@ -1920,6 +1993,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Are you looking to become proficient in designing and implementing marketing workflows in Pardot that drive your company’s business? Or do you want to become a Salesforce Certified Pardot Specialist? Whether you are an experienced user, or completely new to Pardot, this course will show you how to effectively design, build, and implement marketing workflows, as well as use Pardot-generated reports to make data-driven decisions.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "PDT101",
   "audience" : "This course is designed primarily for digital marketers looking to build and hone their marketing automation skillset using the Pardot platform. It’s also perfect for those wishing to prepare for their Pardot Specialist certification—a credential designed to prove your skills and knowledge in building strategic marketing processes while incorporating tools such as lead scoring, email marketing, lead generation, and reporting."
 }, {
@@ -1946,6 +2020,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Möchten Sie Ihre Kenntnisse zur Entwicklung und Implementierung von Marketing-Workflows in Pardot erweitern, um mehr Umsatz für Ihr Unternehmen zu generieren? Oder möchten Sie ein zertifizierter Salesforce-Pardot-Spezialist werden? Unabhängig davon, ob Sie schon Erfahrung haben oder gerade erst mit Pardot anfangen, werden Sie in diesem Kurs lernen, wie Sie effizient Workflow Regeln planen, erstellen und implementieren können. Zudem wird in dem Kurs erläutert, wie in Pardot erstellte Berichte verwendet werden, um datengesteuerte Entscheidungen zu treffen.",
   "courseLanguage" : "German",
+  "courseCountry" : null,
   "courseCode" : "PDT101",
   "audience" : "<p>Dieser Kurs richtet sich in erster Linie an Digital Marketer, die ihre Kompetenzen im Bereich der Marketingautomatisierung mit der PardotPlattform aufbauen und vertiefen möchten. Zudem ist er perfekt für Benutzer geeignet, die sich auf eine Zertifizierung zum Pardot-Spezialisten vorbereiten möchten. Diese Zertifizierung richtet sich an Personen, die ihre Fähigkeiten und Kenntnisse bei der Erstellung strategischer Marketing-Prozesse demonstrieren möchten und dazu Instrumente wie Leadbewertung, E-MailMarketing, Leadgenerierung und Berichte verwenden.</p>"
 }, {
@@ -1972,6 +2047,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "<p>Are you looking to become proficient in designing and implementing marketing workflows in Pardot that drive your company‚ business? Or do you want to become a Salesforce Certified Pardot Specialist? Whether you are an experienced user, or completely new to Pardot, this course will show you how to effectively design, build, and implement marketing workflows, as well as use Pardot-generated reports to make data-driven decisions. </p>",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "PDT101",
   "audience" : "<p>This course is designed primarily for digital marketers looking to build and hone their marketing automation skillset using the Pardot platform. It‚ also perfect for those wishing to prepare for their Pardot Specialist certification‚ credential designed to prove your skills and knowledge in building strategic marketing processes while incorporating tools such as lead scoring, email marketing, lead generation, and reporting. </p>"
 }, {
@@ -1998,6 +2074,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "Salesforce Pardot でマーケティングオートメーション（MA）を始めるにあたり必要な知識を学習します。基本的な用語と機能の解説、設定方法を、ハンズオン演習を交えて学習します。Pardot というツールを通して一般的な MA の仕組みも理解することができます。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "PDT101",
   "audience" : "• これから Pardot の利用を始めるエンドユーザ\n• 初めて Pardot を学習する導入担当者\n• 「認定 Pardot スペシャリスト」資格の取得を目指す方\n\n\n【受講前提条件】\nどなたでもご受講が可能です。\n\n※Salesforce の標準オブジェクト（取引先、取引先責任者、商談、リード）に詳しい知識をお持ちですと、Salesforce との連携についてより理解が深まります。"
 }, {
@@ -2024,6 +2101,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "Are you looking to become proficient in designing and implementing marketing workflows in Pardot Lightning App that drive your company’s business? Or do you want to become a Salesforce Certified Pardot Specialist? Whether you are an experienced user, or completely new to Pardot, this course will show you how to effectively design, build, and implement marketing workflows, as well as use Pardot-generated reports in the Pardot Lightning App to make data-driven decisions.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "PDX101",
   "audience" : "This course is designed primarily for digital marketers looking to build and hone their marketing automation skillset using the Pardot Lightning App. It’s also perfect for those wishing to prepare for their Pardot Specialist certification—a credential designed to prove your skills and knowledge in building strategic marketing processes while incorporating tools such as lead scoring, email marketing, lead generation, and reporting."
 }, {
@@ -2050,6 +2128,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Are you looking to become proficient in designing and implementing marketing workflows in Pardot Lightning App that drive your company’s business? Or do you want to become a Salesforce Certified Pardot Specialist? Whether you are an experienced user, or completely new to Pardot, this course will show you how to effectively design, build, and implement marketing workflows, as well as use Pardot-generated reports in the Pardot Lightning App to make data-driven decisions.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "PDX101",
   "audience" : "This course is designed primarily for digital marketers looking to build and hone their marketing automation skillset using the Pardot Lightning App. It’s also perfect for those wishing to prepare for their Pardot Specialist certification—a credential designed to prove your skills and knowledge in building strategic marketing processes while incorporating tools such as lead scoring, email marketing, lead generation, and reporting."
 }, {
@@ -2076,6 +2155,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "Are you looking to become proficient in designing and implementing marketing workflows in Pardot Lightning App that drive your company’s business? Or do you want to become a Salesforce Certified Pardot Specialist? Whether you are an experienced user, or completely new to Pardot, this course will show you how to effectively design, build, and implement marketing workflows, as well as use Pardot-generated reports in the Pardot Lightning App to make data-driven decisions.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "PDX101",
   "audience" : "This course is designed primarily for digital marketers looking to build and hone their marketing automation skillset using the Pardot Lightning App. It’s also perfect for those wishing to prepare for their Pardot Specialist certification—a credential designed to prove your skills and knowledge in building strategic marketing processes while incorporating tools such as lead scoring, email marketing, lead generation, and reporting."
 }, {
@@ -2102,6 +2182,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "Online communities provide a place where employees, customers, and partners can engage and collaborate. Learn how to enable communities in your organization, create communities for partner and customers, and gauge participation.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "ADX271",
   "audience" : "This class is designed for experienced administrators who are responsible for setting up, configuring, and managing Salesforce communities in their organization. As a Salesforce administrator, you should have a solid understanding of Salesforce functionality and concepts, and at least six months’ experience using Salesforce."
 }, {
@@ -2128,6 +2209,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Online Communities bieten eine Plattform für Angestelle, Kunden und Partner, um sich auszutauschen und um zu kollaborieren. Lernen Sie wie Sie Communities in Ihrer Organisation aktivieren können, Communities für Partner und Kunden anlegen, Teilnehmer zu diesen Communities hinzufügen und die Beteiligung an Ihren Communities messen können.",
   "courseLanguage" : "German",
+  "courseCountry" : null,
   "courseCode" : "ADX271",
   "audience" : "<p>Der Kurs Grundlagen zu Communities mit Lightning Experience ist für erfahrene Administratoren gedacht, die für die Gestaltung, Konfiguration und Verwaltung von Salesforce Communities in ihrer Organisation verantwortlich sind. Als Salesforce Administrator sollten Sie solide Kenntnisse der grundlegenden Salesforce-Konzepte und -Funktionlitäten, und mindestens sechs Monate Erfahrung mit Salesforce haben.</p>"
 }, {
@@ -2154,6 +2236,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Online communities provide a place where employees, customers, and partners can engage and collaborate. Learn how to enable communities in your organization, create communities for partner and customers, and gauge participation.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "ADX271",
   "audience" : "Get Started with Communities in Lightning Experience is designed for experienced administrators who are responsible for setting up, configuring, and managing Salesforce communities in their organization. As a Salesforce administrator, you should have a solid understanding of Salesforce functionality and concepts, and at least six months’ experience using Salesforce."
 }, {
@@ -2180,6 +2263,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "Salesforce コミュニティの作成やその後の管理・メンテナンスに必要なスキルを学習します。与えられたシナリオに基づいて 2 つのコミュニティを作成するハンズオン演習を通じ、オンライン上のコミュニティを通して従業員、顧客、パートナーのコラボレーションを促進するステップを習得します。\n\n※本コースは、機能や設定方法を学ぶトレーニングです。コミュニティライセンスの価格情報や Salesforce コミュニティの売り方等の内容は含みませんのでご注意ください。\n\n※本コースは Lightning Experience 環境のユーザインターフェースを利用します。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "ADX271",
   "audience" : "• Salesforce コミュニティの導入、管理を行う方\n•「認定 Community Cloud コンサルタント」資格の取得を目指している方\n\n\n【受講前提条件】\n• Salesforce の使用経験が 6 カ月間以上あるシステム管理者\nまたは\n•「Salesforce 管理Ⅰ[前編][後編]」コースの修了、および同等の知識があること"
 }, {
@@ -2206,6 +2290,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "This course is a must for anyone responsible for using analytics to drive business results in a sales organization. Implementing a Reporting Strategy for the Sales Cloud provides you with the skills and knowledge you need to gather for analytics requirements, design and build custom reports and dashboards, and deploy them to your users. Using real-world scenarios, this course gives you the tools to analyze your key sales metrics, including lead generation, pipeline and trends, closed business, and sales team performance.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "STR301",
   "audience" : "<p>Implementing a Reporting Strategy for the Sales Cloud is for anyone responsible for developing and maintaining reports and dashboards for their sales organization in Salesforce, including: </p><ul><li>Sales operations analysts </li><li>Business analysts </li><li>Sales managers </li><li>System administrators and power users may also benefit from this course</li></ul>"
 }, {
@@ -2232,6 +2317,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "<p>Dieser Kurs ist ein Muss, für alle, die mithilfe von Analysen zu ihrer Vertriebsorganisation beitragen wollen. Im Kurs Implementieren einer Berichtsstrategie für die Sales Cloud erlernen Sie die Fähigkeiten und Fertigkeiten, um Analyseanforderungen zu ermitteln, benutzerdefinierte Berichte und Dashboards zu entwerfen und zu erstellen, sowie diese Ihren Benutzern zur Verfügung zu stellen. Anhand von Szenarien aus der Praxis gibt Ihnen dieser Kurs die notwendigen Tools an die Hand, um Ihre wichtigsten Verkaufskennzahlen zu analysieren, einschließlich Leadgenerierung, Pipeline und Trends, Geschäftsabschlüsse und Verkaufsteam-Performance.</p>",
   "courseLanguage" : "German",
+  "courseCountry" : null,
   "courseCode" : "STR301",
   "audience" : "<p>Implementieren einer Berichtsstrategie für die Sales Cloud ist für jeden Mitarbeiter geeignet, der für die Entwicklung und Pflege von Berichten und Dashboards für die Vertriebssorganisation in Salesforce zuständig ist, wie zum Beispiel: </p><ul><li>Vertriebs-Analysten </li><li>Business-Analysten </li><li>Vertriebsleiter </li><li>Systemadministratoren und Power User können auch von diesem Kurs profitieren</li></ul>"
 }, {
@@ -2258,6 +2344,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Ce cours est indispensable à toute personne chargée d’utiliser les rapports pour accroître les résultats de vente dans un service commercial. Le cours «Mise en oeuvre d’une stratégie d’analyse pour Sales Cloud » vous apporte les compétences et les connaissances nécessaires pour déterminer les besoins, concevoir, créer des rapports et des tableaux de bord personnalisés, et enfin les déployer auprès des utilisateurs. À l’aide de cas pratiques, ce cours vous fournit les outils permettant d’analyser vos indicateurs de vente clés, y compris la génération de pistes, l’encours et les tendances, les opportunités gagnées et les performances de l’équipe de ventes.",
   "courseLanguage" : "French",
+  "courseCountry" : null,
   "courseCode" : "STR301",
   "audience" : "<p>Le cours Mise en oeuvre d’une stratégie d’analyse pour Sales Cloud s’adresse à toute personne chargée de développer et de maintenir les rapports et les tableaux de bord pour son service des ventes, notamment :</p><ul><li> Les analystes des opérations commerciales </li><li>Les analystes d’entreprise </li><li>Les responsables commerciaux </li><li>Les administrateurs système ainsi que les utilisateurs expérimentés qui peuvent également y trouver une utilité</li></ul>"
 }, {
@@ -2284,6 +2371,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "In this hands-on course, you will learn about Field Service Lightning components and even have the opportunity to implement Field Service Lightning for AW Computing, our fictitious company. Through discussion and interactive exercises, you will discover details of Field Service Lightning functionality, what you need to know prior to setting it up, and the steps required to successfully implement it.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "FSL201",
   "audience" : "This course is recommended for Implementation Consultants and Salesforce Administrators either working with, or for, organizations deploying Field Service Lightning. You should have a solid understanding of Salesforce Administrator functionality and concepts prior to attending this course."
 }, {
@@ -2310,6 +2398,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "In this hands-on course, you will learn about Field Service Lightning components and even have the opportunity to implement Field Service Lightning for AW Computing, our fictitious company. Through discussion and interactive exercises, you will discover details of Field Service Lightning functionality, what you need to know prior to setting it up, and the steps required to successfully implement it.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "FSL201",
   "audience" : "This course is recommended for Implementation Consultants and Salesforce Administrators either working with, or for, organizations deploying Field Service Lightning. You should have a solid understanding of Salesforce Administrator functionality and concepts prior to attending this course."
 }, {
@@ -2336,6 +2425,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "Integrating with the Salesforce Platform covers the key elements of how to design and implement all types of integrations with the Salesforce platform. The course introduces the major integration mechanisms available on the Salesforce platform, such as the APIs and the built-in declarative functionalities. Participants explore the technologies that play critical roles in integrating with the platform, including the SOAP and REST APIs, Apex, the Streaming API, and outbound messaging. \n\nNote: To get the most out of this course, you should be comfortable reading and writing object-oriented code.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "DEX502",
   "audience" : "Integrating with the Salesforce Platform is ideal for customer developers, system integrators, architects, and independent software vendors (ISVs) new to the platform who want to learn how to design and build integrations with the Salesforce platform cloud applications."
 }, {
@@ -2362,6 +2452,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Integrating with the Salesforce Platform covers the key elements of how to design and implement all types of integrations with the Salesforce platform. The course introduces the major integration mechanisms available on the Salesforce platform, such as the APIs and the built-in declarative functionalities. Participants explore the technologies that play critical roles in integrating with the platform, including the SOAP and REST APIs, Apex, the Streaming API, and outbound messaging. Note: To get the most out of this course, you should be comfortable reading and writing object-oriented code.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "DEX502",
   "audience" : "Integrating with the Salesforce Platform is ideal for customer developers, system integrators, architects, and independent software vendors (ISVs) new to the platform who want to learn how to design and build integrations with the Salesforce platform cloud applications."
 }, {
@@ -2388,6 +2479,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Der Kurs Integration mit der Salesforce Plattform deckt alle Schlüsselelemente ab, um alle Typen von Integrationen mit Salesforce Plattform zu erstellen und zu implementieren. Der Kurs bietet eine Einführung zu den hauptsächlichen Integrationsmechanismen, wie zum Beispiel die APIs und die integrierten deklarativen Funktionalitäten, die auf der Salesforce Plattform verfügbar sind. Teilnehmer werden die Technologien erkunden, die eine kritische Rolle bei der Integration in die Salesforce Plattform spielen. Dazu gehören SOAP und REST APIs, Apex, die Streaming API und Outbound-Messaging. Anmerkung: Um am meisten von diesem Kurs zu profitieren, sollten Sie mit objektorientierter Programmierung vertraut sein.",
   "courseLanguage" : "German",
+  "courseCountry" : null,
   "courseCode" : "DEX502",
   "audience" : "<p>Der Kurs Integration mit der Salesforce Plattform ist ideal für Kundenentwickler, Systemintegratoren, Architekten und unabhängige Software-Anbieter (Independent Software Vendors, ISVs), die auf der Platform wenig Erfahrung haben und das Entwickeln und Erstellen von Integrationen mit Cloud-Anwendungen der Salesforce Plattform erlernen möchten.</p>"
 }, {
@@ -2414,6 +2506,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "This course is designed for Salesforce administrators who would like to learn the basics of implementing business logic using Apex, the primary programming language of the Salesforce platform. First, you’ll learn how to read Apex code and then you’ll gradually increase your programming skills from writing single debugging statements to programming multiple, multi-line blocks of code.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "ADX231",
   "audience" : "Introduction to Object-Oriented Programming using Apex on the Lightning Platform is designed for people who are familiar with the Salesforce application user interface and customizing applications using the Setup menu. It is meant to provide an understanding of object-oriented programming in the context of Apex and the Salesforce platform. No prior programming experience required."
 }, {
@@ -2440,6 +2533,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "This course is designed for Salesforce administrators who would like to learn the basics of implementing business logic using Apex, the primary programming language of the Salesforce platform. First, you’ll learn how to read Apex code and then you’ll gradually increase your programming skills from writing single debugging statements to programming multiple, multi-line blocks of code.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "ADX231",
   "audience" : "Introduction to Object-Oriented Programming using Apex on the Lightning Platform is designed for people who are familiar with the Salesforce application user interface and customizing applications using the Setup menu. It is meant to provide an understanding of object-oriented programming in the context of Apex and the Salesforce platform. No prior programming experience required."
 }, {
@@ -2466,6 +2560,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "If you are a Marketing Cloud user or administrator who is responsible for developing the email journey your customers will take with your organization, this hands-on course is an essential class for you. \n\nIn this one-day course, you will learn the fundamentals of a customer journey. You will then explore Contact Builder and how to set up your data in order to leverage the data in Journey Builder. In Journey Builder, you will learn to create and develop strategic customer interactions within various Journey Builder activities.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "JB101",
   "audience" : "<p>Getting Started with Journey Builder is designed for individuals in the following roles:</p><ul><li>Administrators responsible for the setup, configuration, and maintenance of their organization’s Marketing Cloud applications.</li><li>Content editors and publishers who will assist in the setup of customer journeys.</li><li>Channel managers who are responsible for the marketing automation channel within an organization.</li></ul>"
 }, {
@@ -2492,6 +2587,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Si vous êtes un utilisateur ou administrateur de Marketing Cloud responsable du développement du parcours client lié à la messagerie électronique, cette formation est essentielle pour vous permettre une prise en main. Lors de cette formation d’une durée d’une journée, vous apprendrez les notions de base du parcours client. Vous explorerez le générateur de contacts (Contact Builder) and et apprendrez à configurer vos données de sorte à les exploiter dans Journey Builder. Vous découvrirez comment créer et développer des interactions stratégiques avec des clients par le biais de plusieurs activités Journey Builder.",
   "courseLanguage" : "French",
+  "courseCountry" : null,
   "courseCode" : "JB101",
   "audience" : "<p>La prise en main avec Journey Builder est destinée aux individus dans les rôles suivants:</p><ul><li>Les administrateurs responsables de l’installation, configuration, et maintenance des applications Marketing Cloud de leur organisation</li><li>Les éditeurs de contenu qui interviennent lors de la mise en place du parcours client</li><li>Les responsables de canaux chargés du canal d’automatisation du marketing au sein d’une organisation</li></ul>"
 }, {
@@ -2518,6 +2614,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Dieser praktische Kurs ist unverzichtbar für Benutzer der Marketing Cloud und für Administratoren, die für die Entwicklung der E-Mail Customer Journey in ihrem Unternehmen zuständig sind. In diesem eintägigen Kurs erwerben Sie zunächst grundlegende Kenntnisse zu einer Customer Journey. Außerdem erkunden Sie den Contact Builder und lernen, wie Sie Ihre Daten einrichten müssen, um sie im Journey Builder ideal zu nutzen. Abschließend erstellen und entwickeln Sie im Journey Builder strategische Kundeninteraktionen im Rahmen verschiedener Journey BuilderAktivitäten.",
   "courseLanguage" : "German",
+  "courseCountry" : null,
   "courseCode" : "JB101",
   "audience" : "<p>Der Kurs Erste Schritte mit Journey Builder richtet sich an Einzelpersonen in den folgenden Rollen: </p><ul><li>Administratoren, die für das Aufsetzen, die Konfiguration und Wartung der Marketing Cloud-Anwendungen ihres Unternehmens verantwortlich sind. </li><li>Content-Editoren und Publisher, die an der Einrichtung von Customer Journeys mitarbeiten. </li><li>Channel-Manager, die in einem Unternehmen für den Kanal Marketingautomatisierung zuständig sind.</li></ul>"
 }, {
@@ -2544,6 +2641,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "さまざまなチャネルやデバイスで最適なメッセージを提供し、顧客 One to One ジャーニーへ導く Journey Builder。本コースでは、カスタマージャーニーの基本と Contact Builder による購読者の管理方法なども含め Journey Builder を活用\nするためのスキルを、ハンズオン演習を交えて学習します。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "JB101",
   "audience" : "• Marketing Cloud の Journey Builder を使用して設定、変更、メンテナンスをする管理者の方\n• カスタマージャーニーで使用するコンテンツのエディター／パブリッシャーの方\n• 組織のマーケティングオートメーションを管理するチャネルマネージャーの方\n\n\n【受講前提条件】\n• 「Marketing Cloud: メール基礎 ［前編］[後編］」コースの修了、または同等の知識があること"
 }, {
@@ -2570,6 +2668,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Dieser Kurs vermittelt Händlern und Vermarktern die Verwaltung von Katalogen, Inhalten, Produkten und Werbe-/Preisaktionen für einen Commerce Cloud-Online-Shop mit dem Commerce Cloud Business Manager. Anmerkung: Dieser Kurs beinhaltet keine Programmierung, Verwaltung oder Website-Design. Diese Schulung wird unter Verwendung der Salesforce Commerce Cloud-Referenzarchitektur-Website und nicht der spezifischen Website des Kunden ausgeführt. Kundenspezifische Websites werden während dem Launch Readiness Boot Camp, welches von Services geführt wird, benutzt.",
   "courseLanguage" : "German",
+  "courseCountry" : null,
   "courseCode" : "CCM101",
   "audience" : "<ul><li>Händler </li><li>Vermarkter </li><li>Content-Manager</li></ul>"
 }, {
@@ -2596,6 +2695,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "Salesforce B2C Commerce ストアフロントの運営管理に必要な機能について、ハンズオン演習やベストプラクティスを交えながら体感的に学習します。\n\n※本コースでは、プログラミング、アドミニストレーション、サイトの設計についての内容は取り扱いません。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "CCM101",
   "audience" : "• Salesforce B2C Commerce ストアフロントの機能を学習したいマーチャント\n\n\n【受講前提条件】\nどなたでもご受講が可能です。"
 }, {
@@ -2622,6 +2722,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "<p>Ce cours explique aux marchands et aux marketeurs comment gérer des catalogues, du contenu, des produits et des promotions d’une boutique Commerce Cloud en utilisant le Business Manager Commerce Cloud.</p><p><br></p><p>REMARQUE: Ce cours n&#39;inclut pas la programmation, l&#39;administration ou la conception de sites. Ce cours est délivré à partir du site de référence Commerce Cloud et non du site du client. Le site du client sera utilisé au cours des formations dispensées au moment du lancement de la boutique.</p>",
   "courseLanguage" : "French",
+  "courseCountry" : null,
   "courseCode" : "CCM101",
   "audience" : "<ul><li>Marchands </li><li>Marketeurs </li><li>Content manager</li></ul>"
 }, {
@@ -2648,6 +2749,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "<p>This course teaches merchants and marketers how to manage catalogs, content, products, and promotions for a Commerce Cloud storefront using the Commerce Cloud Business Manager. </p><p><br></p><p>NOTE: This course does not include programming, administration, or site design. This class is taught using the SFCC reference architecture site and not the client’s specific site. Client specific site is used during the Launch Readiness Boot Camp conducted by Services.</p>",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "CCM101",
   "audience" : "<ul><li>Merchants </li><li>Marketers </li><li>Content Managers</li></ul>"
 }, {
@@ -2674,6 +2776,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "The Marketing Cloud Connect Essentials course is designed to give you in-depth knowledge of the functionality available when you connect your Salesforce org to your Marketing Cloud account. In this interactive course, you will gain hands-on experience connecting the Clouds, personalizing your emails by leveraging your Salesforce CRM data from the Sales / Service Clouds, sending emails to a Contact / Lead, Report, or Campaign, synchronizing your Salesforce CRM data in the Marketing Cloud, segmenting your data to send targeted and relevant emails, creating 1:1 journeys based on your Salesforce CRM data, and tracking and reporting capabilities in the Marketing Cloud and Sales / Service Clouds",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "MCC201",
   "audience" : "<p>This course is designed for: </p><ul><li>Customers who will be connecting their Salesforce org to the Marketing Cloud using Marketing Cloud Connect. </li><li>The email digital marketer who will manage the email channel for their organization and who needs to know how to best leverage their Saleforce CRM data. </li><li>The Salesforce Administrator who is responsible for supporting users when Marketing Cloud Connect is installed.</li></ul>"
 }, {
@@ -2700,6 +2803,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Der Marketing Cloud Connect Grundlagen Kurs wurde entwickelt, um Ihnen zu helfen fundierte Kenntnisse über die möglichen Funktionalitäten beim Anschluss Ihrer Salesforce Org zu Ihrer Marketing Cloud zu erhalten. In diesem interaktiven Kurs werden Sie die folgenden praktischen Erfahrungen sammeln: Clouds miteinander verbinden; Ihre E-Mails mittels der gesammelten Daten aus der Sales/ Service Cloud personalisieren; Senden von E-Mails an Kontakt- und Lead-Berichte oder Kampagnen; Das Synchronisieren Ihrer Salesforce CRM-Daten in der Marketing Cloud; Segmentierung Ihre Daten, um gezielte und relevante E-Mails zu senden; Das Aufsetzen von 1:1-Journeys basierend auf Ihren Salesforce CRM-Daten und die Tracking- und Reporting-Funktionen Ihrer Marketing Cloud und Sales/ Service Cloud.",
   "courseLanguage" : "German",
+  "courseCountry" : null,
   "courseCode" : "MCC201",
   "audience" : "<p>Dieser Kurs ist konzipiert für: </p><ul><li>Kunden, die ihre Salesforce-Organisation mit der Marketing Cloud anhand von Marketing Cloud Connect verbinden werden. </li><li>Den E-Mail Marketer, der den Email-Kanal Ihrer Organisation managed und wissen muss, wie man die Daten aus Ihrem CRM am besten nutzen kann. </li><li>Salesforce Administratoren, die verantwortlich sind für den Benutzer-Support sobald Marketing Cloud Connect eingerichtet ist.</li></ul>"
 }, {
@@ -2726,6 +2830,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "Marketing Cloud アカウントと Salesforce 組織を接続するときに利用できる機能について学習します。接続方法、Salesforce CRM データを活用したメールのパーソナライズ、取引先責任者・リード・レポート・キャンペーンに対するメールの送信、Marketing Cloud での Salesforce CRM データの同期、ターゲットを絞り購読者の関心が高いメールを送信するためのデータセグメンテーションの方法、Salesforce CRM データに基づいた One to One ジャーニーの作成、Marketing Cloud および Sales/Service Cloud でのトラッキングとレポートについて、ハンズオン演習を交えて習得します。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "MCC201",
   "audience" : "• Marketing Cloud Connect を使用して Marketing Cloud にSalesforce 組織を接続する方\n• メールチャネルを管理し、Salesforce CRM データを最大限活用する方法を知る必要があるデジタルマーケターの方\n• Marketing Cloud Connect のインストール時にユーザサポートを担当する Salesforce のシステム管理者\n•「認定 Marketing Cloud コンサルタント」資格の取得を目指す方\n\n\n【受講前提条件】\n•「Marketing Cloud: メール基礎［前編］[後編]」コースおよび、「 Marketing Cloud: Journey Builder」コースの修了、または同等の知識があること\n\n※コース内で学習する Salesforce プラットフォームの概要について、より学習効果を高めていただくためには、ご受講前に以下の Trailhead モジュールを学習することをお勧めします（必須ではありません）。\n・Salesforce Classic の CRM の基礎\n・取引先と取引先責任者\n・レポートビルダーを使用したレポートの作成\n・ダッシュボードとグラフによるデータの視覚化"
 }, {
@@ -2752,6 +2857,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "The Marketing Cloud Connect Essentials course is designed to give you in-depth knowledge of the functionality available when you connect your Salesforce org to your Marketing Cloud account. In this interactive course, you will gain hands-on experience connecting the Clouds, personalizing your emails by leveraging your Salesforce CRM data from the Sales / Service Clouds, sending emails to a Contact / Lead, Report, or Campaign, synchronizing your Salesforce CRM data in the Marketing Cloud, segmenting your data to send targeted and relevant emails, creating 1:1 journeys based on your Salesforce CRM data, and tracking and reporting capabilities in the Marketing Cloud and Sales / Service Clouds.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "MCC201",
   "audience" : "<p>This course is designed for:</p><ul><li>Customers who will be connecting their Salesforce org to the Marketing Cloud using Marketing Cloud Connect.</li><li>The email digital marketer who will manage the email channel for their organization and who needs to know how to best leverage their Saleforce CRM data.</li><li>The Salesforce Administrator who is responsible for supporting users when Marketing Cloud Connect is installed.</li></ul>"
 }, {
@@ -2778,6 +2884,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "Salesforce Marketing Cloud メールアプリケーションについて学習します。\n\n ［前編］では、購読者データの管理、メール作成、送信、結果のトラッキングについてハンズオン形式で学習します。本コースと「Marketing Cloud : メール基礎 [後編] 」コースを合わせて受講することで、重要な機能を包括的に習得することができます。学習効果を最大限に高めるためには、本コースのご受講後に [後編] を 受講されることを強くお勧めします。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "EEB101-1",
   "audience" : "• 組織のメールチャネルを管理しているデジタルマーケターの方 \n• 「Marketing Cloud メールスペシャリスト」資格の取得を目指す方 \n\n\n【受講前提条件】\n• どなたでもご受講が可能です。"
 }, {
@@ -2804,6 +2911,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "Salesforce Marketing Cloud メールアプリケーションについて学習します。\n\n［後編］では、ターゲットを絞り込んで関連性の高いメッセージを送るためのセグメンテーション、キャンペーンや日々のタスクを自動実行するためのオートメーションツールについてハンズオン形式で学習します。本コースと「Marketing Cloud: メール基礎［前編］」コースを合わせて受講することで、重要な機能を包括的に学習することができます。学習効果を最大限に高めるためには、本コースのご受講前に [前編] を受講されることを強くお勧めします。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "EEB101-2",
   "audience" : "• 組織のメールチャネルを管理しているデジタルマーケターの方 \n• 「Marketing Cloudメールスペシャリスト」資格の取得を目指す方 \n\n\n【受講前提条件】\n• 「Marketing Cloud:メール基礎［前編］」コースの修了、および同等の知識があること"
 }, {
@@ -2830,6 +2938,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "Einstein Analytics を使用したデータ探索方法を学習します。デスクトップ PC やモバイルデバイスからレンズとダッシュボードを探索することで、新たな知見を得ることが可能になり、分析結果の適切な可視化、Chatter やメールでの共有、ドリルダウン、CSV データの読み込みなど、Einstein Analytics のパワフルな探索機能の活用方法を習得します。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "ANC101",
   "audience" : "• Einstein Analytics をご利用中、または今後導入する可能性のある方\n• レンズやダッシュボードを使用して Salesforce や外部データの探索を始めるビジネスユーザ\n• ビジネスユーザのデータ探索方法を把握するダッシュボードを作成する方\n\n\n\n【受講前提条件】\nどなたでもご受講が可能です。"
 }, {
@@ -2856,6 +2965,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "Ready to see where your data takes you in Salesforce Einstein Analytics? This course teaches you how to explore your data through lenses and interactive dashboards from your desktop or mobile device, and how to share your insights in Chatter. Learn how to quickly change measures, groups, and filters; select the best visualizations for your data; and drill down to see details. You’ll also learn how to easily load additional data from a CSV file, which you can start exploring right away using the power of Einstein Analytics.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "ANC101",
   "audience" : "This course is aimed at business users who want to become proficient at exploring their Salesforce data and external data through lenses and dashboards in Einstein Analytics. Users connecting data or building dashboards, who are new to Einstein Analytics, should also take this course to understand how their business users will be exploring the data they make available to them."
 }, {
@@ -2882,6 +2992,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Ready to see where your data takes you in Salesforce Einstein Analytics? This course teaches you how to explore your data through lenses and interactive dashboards from your desktop or mobile device, and how to share your insights in Chatter. Learn how to quickly change measures, groups, and filters; select the best visualizations for your data; and drill down to see details. You’ll also learn how to easily load additional data from a CSV file, which you can start exploring right away using the power of Einstein Analytics.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "ANC101",
   "audience" : "This course is aimed at business users who want to become proficient at exploring their Salesforce data and external data through lenses and dashboards in Einstein Analytics. Users connecting data or building dashboards, who are new to Einstein Analytics, should also take this course to understand how their business users will be exploring the data they make available to them."
 }, {
@@ -2908,6 +3019,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "Salesforce Pardot の導入・運用担当者やコンサルタントとして必要な知識を学習します。「Pardot 基礎」コースで学習した機能の考慮事項や、シナリオに基づいた適用・活用方法をおさえ、さらにアドバンスの機能や設定方法も習得します。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "PDT102",
   "audience" : "• Pardot の自社導入／運用担当者\n• Pardot のコンサルタントを目指す方\n• 「認定 Pardot コンサルタント」資格の取得を目指す方\n\n\n【受講前提条件】\n「 Pardot基礎」コースの修了、または同等の知識があること"
 }, {
@@ -2934,6 +3046,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Are you ready to take the next step in your career by becoming a Salesforce Certified Marketing Cloud Consultant? This course is the last step in that journey. It provides a detailed overview of the Salesforce Certified Marketing Cloud Exam objectives, helping you focus your studying efforts. Salesforce experts will spend their time making sure you have: 1) a detailed understanding of what the Salesforce Certified Marketing Cloud Consultant Exam covers, 2) the resources necessary to prepare for the exam, and 3) exposure to and practice with example test questions.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "CRT550",
   "audience" : "Those already holding the Salesforce Certified Email Specialist credential with 6 months to 1 year of Marketing Cloud implementation/consulting experience, preparing to take and pass the Salesforce Certified Marketing Cloud Consultant Exam"
 }, {
@@ -2960,6 +3073,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "Are you ready to take the next step in your career by becoming a Salesforce Certified Marketing Cloud Consultant? This course is the last step in that journey. It provides a detailed overview of the Salesforce Certified Marketing Cloud Exam objectives, helping you focus your studying efforts. Salesforce experts will spend their time making sure you have: 1) a detailed understanding of what the Salesforce Certified Marketing Cloud Consultant Exam covers, 2) the resources necessary to prepare for the exam, and 3) exposure to and practice with example test questions.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "CRT550",
   "audience" : "Those already holding the Salesforce Certified Email Specialist credential with 6 months to 1 year of Marketing Cloud implementation/consulting experience, preparing to take and pass the Salesforce Certified Marketing Cloud Consultant Exam."
 }, {
@@ -2986,6 +3100,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Sind Sie ein Programmierer, der verstehen möchte, wie Anwendungen programmatisch auf der Lightning-Plattform angepasst werden können? In diesem Kurs erwerben Sie grundlegende Kenntnisse zur Apex-Programmiersprache und zum Visualforce-Markup, die Sie dann zum Anpassen Ihrer Anwendungen auf der Lightning Plattform verwenden können. In praxisorientierten Übungen erstellen Sie Datenobjekte (sObjects) und lernen die mit diesen Objekten verknüpften Daten abzurufen, zu ändern und zu speichern. Sie schreiben unter Verwendung von ApexAuslösern und -Klassen eine eigene benutzerdefinierte Logik und testen diese Logik innerhalb des integrierten Test-Frameworks. Des Weiteren untersuchen Sie, wie ApexCode mit deklarativen Anpassungen auf der Plattform interagiert, und beschäftigen sich mit den Feinheiten bei der Arbeit mit einer mandantenfähigen Plattform. Danach befassen Sie sich mit den allgemeinen Techniken zum Entwerfen von Lösungen in Apex. Diese Aktivitäten werden abschließend in einer Übung z",
   "courseLanguage" : "German",
+  "courseCountry" : null,
   "courseCode" : "DEX450",
   "audience" : "<p>Dieser Kurs richtet sich an Programmierer, die noch keinerlei Erfahrung mit der Lightning Plattform haben und die mit Apex und Visualforce programmatische Anpassungen für die Geschäftslogik und die Benutzeroberflächenschichten schreiben müssen.</p>"
 }, {
@@ -3012,6 +3127,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Etes-vous un développeur qui souhaite comprendre comment personnaliser des applications en développant sur la plate-forme Force.com ? Dans ce cours, vous apprendrez l’essentiel sur le développement en langage APEX et sur les balises Visualforce afin de pouvoir personnaliser vos applications Force.com. Vous allez acquérir une expérience pratique pour créer des objets (sObjects) et extraire, manipuler et sauvegarder les données associées à ces objets en langage de programmation. Vous écrirez des logiques personnalisées en utilisant les triggers et les classes Apex. Vous testerez ces logiques en utilisant l’outil intégré de test. Vous explorerez comment le code Apex interagit avec les fonctions “point-and-click” de la plate-forme et appréhenderez les subtilités de cette dernière. Vous allez ensuite étudier plusieurs techniques pour concevoir des solutions avec Apex. Ces activités se termineront par un exercice pratique de conception d’une solution APEX intégrant des solutions déclaratives",
   "courseLanguage" : "French",
+  "courseCountry" : null,
   "courseCode" : "DEX450",
   "audience" : "Cette formation est destinée aux développeurs débutants sur la plate-forme Force.com qui souhaitent acquérir les connaissances fondamentales pour pouvoir développer des applications avec Apex and Visualforce."
 }, {
@@ -3038,6 +3154,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "Are you a programmer who wants to understand how to customize applications programmatically on the Salesforce platform? In this course, you will learn the core of the Apex programming language and Visualforce markup in order to customize your Salesforce applications. You will get hands-on experience building data objects (sObjects) and programmatically retrieving, manipulating, and storing the data associated with those objects. You will write custom logic using Apex triggers and classes, and test that logic using the built-in testing framework. \n\nYou will explore how Apex code interacts with declarative customizations on the platform, and the nuances of working on a multi-tenant platform. You’ll then examine common techniques for designing solutions in Apex. These activities will culminate in an exercise building a complex trigger that takes advantage of the declarative aspects of the platform. You will get hands-on experience writing Visualforce pages to customize your user interface",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "DEX450",
   "audience" : "This course is designed for programmatic developers who are new to the Salesforce platform, who need to be able to write programmatic customizations to both the business logic and user interface layers using Apex and Visualforce."
 }, {
@@ -3064,6 +3181,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "If your responsibilities include developing custom applications running in Lightning Experience and Salesforce mobile that support multiple devices and screen sizes from a single codebase, taking this class will boost your skills to the next level. \n\nIn this five-day instructor-led course, you’ll learn how to program Aura Components with markup, JavaScript, CSS, Apex, and the Salesforce Lightning Design System (SLDS), and make them available to Salesforce end users.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "DEX601",
   "audience" : "Programming Aura Components is ideal for independent software vendors (ISVs) and web application developers who want to produce custom Aura Components and Applications that run in Lightning Experience, Salesforce mobile, or hybrid mobile applications that extend the Salesforce App Cloud."
 }, {
@@ -3090,6 +3208,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "If your responsibilities include developing custom applications running in Lightning Experience and Salesforce mobile that support multiple devices and screen sizes from a single codebase, taking this class will boost your skills to the next level. In this five-day instructor-led course, you’ll learn how to program Aura Components with markup, JavaScript, CSS, Apex, and the Salesforce Lightning Design System (SLDS), and make them available to Salesforce end users.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "DEX601",
   "audience" : "Programming Aura Components is ideal for independent software vendors (ISVs) and web application developers who want to produce custom Aura Components and Applications that run in Lightning Experience, Salesforce mobile, or hybrid mobile applications that extend the Salesforce App Cloud."
 }, {
@@ -3116,6 +3235,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Wenn zu Ihren Zuständigkeiten das Entwickeln von benutzerdefinierten Anwendungen gehört, die in Lightning Experience und Salesforce Mobile ausgeführt werden und mehrere Geräte und Bildschirmgrößen über eine einzelne Codebasis unterstützen, können Sie mit diesem Kurs Ihre Kenntnisse umfassend vertiefen. In diesem fünftägigen Kurs lernen Sie, wie Sie Aura-Komponenten mit Markup, JavaScript, CSS, Apex und dem Salesforce Lightning Design System (SLDS) programmieren und Salesforce-Benutzern bereitstellen können.",
   "courseLanguage" : "German",
+  "courseCountry" : null,
   "courseCode" : "DEX601",
   "audience" : "<p>Der Kurs Programmierung von Aura-Komponenten ist ideal für unabhängige Software-Anbieter (Independent Software Vendors, ISVs) und Entwickler von Webanwendungen, die benutzerdefinierte AuraKomponenten und -Anwendungen erstellen möchten, die in Lightning Experience, Salesforce Mobile oder hybriden mobilen Anwendungen, die die Salesforce App Cloud erweitern, ausgeführt werden können.</p>"
 }, {
@@ -3142,6 +3262,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "Reporting Fundamentals in Lightning Experience is a must for all users who need to report on the data managed within their Salesforce instance. This course will teach you how to customize existing reports as well as use the Salesforce reporting toolset to create your own reports. Information on building dashboards and enhancing your reports via formulas and filters is also provided to help you better analyze your business.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "RPX101",
   "audience" : "Reporting Fundamentals in Lightning Experience is ideal for Sales Rep/Managers, Service Rep/Managers, Beginning Admin, and Business Analyst/Solution Architects."
 }, {
@@ -3168,6 +3289,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "<p>Der Kurs Grundlagen der Berichterstellung in Lightning Experience ist ein Muss für alle Benutzer, die Berichte für die in ihrer Salesforce-Instanz verwalteten Daten erstellen müssen. Der Kurs befasst sich mit vorhandenen Salesforce-Berichten und mit den Salesforce-Berichtstools, mit denen Sie vorhandene Berichte anpassen und eigene Berichte erstellen können. Anhand von Informationen zum Erstellen von Dashboards und Verbessern von Berichten mit Formeln und Filtern können Sie Ihre Unternehmensdaten besser analysieren.</p>",
   "courseLanguage" : "German",
+  "courseCountry" : null,
   "courseCode" : "RPX101",
   "audience" : "<p>Der Kurs Grundlagen der Berichterstellung in Lightning Experience richtet sich an Vertriebsmitarbeiter und - manager, Servicemitarbeiter und - manager, Administratoren, Business-Analysten und Solution Architects.</p>"
 }, {
@@ -3194,6 +3316,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "Lightning Experience 環境のユーザインターフェースで Salesforce に格納されたデータを分析するレポートとダッシュボードの基本を学習します。デフォルトの標準レポートをはじめ、レポートツールセットを使用した標準レポートのカスタマイズや、数式や検索条件を使ったさまざまな独自のレポートの作成方法を学び、それらのレポートを利用して、指標となる情報を視覚的に表現しダッシュボードに表示するなど、ビジネスを分析するために役立つ機能とスキルを習得します。\n\n※本コースは Lightning Experience 環境のユーザインターフェースを利用します。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "RPX101",
   "audience" : "• Lightning Experience 環境のユーザインターフェースをご利用で Salesforce に格納されたデータを分析する方（営業担当者/マネージャー、サービス担当者/マネージャー、初級管理者、ビジネスアナリスト、ソリューションアーキテクト等） \n\n\n【受講前提条件】\n• 基礎的な Salesforce の概要や機能を理解していること\n\n※前提スキルに不安のある方は、事前に Trailhead（無料オンライン学習リソース）にて「Lightning Experience の CRM」のモジュールで学習されることをお勧めします（必須ではありません）。"
 }, {
@@ -3220,6 +3343,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "L’Essentiel des rapports avec l&#39;expérience Lightning est une formation complète pour tous les utilisateurs qui ont besoin de créer des rapports sur les données gérées dans leur instance Salesforce. La formation couvre les rapports existants de Salesforce ainsi qu’un ensemble d’outils conçus pour vous aider à personnaliser des rapports existants et créer vos propres rapports. Des informations sont fournies sur la création des tableaux de bord et l’amélioration de vos rapports en utilisant les formules et les filtres afin de vous aider à mieux analyser vos données.",
   "courseLanguage" : "French",
+  "courseCountry" : null,
   "courseCode" : "RPX101",
   "audience" : "<p>L’Essentiel des rapports avec l’expérience Lightning est destiné aux responsables et représentants de vente et du support, aux analystes d’entreprise, aux administrateurs débutants et architectes de solutions</p>"
 }, {
@@ -3246,6 +3370,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "L’administration Sales Cloud: Produits, Devis, Commandes et Prévisions Collaboratives est une formation complète pour tous les administrateurs qui ont besoin de configurer et maintenir ces fonctionnalités pour leurs organisations. Utilisant des scénarios de cas réels, cette formation apprend aux administrateurs comment configurer les produits, les catalogues de prix, les devis, et les commandes pour rationaliser leurs processus. Ce cours apprend également aux administrateurs comment configurer les prévisions collaboratives pour générer des prévisions précises et suivre l’atteinte des quotas.",
   "courseLanguage" : "French",
+  "courseCountry" : null,
   "courseCode" : "ADM251",
   "audience" : "<p>L’administration Sales Cloud: Produits, Devis, Commandes et Prévisions Collaboratives s’adresse aux: </p><ul><li>administrateurs avec un minimum de 6 mois d&#39;expérience sur Salesforce; et/ou </li><li>administrateurs qui ont suivi la formation ADM-201, L’essentiel de l’administration pour les nouveaux administrateurs</li></ul>"
 }, {
@@ -3272,6 +3397,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "<p>Der Kurs Sales Cloud-Administration: Produkte, Angebote, Aufträge &amp; gemeinschaftliche Prognosen ist ein Muss für alle Administratoren, die diese Funktionen für ihre Unternehmen konfigurieren und verwalten müssen. Anhand von praxisorientierten Szenarien lernen Administratoren, wie sie Produkte, Preisbücher, Angebote und Aufträge zur effektiveren Gestaltung ihrer Prozesse einsetzen können. Außerdem erfahren sie, wie gemeinschaftliche Prognosen zum Erstellen genauer Prognosen und Verfolgen der Quotenerreichung konfiguriert werden.</p>",
   "courseLanguage" : "German",
+  "courseCountry" : null,
   "courseCode" : "ADM251",
   "audience" : "<p>Sales Cloud-Administration: Produkte, Angebote, Aufträge &amp; gemeinschaftliche Prognosen ist für die folgenden Zielgruppen gedacht: </p><ul><li>Administratoren mit mindestens sechs Monaten Erfahrung mit Salesforce und/oder </li><li>Administratoren, die den Kurs Grundlagen der Administration für neue Administratoren absolviert haben</li></ul>"
 }, {
@@ -3298,6 +3424,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "This course is a must for all administrators who need to configure and maintain these features for their organizations. Using real-world scenarios, this course will teach administrators how to set up products, price books, quotes, and orders to streamline their processes. This course will also teach administrators how to configure Collaborative Forecasts to generate accurate forecasts and track quota attainment.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "ADM251",
   "audience" : "Administrators with at least six months of experience using Salesforce; and/or Administrators who have completed the Administration Essentials for New Admins course."
 }, {
@@ -3324,6 +3451,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "Salesforce Billing Essentials for Sales Cloud Administrators will give administrators the knowledge they need to configure and maintain Salesforce Billing to handle a wide variety of billing scenarios from bookings, billings, cash, revenue, taxation, and general ledger upkeep. Through hands-on activities and demonstration, the course will provide in-depth learning into how Salesforce Billing facilitates recurring billing tasks as well as data preparation for integration with external accounting systems.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "BLG201",
   "audience" : "<p>Salesforce Billing Essentials for Sales Cloud is designed for:</p><ul><li>Administrators and consultants responsible for the setup and maintenance of an organization’s Salesforce applications, especially regarding CPQ and billing tools.</li><li>Sales operations and accounting personnel responsible for managing and performing order processing and billing workflow tasks.</li></ul>"
 }, {
@@ -3350,6 +3478,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Salesforce Billing Essentials for Sales Cloud Administrators will give administrators the knowledge they need to configure and maintain Salesforce Billing to handle a wide variety of billing scenarios from bookings, billings, cash, revenue, taxation, and general ledger upkeep. Through hands-on activities and demonstration, the course will provide in-depth learning into how Salesforce Billing facilitates recurring billing tasks as well as data preparation for integration with external accounting systems.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "BLG201",
   "audience" : "<p>Salesforce Billing Essentials for Sales Cloud is designed for: </p><ul><li>Administrators and consultants responsible for the setup and maintenance of an organization’s Salesforce applications, especially regarding CPQ and billing tools. </li><li>Sales operations and accounting personnel responsible for managing and performing order processing and billing workflow tasks.</li></ul>"
 }, {
@@ -3376,6 +3505,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "Comprehensive and hands-on, this course is essential for CPQ administrators\nby providing a detailed and in-depth look at Salesforce CPQ and its\napplications. We recommend experienced administrators take this course\nbefore starting a Salesforce CPQ implementation or when taking over an\nexisting implementation.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "CPQ211",
   "audience" : "Covering all the topics from the Salesforce CPQ Admin Essentials for New Administrators but with a greater technical emphasis, this course will also provide guidance on design implications and use cases for hands-on exercises. The class is designed for experienced Administrators who will have\nprior experience implementing Salesforce CPQ solutions in a customer-facing role, as well as solution architects, implementation consultants, or developers seeking to understand full capabilities in order to formulate technicalsolutions within Salesforce CPQ."
 }, {
@@ -3402,6 +3532,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Dieser umfassende und praxisorientierte Kurs ist die Grundlage für CPQ Administratoren, da er einen detaillierten und tiefgreifenden Überblick zu Salesforce CPQ und den entsprechenden Anwendungen bietet. Wir empfehlen diesen Kurs erfahrenen Administratoren, bevor sie eine Salesforce CPQ-Implementierung starten oder bei der Übernahme einer bestehenden Implementierung.",
   "courseLanguage" : "German",
+  "courseCountry" : null,
   "courseCode" : "CPQ211",
   "audience" : "<p>Es werden alle Themen des Kurses Salesforce CPQ Grundlagen der Administration für neue Administratoren abgedeckt, allerdings mit einem größeren technischen Schwerpunkt. Darüber hinaus bietet dieser Kurs auch einen Leitfaden für Design- Entscheidungen und Anwendungsfälle anhand von praktischen Übungen. Dieser Kurs wurde sowohl für erfahrene Administratoren konzipiert, die bereits Erfahrungen mit Salesforce CPQImplementierungen in einer kundenzentrierten Rolle haben, als auch für Solution Architects, Implementierungs-Consultants oder Entwickler, die alle Fähigkeiten verstehen möchten, um technische Lösungen mit Salesforce CPQ umzusetzen.</p>"
 }, {
@@ -3428,6 +3559,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Complet et pratique, ce cours est essentiel pour les administrateurs de CPQ souhaitant un aperçu détaillé et approfondi de Salesforce CPQ et de ses applications. Nous recommandons aux administrateurs expérimentés de suivre ce cours avant de commencer une implémentation/ mise en œuvre Salesforce CPQ ou lors de la prise en charge d&#39;une mise en œuvre existante.",
   "courseLanguage" : "French",
+  "courseCountry" : null,
   "courseCode" : "CPQ211",
   "audience" : "<p>Ce cours couvre tous les sujets de la formation L’essentiel de l’administration Salesforce CPQ pour les nouveaux administrateurs, mais avec une plus grande importance technique. Pendant la formation vous serez conseillé sur les bonnes pratiques de conception et suivrez des exercices pratiques autour des normes métier. Le cours est destiné aux administrateurs expérimentés qui auront un rôle dans la mise en œuvre de Salesforce CPQ, que vous soyez un profil orienté vente, architectes de solutions, consultants en implémentation ou développeurs cette formation vous apportera toutes les connaissances pour comprendre et maitriser les fonctionnalités de Salesforce CPQ et mener à bien votre projet.</p>"
 }, {
@@ -3454,6 +3586,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Dieses praktische Grundlagentraining vermittelt Ihnen das Grundwissen zum Einrichten, Konfigurieren und Warten einer Salesforce-CPQ-Instanz, und ermöglicht Ihren Erfolg mit Salesforce CPQ. Wir empfehlen diesen Kurs neuen Administratoren, bevor sie eine Salesforce CPQ-Implementierung starten oder bei der Übernahme einer bestehenden Implementierung.",
   "courseLanguage" : "German",
+  "courseCountry" : null,
   "courseCode" : "CPQ201",
   "audience" : "<p>Dieser Kurs ist ideal für neue Systemadministratoren, die für die Einrichtung, Konfiguration und Wartung von der Salesforce-CPQ-Anwendung in der Organisation verantwortlich sind. Darüber hinaus würden auch Vertriebsmitarbeiter, IT-Manager, Power-User und andere Benutzer von gründlichen Fachkenntnissen und dem Verständnis der Funktionen von Salesforce CPQ profitieren.</p>"
 }, {
@@ -3480,6 +3613,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Cette formation pratique vous apporte les connaissances de base nécessaire pour créer, configurer et gérer une instance Salesforce CPQ, permettant votre succès avec Salesforce CPQ.  Nous recommandons aux nouveaux administrateurs de suivre ce cours avant de commencer une mise en œuvre Salesforce CPQ ou lors de la prise en charge d&#39;une mise en œuvre existante.",
   "courseLanguage" : "French",
+  "courseCountry" : null,
   "courseCode" : "CPQ201",
   "audience" : "<p>Ce cours est idéal pour les nouveaux administrateurs système chargés de la l’installation, la configuration et la maintenance de l&#39;application Salesforce CPQ de leur organisation. Cela s&#39;applique également aux représentants d&#39;opérations de vente, responsables d&#39;informatique, utilisateurs expérimentés et tout autre utilisateur qui bénéficieraient d&#39;une connaissance et d&#39;une compréhension plus approfondie des fonctionnalités de Salesforce CPQ.</p>"
 }, {
@@ -3506,6 +3640,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "Hands-on foundational training providing you with the basic knowledge needed to set up, configure, and maintain a Salesforce CPQ instance, enabling your success with Salesforce CPQ. We recommend new administrators take this course before starting a Salesforce CPQ implementation or when taking over an existing implementation.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "CPQ201",
   "audience" : "This course is ideal for a new system administrators responsible for the\nsetup, configuration, and maintenance of their organization’s Salesforce CPQ\napplication. Also for sales ops, IT managers, power users, and other users\nwho would benefit from a deeper knowledge and understanding of the\ncapabilities of Salesforce CPQ."
 }, {
@@ -3532,6 +3667,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "The Salesforce Fundamentals for Business Administration Specialists course will provide you with an understanding of what’s possible with the Salesforce platform, its specific applications, and their business values and benefits. You will be given an overview of the Salesforce Clouds and how they integrate and interconnect. By learning the features and processes of the platform, you will be able to more effectively support day-to-day Salesforce business operations within your organization. Through three days of interactive lectures, discussions, and hands-on exercises, you will learn to recognize the important elements of the implementation lifecycle, the key considerations to drive user adoption, and the important components of ongoing management of your Salesforce environment.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "BSX101",
   "audience" : "The Salesforce Fundamentals for Business Administration Specialists has been developed specifically for the business “user”—the people who need to learn what’s possible with Salesforce functionality across the suite of products, but aren’t necessarily responsible for managing the application. The course is ideal for roles such as Customer Services Manager, Business Executive, Business Operations, Sales Operations Manager, or any other operations, management, or process analysis “super users” that need to fully understand the business value of the Salesforce platform."
 }, {
@@ -3558,6 +3694,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "<p>Der Kurs Salesforce Grundlagen für Business-Spezialisten bietet Ihnen einen Einblick in die Möglichkeiten der Salesforce-Plattform, der dazugehörigen Anwendungen sowie deren Vorteile und Nutzen für Ihre Geschäftsprozesse. Sie erhalten eine Übersicht über die Salesforce Clouds und darüber, wie sie miteinander interagieren und verbunden sind. Indem Sie die Funktionen und Prozesse der Plattform besser verstehen, werden Sie die laufenden Geschäftsvorgänge in Ihrem Unternehmen besser unterstützen können. Anhand interaktiver Vorträge, Diskussionen und praktischer Übungen lernen Sie innerhalb von drei Tagen die wichtigen Elemente des Implementierungszyklus, die zentralen Überlegungen zur Förderung der Benutzerakzeptanz und die wichtigen Komponenten für die laufende Verwaltung Ihrer Salesforce-Umgebung kennen.</p>",
   "courseLanguage" : "German",
+  "courseCountry" : null,
   "courseCode" : "BSX101",
   "audience" : "<p>Der Kurs Salesforce Grundlagen für Business-Spezialisten richtet sich insbesondere an Endbenutzer, also an Benutzer, die zwar die Möglichkeiten der SalesforceFunktionen in den verschiedenen Produktgruppen erlernen müssen, jedoch nicht notwendigerweise für die Verwaltung der Anwendung zuständig sind. Der Kurs eignet sich für Kundendienst-, Unternehmens-, Geschäftsentwicklungs-, Vertriebsleiter und andere „Super User“ im Bereich Operations, Management oder Prozessanalyse, die umfassende Kenntnisse über den geschäftlichen Nutzen der Salesforce-Plattform benötigen.</p>"
 }, {
@@ -3584,6 +3721,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "<p>La formation Notions de base de Salesforce pour les spécialistes en administration d’entreprise vous permet de comprendre les possibilités offertes par la plate-forme Salesforce, ses applications spécifiques, ainsi que ses avantages commerciaux. Vous assisterez à une présentation des Clouds Salesforce, et découvrirez comment ils sont intégrés et interconnectés. En explorant les fonctionnalités et processus de la plateforme, vous serez en mesure de gérer plus efficacement vos activités quotidiennes sur Salesforce dans votre organisation. Pendant ces trois jours de conférences interactives, discussions et exercices pratiques, vous apprendrez à reconnaître les aspects importants du cycle de vie de mise en œuvre, les éléments clés à prendre en compte pour favoriser l’adoption par les utilisateurs et les composants importants de la gestion en continu de votre environnement Salesforce.</p>",
   "courseLanguage" : "French",
+  "courseCountry" : null,
   "courseCode" : "BSX101",
   "audience" : "<p>La formation Notions de base de Salesforce pour les spécialistes en administration d’entreprise a été développée spécifiquement pour les utilisateurs d’entreprise, à savoir les personnes qui doivent comprendre les possibilités apportées par les fonctionnalités de la suite de produits Salesforce, mais qui ne sont pas forcément chargées de la gestion de l’application. Cette formation est idéale pour les responsables service client, les cadres d’entreprise, les responsables des opérations commerciales, les directeurs des ventes ou tout  &quot;super-utilisateur&quot; impliqué dans d’autres opérations, dans la gestion ou dans l’analyse de processus, et devant comprendre entièrement la valeur commerciale de la plate-forme Salesforce</p>"
 }, {
@@ -3610,6 +3748,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "「Salesforce 管理Ⅰ[前編][後編]」コースを修了された方が、「Salesforce Platform アプリケーションビルダー基礎」コースの未習得部分のみを学習することができます。迅速にアプリケーションを開発するために Salesforce Platform の宣言的機能（マウス操作による開発機能）の活用方法を、ハンズオン演習を交えて効率良く習得します。標準アプリケーションをベースに習得したスキルを、カスタムアプリケーションも構築できるスキルに拡張し、工数を大幅に削減できるノンプログラミングの開発者を養成します。\n\n※本コースは Lightning Experience 環境のユーザインターフェースを利用します。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "DELTAX402",
   "audience" : "• Salesforce Platform の宣言的機能を学習したい開発者\n• Salesforce Platform のプログラミングやインテグレーション機能の前提知識を学習したい技術者\n•「認定 Platform アプリケーションビルダー」資格の取得を目指す方\n\n\n【受講前提条件】\n• アプリケーション開発の経験があること\n•「Salesforce 管理Ⅰ[前編][後編]」コースの修了、および同等の知識があること（Salesforce のカスタマイズ、システム管理および Lightning Experience 操作に関する知識があること）\n\n※「Salesforce 管理Ⅰ[前編][後編]」コース修了レベルの知識をお持ちでない方は、「Salesforce Platform アプリケーションビルダー基礎」コースをご受講ください。\n\n※いち早く Salesforce の操作に慣れていただくためには、事前に Trailhead と開発者コミュニティをご覧になることをお勧めします。"
 }, {
@@ -3636,6 +3775,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "Salesforce Platform 上での宣言的開発に関する知識を学習した上で、システム連携の設計と実装について学習します。\n\n本コースには、[前編]と[後編]があります。[前編]では、SOAP API や REST API など、さまざまなAPIを使用した Salesforce Platform が提供するインテグレーション手法と、シングルサインオンの仕組み・実装方法を学習します。本コースと「Salesforce Platform インテグレーション [後編]」コースを合わせて受講することで、インテグレーション手法を包括的に学習することができます。学習効果を最大限に高めるためには、本コースのご受講後に [後編] を受講されることを強くお勧めします。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "DEX502-1",
   "audience" : "• Salesforce Platform クラウドアプリケーションのインテグレーション設計・実装を学習したい方（自社の Salesforce 開発担当者、システムインテグレーター、アーキテクト、独立ソフトウェアベンダー（ISV））\n•「認定上級 Platform デベロッパー」資格の取得を目指している方\n•「認定 Integration Architecture デザイナー」資格の取得を目指している方\n•「認定 Identity and Access Management デザイナー」資格の取得を目指している方\n\n\n【受講前提条件】\nJava、C#  などの一般的なオブジェクト指向言語の実装経験\n\n※Salesforce Platform の詳しい知識をお持ちですと、より理解が深まります。"
 }, {
@@ -3662,6 +3802,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "Salesforce Platform 上での宣言的開発に関する知識を学習した上で、システム連携の設計と実装について学習します。\n\n本コースには、[前編]と[後編]があります。[後編]では、Salesforce Connect や Salesforce to Salesforce など宣言的な連携方法や、Heroku Connect によるデータベース同期、カスタム Web サービスを提供したインバウンド連携、Apex、Visualforce といった、Salesforce Platform のプログラミング機能から他のシステムへ連携する方法を学習します。本コースと「Salesforce Platform インテグレーション [前編]」コースを合わせて受講することで、インテグレーション手法を包括的に学習することができます。学習効果を最大限に高めるためには、本コースのご受講前に [前編] を受講されることを強くお勧めします。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "DEX502-2",
   "audience" : "• Salesforce Platform クラウドアプリケーションのインテグレーション設計・実装を学習したい方（自社の Salesforce 開発担当者、システムインテグレーター、アーキテクト、独立ソフトウェアベンダー（ISV））\n•「認定上級 Platform デベロッパー」資格の取得を目指している方\n•「認定 Integration Architecture デザイナー」資格の取得を目指している方\n•「認定 Identity and Access Management デザイナー」資格の取得を目指している方\n\n\n【受講前提条件】\n•Apex コードと Visualforce コードの実装経験\n（Node.js などの JavaScript フレームワークの知識があることも推奨しますが、必須ではありません。）\n\n※Salesforce Platform に詳しい知識をお持ちですと、より理解が深まります。"
 }, {
@@ -3688,6 +3829,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "Salesforce の概要と基本機能、開発の勘所を、講義と実習を通して学習します。実際に操作して体感しながら、Salesforce の全体像を理解したい方に最適のコースです。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "ITR101",
   "audience" : "• 初めてSalesforceの機能を学習される方 \n• Salesforce を提案、導入する可能性のある方 \n\n\n【受講前提条件】\n• どなたでもご受講が可能です。 \n\n※いち早くSalesforce の操作に慣れていただくためには、事前に Trailhead （無料オンライン学習リソース）にて「Lightning Experience の CRM」のモジュールをご覧になることをお勧めします（必須ではありません）。"
 }, {
@@ -3714,6 +3856,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "Salesforce Platform プラットフォーム上での宣言的開発に関する知識を学習した上で、プログラミングによる開発知識をさらに深めて学習します。\n\n[後編]では、[前編]と同様に Apex プログラムについて学習し、さらに Visualforce を使用した、Salesforce アプリケーションのユーザインターフェースの構築・拡張について、演習を交えて解説します。本コースと 「Salesforce Platform  開発者: ApexとVisualforce [前編]」コースを合わせて受講することで、重要な機能を包括的に習得することができます。学習効果を最大限に高めるためには、本コースのご受講前に [前編] を受講されることを強くお勧めします。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "DEX450-2",
   "audience" : "• Salesforce Platform のプログラミング機能を学習したいアプリケーション開発者\n• 「認定 Platform デベロッパー」資格の取得を目指す方\n\n\n【受講前提条件】\n• 「Salesforce Platform 開発者: Apex と Visualforce [前編]」コースの修了、または同等の知識があること\n• Java、C# などの一般的なオブジェクト指向言語の実装経験および、Web 開発言語を使用した実装経験があること\n\n※本コースは、オブジェクト指向プログラミングの基礎に関する内容は、習得済みであることを前提としており、基礎知識に関する内容は含まれていません。"
 }, {
@@ -3740,6 +3883,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Learn the fundamentals of being a Salesforce Admin – in just 30 days! The Salesforce Proficiency Pack for Administrators is a blended, prescriptive, expert-led training program that gives you a 30-day plan to learn what you need to be an awesome Salesforce Administrator, and fast tracks you to the Salesforce Certified Administrator certification. The program is a mix of engaging bite-sized Trailhead content and live coaching from Salesforce Certified instructors. Twice a week, you will have the opportunity to tune in and review each week’s learning with your instructor and the chance for Q&amp;A with fellow students. The program includes a certification practice exam voucher and a voucher to sit for the Salesforce Certified Administrator exam.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "SPP201",
   "audience" : "The Salesforce Proficiency Pack for Administrators is designed for anyone who wants to learn the ins and outs of Salesforce administration with a flexible self-paced learning schedule."
 }, {
@@ -3766,6 +3910,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "Learn the fundamentals of being a Salesforce Admin – in just 30 days! The Salesforce Proficiency Pack for Administrators is a blended, prescriptive, expert-led training program that gives you a 30-day plan to learn what you need to be an awesome Salesforce Administrator, and fast tracks you to the Salesforce Certified Administrator certification. The program is a mix of engaging bite-sized Trailhead content and live coaching from Salesforce Certified instructors. Twice a week, you will have the opportunity to tune in and review each week’s learning with your instructor and the chance for Q&amp;A with fellow students. The program includes a certification practice exam voucher and a voucher to sit for the Salesforce Certified Administrator exam.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "SPP201",
   "audience" : "The Salesforce Proficiency Pack for Administrators is designed for anyone who wants to learn the ins and outs of Salesforce administration with a flexible self-paced learning schedule."
 }, {
@@ -3792,6 +3937,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "Lightning Experience 環境のユーザインターフェースをご利用の Salesforce 管理者に必須となる機能を、ハンズオン演習を交えて包括的に学習します。\n管理者が Salesforce のご利用を開始される前、または業務を引き継がれるタイミングでのご受講が効果的です。\n\n本コースには、[前編]と[後編]があります。[前編]では、Salesforce 導入にあたって重要な要素となる情報共有セキュリティやカスタマイズなどの機能を学習します。本コースと「Salesforce 管理Ⅰ[後編] 」コースを合わせて受講することで、重要な基本機能を包括的に学習することができます。学習効果を最大限に高めるためには、本コースのご受講後に [後編] を受講されることを強くお勧めします。\n\n※本コースは Lightning Experience 環境のユーザインターフェースを利用します。Salesforce Classic 環境をご利用の方は、「Salesforce 管理 I [前編]」コース（ADM201-1）をご受講ください。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "ADX201-1",
   "audience" : "• Lightning Experience環境のユーザインターフェースで Salesforce アプリケーションの設定、構成、保守をご担当される方（新任のシステム管理者、およびパワーユーザ、セールスオペレーション担当者、IT マネージャーなどのエンドユーザ）\n•「認定アドミニストレーター」資格の取得を目指している方\n\n\n【受講前提条件】\nどなたでもご受講が可能です。\n\n※ご受講前に CRM の基本知識および Salesforce の概要を学びたい方は、Trailhead（無料オンライン学習リソース）にて「Lightning Experience の CRM」のモジュールで学習されることをお勧めします（必須ではありません）。"
 }, {
@@ -3818,6 +3964,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "Lightning Experience 環境のユーザインターフェースをご利用の Salesforce 管理者に必須となる機能を、ハンズオン演習を交えて包括的に学習します。\n管理者が Salesforce のご利用を開始される前、または業務を引き継がれるタイミングでのご受講が効果的です。 \n\n本コースには、[前編]と[後編]があります。[後編]では、Salesforce 導入にあたって 重要な要素となるレポートやワークフローの機能を学習します。本コースと「Salesforce 管理Ⅰ[前編] 」コースを合わせて受講することで、 重要な基本機能を包括的に学習することができます。学習効果を最大限に高めるためには、本コースのご受講後に [後編] を受講されることを強くお勧め します。 \n\n※本コースは Lightning Experience 環境のユーザインターフェースを利用します。Salesforce Classic 環境をご利用の方は、「 Salesforce 管理 I [後編]」コース（ADM201-2）をご受講ください",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "ADX201-2",
   "audience" : "• Lightning Experience 環境のユーザインターフェースで Salesforce アプリケーションの設定、構成、保守をご担当される方（新任のシステム管理者、およびパワーユーザ、セールスオペレーション担当者、IT マネージャーなどのエンドユーザ）\n•「認定アドミニストレーター」資格の取得を目指している方\n\n\n【受講前提条件】\n•「Salesforce 管理Ⅰ[前編] 」コースの修了、または同等の知識があること"
 }, {
@@ -3844,6 +3991,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "<p>dfsfsdfdsfsd fsdf sdf </p>",
   "courseLanguage" : "French",
+  "courseCountry" : null,
   "courseCode" : "sdfsfdsf",
   "audience" : "MIIEpAIBAAKCAQEAvKz4PNqZB2hWq88xOGBjMd6e2Tp6w/Pfoaq9oVu7dOUCvWyd BKfYPjWBnbM2Dn1mmL3hPdFRPKss7pPfJN3wvz1g9gKjAPZ1FW7SLm9fEETpflV9 EiA7lpmE+Se9ZrOg8unE+3rRLSYjHesehMpTVBaynktgCKrjA67YndYOkXh65Ri4 nXbGrH/auOBrfh1WmmBuxIgURwRXM4MTpShekV43tEmiS/nQVcDjjTMEFuSZY2HG eAKD8uCcGesMHVxp5Vz1wrCuSQa12OzCfbkmvdKl5qnZSGp9hofEF/c4P4aWqDXZ 1yhelNjcC1AafCcaqakMs6bWb4x/OcAxc5+lmQIDAQABAoIBAQCZ5rWuXdlJs5BP IPjTNbx0J1WHeC4/vKQEKVP5VOw507xCa2BBNfAr/lU2H8LOWvffS7N5S05qoG5M RY5Vcjw4ooZ+5XO1C1RCIV2MxwfSK4QSqwUUTfqNQ7i1y/aw2YFF4+3r/Ci4HU2z z9/bDXafNsyIVo+FQm9ex7amOL81ZJpzohChAiqpB0ujVW0bkDUsG5iHlgj96aE7 p6w6ioglyT6+7b3F4LO+rSfdpkxpRoHTJAXr5jMDMWtPf8S58OOGRc3FvUtwzk1+ re8KbE2qt9hmZxvC8PaA1U3rK7kZN6K9reNvvP1bGaLZF100o69m49UtqYJKU8rp 2e4U69gBAoGBAPYYUv6cy/dAt5Xjui0zuBy33MLxosdOoQkzyFgLU/0m9SQgZ/Fw N9/3A9DB2oDcxNKmnezo/5qtQaXZRxPhE6omR+++fi15oYJbVVF1XXGqlT54Ao9U N9dVwPnzrmAhoj7WwAJvJWRxSExedgtz4yQeXi2nrgRuldSRpWV5ZmCBAoGBAMRF BE4xHdbFWjMjxsf5P2GmSWD4F6qjunmA/n63CaXdhtThvFW1yiYVlJiIQPh1hSP3 r+7SQVVvUd6LI7vjalSnUE8HWk/IJ+cpcgXsrCipl3AUYwdIrbIHiUdRoG4gXAZr 3hkU7vHwp6mlbZm03nMi8rMPKHM0kTvYa3DLY7kZAoGAIs1Fz2P1JD4uuC/AQGwz +Tu3KIprbqwb8eU0y96uPfqoaDd8+5PXEwEntPn1IIwX+YI+iyZYH1OpGP8lIhaO ZV2Mhsb1qRCuWnT4F9D1KgHpoS/vjL1oODeUVsSzQD0BaMmN1cpKC25JvyMMpon4 8T6qKuKvpUjOP4VpUnRcmgECgYBJjVO/uchk5DCZWZ708gM+pQJ6xH6aBCGtxxmY gx+qeQo+XRonRKks/IljYCx48BGlGP1lkoXJbp5Pt/T8RI1kjA8cjrTZkTji+DUy 4y7hTiziY8F4yVPOk+RuRbjJjHbwMRxaae3h3T335XbdU1rJ6x7o25VdFyYWN1SM QKxugQKBgQDOsed+AIxTdrbaqX4c9wp19YjbjVWKu30LCVxoe3VGmCRzG1ex2vQa GRs07OEcu2eHKM8prRkfCJm8YpDkwF1EeVf1L4Ydn3cufqmU8apRz0MR9N4PTL NgiAP9I9sxxuvMHyHKWt3lwLeK2QfK2BVbHKFaA9Crn0qeTVY3tKnw=="
 }, {
@@ -3870,6 +4018,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Administration Service Cloud est une formation complète pour les administrateurs expérimentés qui ont besoin de configurer et maintenir le Service Cloud pour leurs organisations. En utilisant des scénarios de cas réels, cette formation apprend aux administrateurs comment configurer Salesforce Knowledge, créer des contrats de service avec des jalons et des autorisations, créer la Console pour l’application Service, configurer le SoftPhone en utilisant Open CTI, et activer Live Agent. Ce cours apprend également aux administrateurs comment configurer Customer Community",
   "courseLanguage" : "French",
+  "courseCountry" : null,
   "courseCode" : "ADM261",
   "audience" : "<p>L’administration Service Cloud est une formation conçue pour des administrateurs qui ont un minimum de 6 mois d’expérience sur Salesforce et/ou qui ont suivi la formation l’Administration pour les nouveaux administrateurs</p>"
 }, {
@@ -3896,6 +4045,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "<p>Der Kurs Service Cloud-Administration ist ein Muss für erfahrene Administratoren, die die Service Cloud für ihr Unternehmen konfigurieren und betreuen müssen. Anhand von praxisorientierten Szenarien vermittelt dieser Kurs Administratoren, wie sie Salesforce Knowledge konfigurieren, Service-Verträge mit Meilensteinen und Ansprüchen anlegen, die Konsole für die Service-Anwendung erstellen, das SoftPhone mit Open CTI konfigurieren und Live Agent einrichten. Außerdem wird Ihnen gezeigt, wie eine KundenCommunity konfiguriert werden kann.</p>",
   "courseLanguage" : "German",
+  "courseCountry" : null,
   "courseCode" : "ADM261",
   "audience" : "<p>Service Cloud-Administration ist für folgende Zielgruppen gedacht Administratoren mit mindestens sechs Monaten Erfahrung mit Salesforce und/oder Administratoren, die den Kurs Grundlagen der Administration für neue Administratoren absolviert haben.</p>"
 }, {
@@ -3922,6 +4072,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "Service Cloud Administration is a must for experienced administrators who need to configure and maintain the Service Cloud for their organizations. Using real-world scenarios, this course will teach administrators how to configure Salesforce Knowledge, set up service contracts with milestones and entitlements, create the Console for Service application, configure the SoftPhone using Open CTI, and set up Live Agent. This course will also teach administrators how to configure a Customer Community.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "ADM261",
   "audience" : "Administrators with at least six months experience using Salesforce and/or administrators who have completed the Administration Essentials for New Administrators course"
 }, {
@@ -3948,6 +4099,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Service Cloud Administration is a must for experienced administrators who need to configure and maintain the Service Cloud for their organizations. Using real-world scenarios, this course will teach administrators how to configure Salesforce Knowledge, set up service contracts with milestones and entitlements, create the Console for Service application, configure the SoftPhone using Open CTI, and set up Live Agent. This course will also teach administrators how to configure a Customer Community.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "ADX261",
   "audience" : "Administrators with at least six months experience using Salesforce and/or administrators who have completed the Administration Essentials for New Administrators course"
 }, {
@@ -3974,6 +4126,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "Service Cloud の設定やメンテナンスをご担当する方に必要なスキルを学習します。実際の業務イメージに即したシナリオを使用して、Salesforce ナレッジ、マイルストンとエンタイトルメントを使用したサービス契約、カスタマーコミュニティの概念、サービス担当者がよりインタラクティブに業務をするためのケースフィードや、Lightning コンソールの設定方法と、CTI 連携の基本を習得します。\n\n※本コースは Lightning Experience 環境のユーザインターフェースを利用します。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "ADX261",
   "audience" : "• Salesforce の管理者として 6 ヵ月間以上の経験がある方\n• Service Cloud の機能を導入し、管理する方\n•「認定 Service Cloud コンサルタント」資格の取得を目指している方\n•「認定上級アドミニストレーター」資格の取得を目指している方\n\n\n【受講前提条件】\n• Salesforce の使用経験が 6 カ月間以上あるシステム管理者\nまたは\n•「Salesforce 管理Ⅰ[前編][後編] 」コースの修了、および同等の知識があること（Salesforce のカスタマイズ、システム管理および Lightning Experience 操作に関する知識があること）"
 }, {
@@ -4000,6 +4153,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "Service Cloud Administration is a must for experienced administrators who need to configure and maintain the Service Cloud for their organizations. Using real-world scenarios, this course will teach administrators how to configure Salesforce Knowledge, set up service contracts with milestones and entitlements, create the Console for Service application, configure the SoftPhone using Open CTI, and set up Live Agent. This course will also teach administrators how to configure a Customer Community.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "ADX261",
   "audience" : "Administrators with at least six months experience using Salesforce and/or administrators who have completed the Administration Essentials for New Administrators course"
 }, {
@@ -4026,6 +4180,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "In Zeiten steigender Ausgaben für Social Media benötigen Unternehmen eine zentrale Stelle für die Organisation ihrer Social-Media-Teams, die Planung und Veröffentlichung von Content, die Interaktion mit ihren Kunden und die Analyse der entstandenen Social-Media-Konversationen. Die Grundlagen in Social Studio ist ein umfassender und praxisorientierter Kurs, der Ihren Erfolg mit Social Studio garantiert.",
   "courseLanguage" : "German",
+  "courseCountry" : null,
   "courseCode" : "SS101",
   "audience" : "<p>Dieser Kurs richtet sich an Social Marketer, die für den sozialen Kanal in ihrem Unternehmen zuständig sind. Es sind keine Vorkenntnisse in Bezug auf die Marketing Cloud erforderlich.</p>"
 }, {
@@ -4052,6 +4207,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "ソーシャルメディア活用の重要度が高まる中、ソーシャルマーケティングチームを組織し、コンテンツの企画・投稿や顧客とのエンゲージメントを強める取り組み、そして、ソーシャルリスニングを実施する企業の存在も決して珍しくなくなってきました。\n本コースでは、ハンズオン演習を交えて総合的に Social Studio を学習し、ソーシャルマーケティングの成功を後押しします。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "SS101",
   "audience" : "• 組織のソーシャルチャネルを管理するソーシャルマーケターの方\n\n\n【受講前提条件】\n• どなたでもご受講が可能です。"
 }, {
@@ -4078,6 +4234,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Les dépenses liées aux réseaux sociaux augmentent continuellement et vous aurez besoin d’un espace unique pour organiser vos équipes dédiées, planifier et publier votre contenu, interagir avec vos clients et analyser les conversations tenues sur les réseaux sociaux. La formation Social Studio 101 est complète et pratique guarantissant votre succès avec Social Studio.",
   "courseLanguage" : "French",
+  "courseCountry" : null,
   "courseCode" : "SS101",
   "audience" : "<p>Ce cours est destiné aux professionnels du marketing sur les réseaux sociaux qui gèrent les canaux sociaux dans leur organisation. Aucune connaissance préalable sur Marketing Cloud est requise.</p>"
 }, {
@@ -4104,6 +4261,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "Social Media spending is continuing to increase and you’ll need one place to organize your social teams, plan and publish your content, engage with your customers, and analyze conversations occurring on social media. Comprehensive and hands-on, Social Studio 101 is the core training that ensures your success with Social Studio.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "SS101",
   "audience" : "This course is designed for the social marketers who manage the social channel for their organization. No prior knowledge of the Marketing Cloud is needed."
 }, {
@@ -4130,6 +4288,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "「 Salesforce 管理Ⅰ[前編] [後編]」コースでは講習範囲外の、Sales Cloud の商談管理に関わる様々なアドバンス機能を学習します。商品、価格表、見積、注文を使用した商談の提案活動における商品明細の利用方法、パイプラインから商談成立までの販売サイクルを予測するコラボレーション売上予測、商談に影響を与えたキャンペーンの追跡や ROI の確認方法を、ハンズオン演習を交えて習得します。\n\n※本コースは Lightning Experience 環境のユーザインターフェースを利用します。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "ADX251",
   "audience" : "• 商品、売上予測、キャンペーンなどのアドバンス機能を使用して Sales Cloud をさらに活用したい方\n•「認定 Sales Cloud コンサルタント」資格の取得を目指している方\n•「認定上級アドミニストレーター」資格の取得を目指している方\n\n\n【受講前提条件】\n• Salesforce の使用経験が 6 カ月間以上あるシステム管理者\nまたは\n•「Salesforce 管理Ⅰ[前編] [後編]」コースの修了、または同等の知識があること"
 }, {
@@ -4156,6 +4315,7 @@
   "courseRegion" : "AMER",
   "courseOverview" : "If your responsibilities include developing and implementing an Einstein Analytics environment that contains Salesforce and non-Salesforce data, setting up Einstein Analytics data security, and creating dashboards that require advanced functionality and edits to queries, taking this class will boost your skills to the next level. In this 3-day instructor-led course, you will learn how to set up users in Einstein Analytics, load and transform Salesforce and non-Salesforce data, and configure data security with apps and row-level security predicates. You will also learn how to modify dashboard queries in JSON and Salesforce Analytics Query Language (SAQL), and update extended metadata.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "ANC301",
   "audience" : "Working with data and dashboards in Einstein Analytics is ideal for integration specialists who want to learn more about connecting and securing data in Einstein Analytics. This course is also great for business analysts or developers interested in creating advanced dashboards."
 }, {
@@ -4182,6 +4342,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "Salesforce データや外部データを使用した Einstein Analytics 環境の構築について学習します。構築において必要となるデータセットのセキュリティ保護方法や、高度なクエリを必要とする効果的なダッシュボードの構築方法を学び、Einstein Analytics をより高度に使用できる構築者へとスキルアップを図れます。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "ANC301",
   "audience" : "• Einstein Analytics でセキュリティを保護しつつ、さまざまなデータを扱う必要があるインテグレーションスペシャリスト\n• 高度なダッシュボードを作成するビジネスアナリストやデベロッパー\n\n\n【受講前提条件】\n• 「Einstein Analytics 1: データ探索編」コースおよび「Einstein Analytics 2: ダッシュボード構築編」の修了、または同等の知識があること\n• Salesforce の前提スキル : 基本操作、スキーマ、セキュリティモデル、ユーザ、プロファイル、権限セット\n• Einstein Analytics の前提スキル : データ探索、UI 操作によるダッシュボードの作成、簡単な JSON によるダッシュボードの修正J"
 }, {
@@ -4208,6 +4369,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "If your responsibilities include developing and implementing an Einstein Analytics environment that contains Salesforce and non-Salesforce data, setting up Einstein Analytics data security, and creating dashboards that require advanced functionality and edits to queries, taking this class will boost your skills to the next level. In this 3-day instructor-led course, you will learn how to set up users in Einstein Analytics, load and transform Salesforce and non-Salesforce data, and configure data security with apps and row-level security predicates. You will also learn how to modify dashboard queries in JSON and Salesforce Analytics Query Language (SAQL), and update extended metadata.",
   "courseLanguage" : "English",
+  "courseCountry" : null,
   "courseCode" : "ANC301",
   "audience" : "Working with data and dashboards in Einstein Analytics is ideal for integration specialists who want to learn more about connecting and securing data in Einstein Analytics. This course is also great for business analysts or developers interested in creating advanced dashboards."
 }, {
@@ -4234,6 +4396,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "<p>Gehört zu Ihren Zuständigkeiten das Entwickeln einer Einstein Analytics-Umgebung mit Salesforce-Daten und externen Daten, das Einrichten von Einstein AnalyticsDatensicherheit und das Erstellen attraktiver und effektiver Dashboards mit der Anforderung erweiterter Abfragen, können Sie Ihre Kenntnisse mit diesem Kurs umfassend vertiefen. </p><p><br></p><p>In diesem dreitägigen Kurs lernen Sie, wie Sie Benutzer in Einstein Analytics einrichten, Salesforce-Daten und externe Daten mit JSON-Metadatendateien in Einstein Analytics laden oder umwandeln und mit Apps und zeilenbasierten Sicherheitseinstellungen Datensicherheit konfigurieren. Sie erfahren außerdem, wie Sie mit dem Einstein Analytics Dashboard Designer Desktop- und Mobil-Layouts auf Dashboards anwenden, DashboardAbfragen über die Aktualisierung kompakter Formular- und SAQL-Abfragen anpassen und mit einer XML-Datei Metadaten aktualisieren.</p>",
   "courseLanguage" : "German",
+  "courseCountry" : null,
   "courseCode" : "ANC301",
   "audience" : "<p>Der Kurs Mit Daten und Dashboards in Einstein Analytics arbeiten ist ideal für Integrationsexperten geeignet, die ihre Kenntnisse zum Verbinden und Sichern von Daten in Einstein Analytics vertiefen möchten. Außerdem richtet sich dieser Kurs an BusinessAnalysten und Entwickler, die sich für die Erstellung erweiterter Dashboards interessieren.</p>"
 }, {
@@ -4260,6 +4423,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "「認定 B2C Commerce デベロッパー(旧名：認定 Commerce Cloud Digital デベロッパー)」試験に備え、試験範囲に含まれる重要な概念や機能を学習するコ ースです。「Salesforce B2C Commerce 開発者」コースの内容を復習して知識を深め、コース内では解説していない試験範囲の概要にも理解を広げることでスコアアップを目指します。 本コース受講後にご自身でポイントを整理して復習し、理解を深めてから試験を受験することを強くお勧めします。 \n\n※通常、本コースには試験は含まれておりません。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "CRT801",
   "audience" : "「認定 B2C Commerce デベロッパー(旧名：認定 Commerce Cloud Digital デベロ ッパー)」資格の取得を目指している方\n\n【受講前提条件】\n 「Salesforce B2C Commerce 開発者」コースを修了、または同等の知識があること"
 }, {
@@ -4286,6 +4450,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "「認定 Marketing Cloud コンサルタント」試験合格に求められる知識と思考力を養成するコースです。「Marketing Cloud: メール基礎 ［前編］[後編］」コースおよび 「Marketing Cloud: Journey Builder」コースの両コースで得た知識を前提として、出題範囲に沿った講義、サンプル練習問題、ハンズオン演習によって知識を底上げし、効率的な試験の準備をサポートします。\n本コース受講後にご自身でポイントを整理し復習し、理解を深めてから試験を受験することを強くお勧めします。\n\n※通常、本コースには試験は含まれておりません。",
   "courseLanguage" : "Japanese",
+  "courseCountry" : null,
   "courseCode" : "CRT701",
   "audience" : "•「認定 Marketing Cloud コンサルタント」試験の合格を目指している方\n\n\n【受講前提条件】\n•「Marketing Cloud: メール基礎 ［前編］[後編］」コースおよび「Marketing Cloud: Journey Builder」コースを修了、または同等レベルの知識があること"
 } ]}
