@@ -49,7 +49,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "<p>Der Kurs Grundlagen der Administration für erfahrene Administratoren ist mit seinen fortgeschrittenen Inhalten und zahlreichen praktischen Übungen ideal für Administratoren, die ihr Wissen über die Salesforce Anwendungen vertiefen und weitergehende, administrative Funktionalitaeten erlernen möchten. Themenbereiche werden anhand von realistischen Szenarien erarbeitet, wie z.B. das Erweitern der Salesforce Anwendung durch neue Objekte und Anwendungen, Erstellen komplexer Berichte und Dashboards und Automatisieren komplexer Geschäftsprozesse, um Ihre Arbeit mit Salesforce noch effizienter zu gestalten.</p>",
   "courseLanguage" : "German",
-  "courseCountry" : "France",
+  "courseCountry" : "France;Japan",
   "courseCode" : "ADM211",
   "audience" : "<p>Grundlagen der Administration für erfahrene Administratoren ist für folgende Zielgruppen gedacht Administratoren mit mindestens sechs Monaten Erfahrung mit Salesforce und/oder Administratoren, die den Kurs Grundlagen der Administration für neue Administratoren absolviert haben</p>"
 }, {
@@ -562,7 +562,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "<p>B2B Commerce (formerly CloudCraze) Technical Training is a 4-day expert-led course that includes the foundational course (B2B-101) plus added technical topics. It is designed to provide an orientation of the B2B Commerce components as well as hands-on exploration of the platform across architectural, functional, and technical topics.</p>",
   "courseLanguage" : "English",
-  "courseCountry" : "",
+  "courseCountry" : "Japan",
   "courseCode" : "B2B201",
   "audience" : "<p>The audience for B2B Commerce Technical Training is any individual who will participate in a new implementation who needs working knowledge and experience with B2B Commerce technical components. Attendees should have intermediate skills in: </p><ul><li>Object Oriented Programming (Apex or Java) </li><li>Full-Stack Development (VisualForce, JavaScript, CSS and REST APIs, JSON, Handlebars, and jQuery) </li><li>Salesforce Administration (Sharing Rules, Process Builder, and Object Relationships)</li></ul>"
 }, {
@@ -1507,7 +1507,7 @@
   "courseRegion" : "JAPAN",
   "courseOverview" : "Salesforce Platform 開発におけるファーストステップのコースです。迅速にアプリケーションを開発するために Salesforce Platform の宣言的機能（マウス操作による開発機能）の活用方法を、ハンズオン演習を通じて学習します。工数を大幅に削減できるノンプログラミングの開発者を養成します。\n\n※本コースは Lightning Experience 環境のユーザインターフェースを利用します。",
   "courseLanguage" : "Japanese",
-  "courseCountry" : "",
+  "courseCountry" : "Japan",
   "courseCode" : "DEX402",
   "audience" : "• 初めてSalesforceの機能を学習される方\n• Salesforce Platform の宣言的機能を学習したい開発者\n• Salesforce Platform のプログラミングやインテグレーション機能の前提知識を学習したい技術者\n• 「認定 Platform アプリケーションビルダー」資格の取得を目指す方\n\n※標準アプリケーションの管理やカスタマイズも学習したい方は、本コースではなく「Salesforce 管理Ⅰ[前編][後編]」コース（修了済みの方は受講不要）をご受講後に、「Salesforce Platform アプリケーションビルダー基礎差分」コースのご受講されることをお勧めします。\n\n\n【受講前提条件】\n• アプリケーション開発の経験があること\n•「Salesforce 管理Ⅰ[前編][後編]」コースの修了、および同等の知識があること（Salesforce のカスタマイズ、システム管理および Lightning Experience 操作に関する知識があること）\n\n※いち早く Salesforce の操作に慣れていただくためには、事前に Trailhead と開発者コミュニティをご覧になることをお勧めします。\n\n Trailhead\n https://trailhead.salesforce.com/ja\n \n開発者コミュニティ\n http://developer.salesforce.com/ja/"
 }, {
@@ -3910,7 +3910,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "Administration Service Cloud est une formation complète pour les administrateurs expérimentés qui ont besoin de configurer et maintenir le Service Cloud pour leurs organisations. En utilisant des scénarios de cas réels, cette formation apprend aux administrateurs comment configurer Salesforce Knowledge, créer des contrats de service avec des jalons et des autorisations, créer la Console pour l’application Service, configurer le SoftPhone en utilisant Open CTI, et activer Live Agent. Ce cours apprend également aux administrateurs comment configurer Customer Community",
   "courseLanguage" : "French",
-  "courseCountry" : "",
+  "courseCountry" : "Japan",
   "courseCode" : "ADM261",
   "audience" : "<p>L’administration Service Cloud est une formation conçue pour des administrateurs qui ont un minimum de 6 mois d’expérience sur Salesforce et/ou qui ont suivi la formation l’Administration pour les nouveaux administrateurs</p>"
 }, {
@@ -4261,7 +4261,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "If your responsibilities include developing and implementing an Einstein Analytics environment that contains Salesforce and non-Salesforce data, setting up Einstein Analytics data security, and creating dashboards that require advanced functionality and edits to queries, taking this class will boost your skills to the next level. In this 3-day instructor-led course, you will learn how to set up users in Einstein Analytics, load and transform Salesforce and non-Salesforce data, and configure data security with apps and row-level security predicates. You will also learn how to modify dashboard queries in JSON and Salesforce Analytics Query Language (SAQL), and update extended metadata.",
   "courseLanguage" : "English",
-  "courseCountry" : "",
+  "courseCountry" : "France",
   "courseCode" : "ANC301",
   "audience" : "Working with data and dashboards in Einstein Analytics is ideal for integration specialists who want to learn more about connecting and securing data in Einstein Analytics. This course is also great for business analysts or developers interested in creating advanced dashboards."
 }, {
