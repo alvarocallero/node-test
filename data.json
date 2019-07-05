@@ -21,7 +21,7 @@
   "deliveryFormat" : "In-person;Virtual",
   "courseRegion" : "EMEA",
   "courseOverview" : "<p>L’essentiel de l’administration pour les nouveaux administrateurs est une formation complète et pratique qui garantira votre réussite avec Salesforce. Elle est indispensable pour les nouveaux administrateurs. Nous recommandons aux administrateurs de suivre cette formation avant de déployer Salesforce ou au moment de reprendre un déploiement existant.</p>",
-  "courseLanguage" : "French;German",
+  "courseLanguage" : "French;German;Portuguese",
   "courseCountry" : "",
   "courseCode" : "ADM201",
   "audience" : "<p>Le cours L’essentiel de l’administration pour les nouveaux administrateurs s’adresse:</p><p><br></p><ul><li>Aux nouveaux administrateurs systèmes chargés de l’installation, de la configuration et de la maintenance des applications Salesforce dans leur entreprise</li><li>À d’autres employés qui souhaitent approfondir leur connaissance de Salesforce, comme les utilisateurs expérimentés, le personnel des opérations de ventes et les responsables informatiques</li></ul>"
