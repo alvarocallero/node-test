@@ -23,7 +23,7 @@
   "courseRegion" : "EMEA",
   "courseOverview" : "<p>Umfassender Überblick mit vielen praktischen Übungen. Grundlagen der Administration für neue Administratoren ist das Herzstück Ihrer Ausbildung für die erfolgreiche Administration Ihrer Salesforce-Anwendung. Ein “Muss” für neue Administratoren. Wir empfehlen diesen Kurs im Vorfeld Ihrer operativen Verantwortung für Salesforce zu absolvieren.</p>",
   "courseLanguage" : "German",
-  "courseCountry" : "Germany",
+  "courseCountry" : "Germany;Mexico",
   "courseCode" : "ADM201",
   "audience" : "<p>Der Kurs Grundlagen der Administration für neue Administratoren ist gedacht für:</p><ul><li>neue Systemadministratoren, die für die Einrichtung, Konfiguration und Pflege der Salesforce-Anwendungen ihres Unternehmens verantwortlich sind.</li><li>andere Gruppen, die ihre Salesforce-Kenntnisse vertiefen möchten, darunter Power User, Mitarbeiter in der Vertriebssteuerung und IT Manager.</li></ul><p><br></p><p>Sie können diesen Kurs als Präsenzkurs oder in einem virtuellen Klassenraum absolvieren. Der virtuelle Klassenraum spart den Teilnehmern Reisekosten. In beiden Fällen beinhaltet der Kurs praktische Übungen und individuelle Betreuung durch den Kursleiter sowie die Interaktion mit anderen Teilnehmern. Wenn Sie virtuell am Kurs teilnehmen möchten, benötigen Sie lediglich einen Webbrowser und ein Telefon, um dem Unterricht folgen zu können und praktische Erfahrung mit der Anwendung zu sammeln.</p>"
 }, {
