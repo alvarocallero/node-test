@@ -130,18 +130,10 @@
   "url" : "www.globalknowledge.com/salesforce",
   "status" : "",
   "phone" : "+47 22 95 66 00",
-  "name" : "Global Knowledge",
+  "name" : "Global  Knowledge",
   "image" : "",
   "email" : "info@globalknowledge.no",
   "country" : "Denmark"
-}, {
-  "url" : "www.fluidogroup.com/expertise/training",
-  "status" : "",
-  "phone" : "+358 40 199 0242",
-  "name" : "Fluido",
-  "image" : "",
-  "email" : "events@fluidogroup.com",
-  "country" : "Finland"
 }, {
   "url" : "www.ei-technologies.com/fr",
   "status" : "",
