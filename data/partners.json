@@ -95,14 +95,6 @@
   "email" : "universitybrasil@k2partnering.com",
   "country" : "Brazil"
 }, {
-  "url" : "www.celnet.com.cn",
-  "status" : "",
-  "phone" : "400 8199 012",
-  "name" : "Celne",
-  "image" : "",
-  "email" : "training@celnet.com.cn",
-  "country" : "China"
-}, {
   "url" : "http://www.easthome.com",
   "status" : "",
   "phone" : "010-83050808-1101/ 13683153285",
@@ -130,18 +122,10 @@
   "url" : "www.globalknowledge.com/salesforce",
   "status" : "",
   "phone" : "+47 22 95 66 00",
-  "name" : "Global Knowledge",
+  "name" : "Global  Knowledge",
   "image" : "",
   "email" : "info@globalknowledge.no",
   "country" : "Denmark"
-}, {
-  "url" : "www.fluidogroup.com/expertise/training",
-  "status" : "",
-  "phone" : "+358 40 199 0242",
-  "name" : "Fluido",
-  "image" : "",
-  "email" : "events@fluidogroup.com",
-  "country" : "Finland"
 }, {
   "url" : "www.ei-technologies.com/fr",
   "status" : "",
@@ -217,7 +201,7 @@
 }, {
   "url" : "www.bridgingminds.net",
   "status" : "",
-  "phone" : "65 6635 5590",
+  "phone" : "65 6635 5594",
   "name" : "BridgingMinds",
   "image" : "",
   "email" : "enquiry@bridgingminds.net",
