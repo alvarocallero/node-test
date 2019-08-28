@@ -111,28 +111,12 @@
   "email" : "contactus@globalknowledge.co.id",
   "country" : "Indonesia"
 }, {
-  "url" : "www.ipc.ph",
-  "status" : "",
-  "phone" : "+63 2 848 8700",
-  "name" : "IPC",
-  "image" : "",
-  "email" : "salesteam@ipc.ph",
-  "country" : "Philippines"
-}, {
   "url" : "trailhead.isdi.education",
   "status" : "",
   "phone" : "+34 9173 73925",
   "name" : "ISDI",
   "image" : "",
   "email" : "info@isdi.education",
-  "country" : "Spain"
-}, {
-  "url" : "www.globalknowledge.com/salesforce",
-  "status" : "",
-  "phone" : "+47 22 95 66 00",
-  "name" : "Global Knowledge",
-  "image" : "",
-  "email" : "info@globalknowledge.no",
   "country" : "Spain"
 }, {
   "url" : "k2partnering.com/salesforce-courses-dach",
