@@ -1,0 +1,22 @@
+[ {
+  "vidyard" : "",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "VP, Product Management",
+    "speakerName" : "Wade Wegner",
+    "speakerBio" : "VP, Product Management",
+    "imageUrl" : "<img src=\"https://s3.us-east-1.amazonaws.com/drm-events/a2I29000000Sw3fEAC\" alt=\"Profile Picture\" border=\"0\"/>"
+  } ],
+  "slug" : "",
+  "sessionTime" : "",
+  "sessionDate" : "2019-09-24",
+  "role" : "Admin",
+  "products" : "Community Cloud",
+  "level" : "",
+  "lengthOfSession" : "",
+  "imbLiveId" : "999",
+  "featured" : "false",
+  "academyCourses" : [ ]
+} ]
