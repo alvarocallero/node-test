@@ -1,0 +1,33 @@
+[ {
+  "vidyardId" : "",
+  "thTrailmixes" : [ {
+    "trailmixUrl" : "",
+    "trailmixName" : "The new trailmMixx"
+  } ],
+  "thModules" : [ {
+    "moduleName" : "0000",
+    "couchId" : "this is the id of the couch"
+  } ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Manager",
+    "speakerName" : "Wade Wegner",
+    "speakerBio" : "10 years of management",
+    "imageUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a2I29000000Sw3fEAC"
+  } ],
+  "slug" : "apex-for-admin-1",
+  "sessionTitle" : "",
+  "sessionTime" : "21:00:00.000Z",
+  "sessionDescription" : "",
+  "sessionDate" : "2019-09-25",
+  "role" : "Admin",
+  "products" : "Education Cloud",
+  "level" : "Beginner",
+  "lengthOfSession" : "~40 mins",
+  "ibmLiveId" : "1524",
+  "featured" : false,
+  "academyCourses" : [ {
+    "courseUrl" : "",
+    "courseName" : "First Certificate 2"
+  } ]
+} ]
