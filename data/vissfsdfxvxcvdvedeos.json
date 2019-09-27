@@ -103,7 +103,7 @@
     "couchId" : "4190"
   } ],
   "speakers" : [ {
-    "speakerTwitter" : "",
+    "speakerTwitter" : "www.twitter.com",
     "speakerTitle" : "Manager",
     "speakerName" : "Wade Wegner",
     "speakerBio" : "10 years of management",
@@ -215,7 +215,7 @@
     "speakerBio" : "Architect",
     "imageUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a2I29000000Sw3aEAC"
   }, {
-    "speakerTwitter" : "",
+    "speakerTwitter" : "www.twitter.com",
     "speakerTitle" : "Manager",
     "speakerName" : "Wade Wegner",
     "speakerBio" : "10 years of management",
@@ -256,7 +256,7 @@
     "couchId" : "this is the id of the couch"
   } ],
   "speakers" : [ {
-    "speakerTwitter" : "",
+    "speakerTwitter" : "www.twitter.com",
     "speakerTitle" : "Manager",
     "speakerName" : "Wade Wegner",
     "speakerBio" : "10 years of management",
