@@ -1,18 +1,60 @@
 [ {
-  "vidyardId" : "",
-  "thTrailmixes" : [ ],
-  "thModules" : [ ],
-  "speakers" : [ ],
-  "slug" : "123",
-  "sessionTitle" : "The new Salesforce DX CLI",
-  "sessionTime" : "01:00:00.000Z",
-  "sessionDescription" : "Awesome",
-  "sessionDate" : "2019-10-31",
-  "role" : "Admin",
+  "vidyardId" : "dwkCBXtymLohm8iamLGZrY",
+  "thTrailmixes" : [ {
+    "trailmixUrl" : "https://trailhead.salesforce.com/en/users/strailhead/trailmixes/satsuma-september-2019-content-release",
+    "trailmixName" : "Satsuma (September 2019) Content Release"
+  }, {
+    "trailmixUrl" : "https://trailhead.salesforce.com/users/strailhead/trailmixes/get-started-with-trailhead-companies",
+    "trailmixName" : "Get your company started with Trailhead"
+  } ],
+  "thModules" : [ {
+    "moduleName" : "0000",
+    "couchId" : "this is the id of the couch"
+  }, {
+    "moduleName" : "0001",
+    "couchId" : "1234"
+  }, {
+    "moduleName" : "0002",
+    "couchId" : "6741"
+  } ],
+  "speakers" : [ {
+    "speakerTwitter" : "www.twitter.com",
+    "speakerTitle" : "Manager",
+    "speakerName" : "Wade Wegner",
+    "speakerBio" : "10 years of management",
+    "imageUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a2I29000000Sw3fEAC"
+  }, {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Director, Developer Marketing",
+    "speakerName" : "Kris Chant",
+    "speakerBio" : "Director, Developer Marketing Salesforce",
+    "imageUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a2I29000000Sw3REAS"
+  }, {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Architect",
+    "speakerName" : "Mike Miller",
+    "speakerBio" : "Architect",
+    "imageUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a2I29000000Sw3aEAC"
+  } ],
+  "slug" : "36521",
+  "sessionTitle" : "Representation Matters: Leading In The Tech Industry",
+  "sessionTime" : "14:30:00.000Z",
+  "sessionDescription" : "Winter ' 20 is here to help you build better apps! In this live broadcast, Product Managers and Developer Evangelists share details from our latest release that help you develop more efficiently than ever with Salesforce. Developers, register now to get highlights from this release including info on Lightning Web Components, MuleSoft, development tooling, and more.",
+  "sessionDate" : "2019-08-26",
+  "role" : "Developer",
   "products" : "Commerce Cloud",
   "level" : "Advanced",
-  "lengthOfSession" : "15m",
-  "ibmLiveId" : "12345",
+  "lengthOfSession" : "45m",
+  "ibmLiveId" : "",
   "featured" : true,
-  "academyCourses" : [ ]
+  "academyCourses" : [ {
+    "courseUrl" : "https://help.salesforce.com/HTTrainingCourseDetail?id=a230M000000wsMc",
+    "courseName" : "Developing for Salesforce B2C Commerce"
+  }, {
+    "courseUrl" : "https://help.salesforce.com/HTTrainingCourseDetail?id=a230M000000Tunj",
+    "courseName" : "Administrative Essentials for New Admins in Lightning Experience"
+  }, {
+    "courseUrl" : "https://help.salesforce.com/HTTrainingCourseDetail?id=a2330000000PrBx",
+    "courseName" : "Mobile and Desktop Exploration in Einstein Analytics"
+  } ]
 } ]
