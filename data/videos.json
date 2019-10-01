@@ -1,220 +1,23 @@
 [ {
-  "vidyardId" : "CLJ7cjykDSQsKG9AfVvMV5",
-  "thTrailmixes" : [ {
-    "trailmixUrl" : "https://trailhead.salesforce.com/en/users/strailhead/trailmixes/satsuma-september-2019-content-release",
-    "trailmixName" : "Satsuma (September 2019) Content Release"
-  }, {
-    "trailmixUrl" : "https://trailhead.salesforce.com/users/rangermegan/trailmixes/road-to-ranger-trailmix-1",
-    "trailmixName" : "Road to Ranger - Trailmix 1"
-  } ],
-  "thModules" : [ {
-    "moduleName" : "0001",
-    "couchId" : "1234"
-  }, {
-    "moduleName" : "0000",
-    "couchId" : "this is the id of the couch"
-  } ],
-  "speakers" : [ {
-    "speakerTwitter" : "",
-    "speakerTitle" : "Senior Director, Developer Marketing",
-    "speakerName" : "Arabella David",
-    "speakerBio" : "Well i know a lot",
-    "imageUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a2I29000000Sw3GEAS"
-  }, {
-    "speakerTwitter" : "",
-    "speakerTitle" : "Michael Maoz, SVP, Innovation Strategy",
-    "speakerName" : "Michael Maoz",
-    "speakerBio" : "Michael Maoz is Senior Vice President of Innovation Strategy at Salesforce. Michael was one of the creators of the CRM space, beginning in Europe where he was a part of the first global CRM software company. Prior to Salesforce, Michael was a Distinguishe",
-    "imageUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a2Gq0000001BnyLEAS"
-  } ],
-  "slug" : "12345",
-  "sessionTitle" : "Salesforce World Tour Tokyo Broadcast",
-  "sessionTime" : "17:45:00.000Z",
-  "sessionDescription" : "Watch the live broadcast of the Salesforce World Tour in Tokyo on Tuesday, September 24, 2019, to find out about the latest Salesforce announcements and engage with the latest innovations, including Salesforce Customer 360. Learn how these solutions help you create a complete view of your customers, connect with customers using intelligence, and work together faster than ever before. You'll hear how Trailblazers are disrupting industries, shaping the future, and transforming the world around you",
-  "sessionDate" : "2019-09-24",
-  "role" : "Admin",
-  "products" : "Education Cloud",
-  "level" : "Intermediate",
-  "lengthOfSession" : "1h 23m",
-  "ibmLiveId" : "",
-  "featured" : false,
-  "academyCourses" : [ {
-    "courseUrl" : "https://help.salesforce.com/HTTrainingCourseDetail?id=a2330000000PrBx",
-    "courseName" : "Mobile and Desktop Exploration in Einstein Analytics"
-  }, {
-    "courseUrl" : "https://help.salesforce.com/HTTrainingCourseDetail?id=a230M000000wsMc",
-    "courseName" : "Developing for Salesforce B2C Commerce"
-  }, {
-    "courseUrl" : "https://help.salesforce.com/HTTrainingCourseDetail?id=a230M000000Q5Xl",
-    "courseName" : "Reporting Fundamentals in Lightning Experience"
-  } ]
-}, {
-  "vidyardId" : "LQR2JKRXrpcmFgzWhW1hfy",
-  "thTrailmixes" : [ ],
-  "thModules" : [ {
-    "moduleName" : "0003",
-    "couchId" : "4190"
-  }, {
-    "moduleName" : "0002",
-    "couchId" : "6741"
-  } ],
-  "speakers" : [ {
-    "speakerTwitter" : "",
-    "speakerTitle" : "Senior Director, Developer Marketing",
-    "speakerName" : "Arabella David",
-    "speakerBio" : "Well i know a lot",
-    "imageUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a2I29000000Sw3GEAS"
-  }, {
-    "speakerTwitter" : "",
-    "speakerTitle" : "Michael Maoz, SVP, Innovation Strategy",
-    "speakerName" : "Michael Maoz",
-    "speakerBio" : "Michael Maoz is Senior Vice President of Innovation Strategy at Salesforce. Michael was one of the creators of the CRM space, beginning in Europe where he was a part of the first global CRM software company. Prior to Salesforce, Michael was a Distinguishe",
-    "imageUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a2Gq0000001BnyLEAS"
-  } ],
-  "slug" : "6969",
-  "sessionTitle" : "Representation Matters: Leading In The Tech Industry III",
-  "sessionTime" : "12:00:00.000Z",
-  "sessionDescription" : "As the saying goes — \"you can't be what you can't see.\" There is undeniable power in representation. During our Second-Annual Representation Matters event, we seek to elevate luminary Black, Latinx, and Native talent who have trailblazed in their fields and are standing up for Racial Equality. We recognize that these communities are among the most underrepresented in our industries and that we can all do our part to create access, opportunity, and recognition and drive #EqualityForAll",
-  "sessionDate" : "2019-09-03",
-  "role" : "Business User",
-  "products" : "Commerce Cloud",
-  "level" : "Intermediate",
-  "lengthOfSession" : "50m",
-  "ibmLiveId" : "",
-  "featured" : true,
-  "academyCourses" : [ {
-    "courseUrl" : "https://help.salesforce.com/HTTrainingCourseDetail?id=a230M000000Tunj",
-    "courseName" : "Administrative Essentials for New Admins in Lightning Experience"
-  }, {
-    "courseUrl" : "https://help.salesforce.com/HTTrainingCourseDetail?id=a230M000000Q5Xl",
-    "courseName" : "Reporting Fundamentals in Lightning Experience"
-  } ]
-}, {
-  "vidyardId" : "m4KR9Mid6UAuFifob76HUC",
-  "thTrailmixes" : [ {
-    "trailmixUrl" : "https://trailhead.salesforce.com/users/strailhead/trailmixes/build-your-developer-career-on-salesforce",
-    "trailmixName" : "Build Your Developer Career on Salesforce"
-  }, {
-    "trailmixUrl" : "https://trailhead.salesforce.com/users/strailhead/trailmixes/get-started-with-trailhead-companies",
-    "trailmixName" : "Get your company started with Trailhead"
-  } ],
-  "thModules" : [ {
-    "moduleName" : "0003",
-    "couchId" : "4190"
-  } ],
-  "speakers" : [ {
-    "speakerTwitter" : "www.twitter.com",
-    "speakerTitle" : "Manager",
-    "speakerName" : "Wade Wegner",
-    "speakerBio" : "10 years of management",
-    "imageUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a2I29000000Sw3fEAC"
-  } ],
-  "slug" : "5634",
-  "sessionTitle" : "The Future Of IA",
-  "sessionTime" : "09:00:00.000Z",
-  "sessionDescription" : "Richard Socher is Chief Scientist at Salesforce where he leads the company’s research efforts and works on bringing state of the art artificial intelligence solutions to Salesforce. Join us to learn his current research and his view on the ethics of AI for the present and the future.",
-  "sessionDate" : "2019-09-03",
-  "role" : "Business User",
-  "products" : "Education Cloud",
-  "level" : "Advanced",
-  "lengthOfSession" : "47m",
-  "ibmLiveId" : "",
-  "featured" : true,
-  "academyCourses" : [ {
-    "courseUrl" : "https://help.salesforce.com/HTTrainingCourseDetail?id=a2330000000PrBx",
-    "courseName" : "Mobile and Desktop Exploration in Einstein Analytics"
-  }, {
-    "courseUrl" : "https://help.salesforce.com/HTTrainingCourseDetail?id=a230M000000Q5Xl",
-    "courseName" : "Reporting Fundamentals in Lightning Experience"
-  } ]
-}, {
-  "vidyardId" : "cZNnez7YE1zooqpSnhLdGh",
-  "thTrailmixes" : [ {
-    "trailmixUrl" : "https://trailhead.salesforce.com/users/strailhead/trailmixes/build-your-developer-career-on-salesforce",
-    "trailmixName" : "Build Your Developer Career on Salesforce"
-  }, {
-    "trailmixUrl" : "https://trailhead.salesforce.com/users/rangermegan/trailmixes/road-to-ranger-trailmix-1",
-    "trailmixName" : "Road to Ranger - Trailmix 1"
-  } ],
-  "thModules" : [ {
-    "moduleName" : "0001",
-    "couchId" : "1234"
-  }, {
-    "moduleName" : "0003",
-    "couchId" : "4190"
-  }, {
-    "moduleName" : "0000",
-    "couchId" : "this is the id of the couch"
-  } ],
-  "speakers" : [ {
-    "speakerTwitter" : "",
-    "speakerTitle" : "Principal Developer Evangelist Salesforce",
-    "speakerName" : "Greg Rewis",
-    "speakerBio" : "Principal Developer Evangelist Salesforce",
-    "imageUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a2I29000000Sw3LEAS"
-  }, {
-    "speakerTwitter" : "",
-    "speakerTitle" : "Architect",
-    "speakerName" : "Mike Miller",
-    "speakerBio" : "Architect",
-    "imageUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a2I29000000Sw3aEAC"
-  }, {
-    "speakerTwitter" : "",
-    "speakerTitle" : "Director, Developer Marketing",
-    "speakerName" : "Kris Chant",
-    "speakerBio" : "Director, Developer Marketing Salesforce",
-    "imageUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a2I29000000Sw3REAS"
-  } ],
-  "slug" : "6753",
-  "sessionTitle" : "Representation Matters: Lift As You Rise",
-  "sessionTime" : "00:30:00.000Z",
-  "sessionDescription" : "As the saying goes — \"you can't be what you can't see.\" There is undeniable power in representation. During our Second-Annual Representation Matters event, we seek to elevate luminary Black, Latinx, and Native talent who have trailblazed in their fields and are standing up for Racial Equality. We recognize that these communities are among the most underrepresented in our industries and that we can all do our part to create access, opportunity, and recognition and drive #EqualityForAll",
-  "sessionDate" : "2019-07-31",
-  "role" : "Business User",
-  "products" : "Community Cloud",
-  "level" : "Beginner",
-  "lengthOfSession" : "26m",
-  "ibmLiveId" : "",
-  "featured" : true,
-  "academyCourses" : [ {
-    "courseUrl" : "https://help.salesforce.com/HTTrainingCourseDetail?id=a230M000000Q5Xl",
-    "courseName" : "Reporting Fundamentals in Lightning Experience"
-  }, {
-    "courseUrl" : "https://help.salesforce.com/HTTrainingCourseDetail?id=a230M000000Tunj",
-    "courseName" : "Administrative Essentials for New Admins in Lightning Experience"
-  }, {
-    "courseUrl" : "https://help.salesforce.com/HTTrainingCourseDetail?id=a230M000000wsMc",
-    "courseName" : "Developing for Salesforce B2C Commerce"
-  }, {
-    "courseUrl" : "https://help.salesforce.com/HTTrainingCourseDetail?id=a2330000000PrBx",
-    "courseName" : "Mobile and Desktop Exploration in Einstein Analytics"
-  } ]
-}, {
   "vidyardId" : "dwkCBXtymLohm8iamLGZrY",
   "thTrailmixes" : [ {
-    "trailmixUrl" : "https://trailhead.salesforce.com/users/strailhead/trailmixes/get-started-with-trailhead-companies",
-    "trailmixName" : "Get your company started with Trailhead"
-  }, {
     "trailmixUrl" : "https://trailhead.salesforce.com/en/users/strailhead/trailmixes/satsuma-september-2019-content-release",
     "trailmixName" : "Satsuma (September 2019) Content Release"
+  }, {
+    "trailmixUrl" : "https://trailhead.salesforce.com/users/strailhead/trailmixes/get-started-with-trailhead-companies",
+    "trailmixName" : "Get your company started with Trailhead"
   } ],
   "thModules" : [ {
-    "moduleName" : "0002",
-    "couchId" : "6741"
-  }, {
     "moduleName" : "0000",
     "couchId" : "this is the id of the couch"
   }, {
     "moduleName" : "0001",
     "couchId" : "1234"
+  }, {
+    "moduleName" : "0002",
+    "couchId" : "6741"
   } ],
   "speakers" : [ {
-    "speakerTwitter" : "",
-    "speakerTitle" : "Architect",
-    "speakerName" : "Mike Miller",
-    "speakerBio" : "Architect",
-    "imageUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a2I29000000Sw3aEAC"
-  }, {
     "speakerTwitter" : "www.twitter.com",
     "speakerTitle" : "Manager",
     "speakerName" : "Wade Wegner",
@@ -226,6 +29,12 @@
     "speakerName" : "Kris Chant",
     "speakerBio" : "Director, Developer Marketing Salesforce",
     "imageUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a2I29000000Sw3REAS"
+  }, {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Architect",
+    "speakerName" : "Mike Miller",
+    "speakerBio" : "Architect",
+    "imageUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a2I29000000Sw3aEAC"
   } ],
   "slug" : "36521",
   "sessionTitle" : "Representation Matters: Leading In The Tech Industry",
@@ -247,34 +56,5 @@
   }, {
     "courseUrl" : "https://help.salesforce.com/HTTrainingCourseDetail?id=a2330000000PrBx",
     "courseName" : "Mobile and Desktop Exploration in Einstein Analytics"
-  } ]
-}, {
-  "vidyardId" : "",
-  "thTrailmixes" : [ ],
-  "thModules" : [ {
-    "moduleName" : "0000",
-    "couchId" : "this is the id of the couch"
-  } ],
-  "speakers" : [ {
-    "speakerTwitter" : "www.twitter.com",
-    "speakerTitle" : "Manager",
-    "speakerName" : "Wade Wegner",
-    "speakerBio" : "10 years of management",
-    "imageUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a2I29000000Sw3fEAC"
-  } ],
-  "slug" : "starting-with-mulesoft",
-  "sessionTitle" : "Starting with Mulesoft",
-  "sessionTime" : "17:15:00.000Z",
-  "sessionDescription" : "MuleSoft’s Anypoint Platform™ is the world’s leading integration platform for SOA, SaaS, and APIs. MuleSoft provides exceptional business agility to companies by connecting applications, data, and devices, both on-premises and in the cloud with an API-led approach. By leveraging Anypoint Platform, companies can re-architect their SOA infrastructure from legacy systems, proprietary platforms, and custom integration code to create business agility. They can migrate technology infrastructure to the",
-  "sessionDate" : "2019-09-27",
-  "role" : "Admin",
-  "products" : "Einstein",
-  "level" : "Beginner",
-  "lengthOfSession" : "~60 mins",
-  "ibmLiveId" : "1524",
-  "featured" : false,
-  "academyCourses" : [ {
-    "courseUrl" : "",
-    "courseName" : "First Certificate 2"
   } ]
 } ]
