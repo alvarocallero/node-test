@@ -1,1 +1,93 @@
-[ ]
+[ {
+  "vidyardId" : "",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Developer",
+    "speakerName" : "Wade Wegner",
+    "speakerBio" : "Good",
+    "imageUrl" : ""
+  } ],
+  "slug" : "a09S000000B7kQA-test",
+  "sessionTitle" : "TEST",
+  "sessionTime" : "01:00:00.000Z",
+  "sessionDescription" : "TEST descr",
+  "sessionDate" : "2019-10-23",
+  "role" : "",
+  "products" : "",
+  "level" : "",
+  "lengthOfSession" : "",
+  "ibmLiveId" : "",
+  "featured" : false,
+  "academyCourses" : [ ]
+}, {
+  "vidyardId" : "",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Developer",
+    "speakerName" : "Wade Wegner",
+    "speakerBio" : "Good",
+    "imageUrl" : ""
+  } ],
+  "slug" : "a09S000000B7kPv-test",
+  "sessionTitle" : "TEST",
+  "sessionTime" : "00:15:00.000Z",
+  "sessionDescription" : "Test descr",
+  "sessionDate" : "2019-10-31",
+  "role" : "",
+  "products" : "",
+  "level" : "",
+  "lengthOfSession" : "",
+  "ibmLiveId" : "",
+  "featured" : false,
+  "academyCourses" : [ ]
+}, {
+  "vidyardId" : "",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Developer",
+    "speakerName" : "Wade Wegner",
+    "speakerBio" : "Good",
+    "imageUrl" : ""
+  } ],
+  "slug" : "a09S000000B7kQj-title",
+  "sessionTitle" : "Title",
+  "sessionTime" : "00:15:00.000Z",
+  "sessionDescription" : "descr",
+  "sessionDate" : "2019-10-23",
+  "role" : "",
+  "products" : "",
+  "level" : "",
+  "lengthOfSession" : "45",
+  "ibmLiveId" : "",
+  "featured" : false,
+  "academyCourses" : [ ]
+}, {
+  "vidyardId" : "",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Developer",
+    "speakerName" : "Wade Wegner",
+    "speakerBio" : "Good",
+    "imageUrl" : ""
+  } ],
+  "slug" : "a09S000000B7kQK-test",
+  "sessionTitle" : "TEst",
+  "sessionTime" : "00:00:00.000Z",
+  "sessionDescription" : "test",
+  "sessionDate" : "2019-10-18",
+  "role" : "",
+  "products" : "",
+  "level" : "",
+  "lengthOfSession" : "",
+  "ibmLiveId" : "",
+  "featured" : false,
+  "academyCourses" : [ ]
+} ]
