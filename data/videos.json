@@ -46,6 +46,29 @@
   "academyCourses" : [ ]
 }, {
   "vidyardId" : "",
+  "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B7koWIAR",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Developer",
+    "speakerName" : "Wade Wegner",
+    "speakerBio" : "Good",
+    "imageUrl" : ""
+  } ],
+  "slug" : "a09S000000B7koW/sdfdsf-sdfdsf-dsf-sdf-sdsdfdsf-sdfdsf-dsf-sdf-sdsdfdsf-sdfdsf-dsf-sdf-sdsdfdsf-sdfdsf-dsf-sdf-sdsdfdsf-sdfdsf-dsf-sdf-sdsdfdsf-sdfdsf-dsf-sdf-sdsdfdsf-sdfdsf-dsf-sdf-sd",
+  "sessionTitle" : "sdfdsf sdfdsf dsf sdf sdsdfdsf sdfdsf dsf sdf sdsdfdsf sdfdsf dsf sdf sdsdfdsf sdfdsf dsf sdf sdsdfdsf sdfdsf dsf sdf sdsdfdsf sdfdsf dsf sdf sdsdfdsf sdfdsf dsf sdf sd",
+  "sessionTime" : "07:15:00",
+  "sessionDescription" : "sdfdsf sdfdsf dsf sdf sdsdfdsf sdfdsf dsf sdf sdsdfdsf sdfdsf dsf sdf sdsdfdsf sdfdsf dsf sdf sdsdfdsf sdfdsf dsf sdf sdsdfdsf sdfdsf dsf sdf sdsdfdsf sdfdsf dsf sdf sdsdfdsf sdfdsf dsf sdf sdsdfdsf sdfdsf dsf sdf sdsdfdsf sdfdsf dsf sdf sdsdfdsf sdfdsf dsf sdf sdsdfdsf sdfdsf dsf sdf sdsdfdsf sdfdsf dsf sdf sdsdfdsf sdfdsf dsf sdf sdsdfdsf sdfdsf dsf sdf sdsdfdsf sdfdsf dsf sdf sdsdfdsf sdfdsf dsf sdf sdsdfdsf sdfdsf dsf sdf sdsdfdsf sdfdsf dsf sdf sdsdfdsf sdfdsf dsf sdf sdsdfdsf sdfdsf dsf sd",
+  "sessionDate" : "2019-10-30",
+  "role" : "Admin",
+  "products" : "",
+  "level" : "",
+  "lengthOfSession" : "45",
+  "featured" : true,
+  "academyCourses" : [ ]
+}, {
+  "vidyardId" : "",
   "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B7ko7IAB",
   "thTrailmixes" : [ ],
   "thModules" : [ ],
