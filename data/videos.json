@@ -1,5 +1,6 @@
 [ {
   "vidyardId" : "",
+  "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B7knOIAR",
   "thTrailmixes" : [ ],
   "thModules" : [ ],
   "speakers" : [ {
@@ -9,7 +10,76 @@
     "speakerBio" : "Good",
     "imageUrl" : ""
   } ],
-  "slug" : "a09S000000B7kVK-test-th-live-ii",
+  "slug" : "a09S000000B7knO/test",
+  "sessionTitle" : "TEST",
+  "sessionTime" : "08:15:00",
+  "sessionDescription" : "TEST desc",
+  "sessionDate" : "2019-10-31",
+  "role" : "",
+  "products" : "",
+  "level" : "",
+  "lengthOfSession" : "45",
+  "featured" : false,
+  "academyCourses" : [ ]
+}, {
+  "vidyardId" : "",
+  "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B7knYIAR",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Developer",
+    "speakerName" : "Wade Wegner",
+    "speakerBio" : "Good",
+    "imageUrl" : ""
+  } ],
+  "slug" : "a09S000000B7knY/my-test",
+  "sessionTitle" : "My test",
+  "sessionTime" : "07:30:00",
+  "sessionDescription" : "info",
+  "sessionDate" : "2019-10-31",
+  "role" : "",
+  "products" : "",
+  "level" : "",
+  "lengthOfSession" : "34",
+  "featured" : true,
+  "academyCourses" : [ ]
+}, {
+  "vidyardId" : "",
+  "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B7kndIAB",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Developer",
+    "speakerName" : "Wade Wegner",
+    "speakerBio" : "Good",
+    "imageUrl" : ""
+  } ],
+  "slug" : "a09S000000B7knd/best-th-live",
+  "sessionTitle" : "Best th live",
+  "sessionTime" : "07:30:00",
+  "sessionDescription" : "content",
+  "sessionDate" : "2019-10-31",
+  "role" : "",
+  "products" : "",
+  "level" : "",
+  "lengthOfSession" : "45",
+  "featured" : false,
+  "academyCourses" : [ ]
+}, {
+  "vidyardId" : "",
+  "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B7kVKIAZ",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Developer",
+    "speakerName" : "Wade Wegner",
+    "speakerBio" : "Good",
+    "imageUrl" : ""
+  } ],
+  "slug" : "a09S000000B7kVK/test-th-live-ii",
   "sessionTitle" : "Test th live II",
   "sessionTime" : "23:00:00",
   "sessionDescription" : "Description of the test",
@@ -17,8 +87,7 @@
   "role" : "Admin",
   "products" : "Community Cloud",
   "level" : "Beginner",
-  "lengthOfSession" : "60",
-  "ibmLiveId" : "",
+  "lengthOfSession" : "",
   "featured" : true,
   "academyCourses" : [ ]
 } ]
