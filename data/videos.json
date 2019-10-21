@@ -44,4 +44,27 @@
   "lengthOfSession" : "55",
   "featured" : true,
   "academyCourses" : [ ]
+}, {
+  "vidyardId" : "",
+  "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B7llKIAR",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Developer",
+    "speakerName" : "Wade Wegner",
+    "speakerBio" : "Good",
+    "imageUrl" : ""
+  } ],
+  "slug" : "a09S000000B7llK/prueba",
+  "sessionTitle" : "Prueba",
+  "sessionTime" : "07:30:00",
+  "sessionDescription" : "descripcion",
+  "sessionDate" : "2019-10-23",
+  "role" : "",
+  "products" : "",
+  "level" : "",
+  "lengthOfSession" : "44",
+  "featured" : false,
+  "academyCourses" : [ ]
 } ]
