@@ -23,6 +23,29 @@
   "academyCourses" : [ ]
 }, {
   "vidyardId" : "",
+  "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B854qIAB/2019-10-22_10-37-30",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Dev",
+    "speakerName" : "Alvaro Callero",
+    "speakerBio" : "dev bio",
+    "imageUrl" : ""
+  } ],
+  "slug" : "a09S000000B854q/this-is-the-new-th-live",
+  "sessionTitle" : "This is the new TH LIVE",
+  "sessionTime" : "07:30:00",
+  "sessionDescription" : "THe new description",
+  "sessionDate" : "2019-10-30",
+  "role" : "",
+  "products" : "",
+  "level" : "",
+  "lengthOfSession" : "45",
+  "featured" : false,
+  "academyCourses" : [ ]
+}, {
+  "vidyardId" : "",
   "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B7nskIAB",
   "thTrailmixes" : [ ],
   "thModules" : [ ],
