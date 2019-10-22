@@ -69,6 +69,29 @@
   "academyCourses" : [ ]
 }, {
   "vidyardId" : "",
+  "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B85H3IAJ/2019-10-22_11-43-39",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Developer",
+    "speakerName" : "Wade Wegner",
+    "speakerBio" : "Good",
+    "imageUrl" : ""
+  } ],
+  "slug" : "a09S000000B85H3/ewd-ewde-wdewdewd-ewd-ew-dw-dewd-ed-ewd-wed",
+  "sessionTitle" : "ewd ewde wdewdewd ewd ew dw dewd ed ewd wed",
+  "sessionTime" : "07:30:00",
+  "sessionDescription" : "ewd edew dwe ewdewd wed",
+  "sessionDate" : "2019-10-23",
+  "role" : "Admin",
+  "products" : "",
+  "level" : "",
+  "lengthOfSession" : "45",
+  "featured" : false,
+  "academyCourses" : [ ]
+}, {
+  "vidyardId" : "",
   "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B854qIAB/2019-10-22_10-37-30",
   "thTrailmixes" : [ ],
   "thModules" : [ ],
@@ -115,6 +138,29 @@
   "academyCourses" : [ ]
 }, {
   "vidyardId" : "",
+  "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B85HDIAZ/2019-10-22_11-45-22",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Dev",
+    "speakerName" : "Alvaro Callero",
+    "speakerBio" : "dev bio",
+    "imageUrl" : ""
+  } ],
+  "slug" : "a09S000000B85HD/sad-asd-sad-s",
+  "sessionTitle" : "sad asd sad s",
+  "sessionTime" : "07:15:00",
+  "sessionDescription" : "ad asd sd as s",
+  "sessionDate" : "2019-10-09",
+  "role" : "",
+  "products" : "",
+  "level" : "",
+  "lengthOfSession" : "33",
+  "featured" : false,
+  "academyCourses" : [ ]
+}, {
+  "vidyardId" : "",
   "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B7nskIAB",
   "thTrailmixes" : [ ],
   "thModules" : [ ],
@@ -157,6 +203,29 @@
   "products" : "",
   "level" : "Beginner",
   "lengthOfSession" : "44",
+  "featured" : false,
+  "academyCourses" : [ ]
+}, {
+  "vidyardId" : "",
+  "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B85H8IAJ/2019-10-22_11-43-36",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Dev",
+    "speakerName" : "Alvaro Callero",
+    "speakerBio" : "dev bio",
+    "imageUrl" : ""
+  } ],
+  "slug" : "a09S000000B85H8/sd-asd-asdas",
+  "sessionTitle" : "sd asd asdas",
+  "sessionTime" : "07:30:00",
+  "sessionDescription" : "dasd asd asd asd",
+  "sessionDate" : "2019-10-30",
+  "role" : "",
+  "products" : "",
+  "level" : "",
+  "lengthOfSession" : "45",
   "featured" : false,
   "academyCourses" : [ ]
 }, {
