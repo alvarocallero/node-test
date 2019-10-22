@@ -1,5 +1,28 @@
 [ {
   "vidyardId" : "",
+  "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B8550IAB/2019-10-22_10-43-19",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Developer",
+    "speakerName" : "Wade Wegner",
+    "speakerBio" : "Good",
+    "imageUrl" : ""
+  } ],
+  "slug" : "a09S000000B8550/the-awesome-title-for-this",
+  "sessionTitle" : "The awesome title for this",
+  "sessionTime" : "07:45:00",
+  "sessionDescription" : "Hello to this th live new, it's very new",
+  "sessionDate" : "2019-10-30",
+  "role" : "Admin",
+  "products" : "Commerce Cloud",
+  "level" : "Intermediate",
+  "lengthOfSession" : "60",
+  "featured" : true,
+  "academyCourses" : [ ]
+}, {
+  "vidyardId" : "",
   "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B7npPIAR",
   "thTrailmixes" : [ ],
   "thModules" : [ ],
@@ -89,5 +112,28 @@
   "level" : "Beginner",
   "lengthOfSession" : "44",
   "featured" : false,
+  "academyCourses" : [ ]
+}, {
+  "vidyardId" : "",
+  "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B858QIAR/2019-10-22_10-44-50",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Developer",
+    "speakerName" : "Wade Wegner",
+    "speakerBio" : "Good",
+    "imageUrl" : ""
+  } ],
+  "slug" : "a09S000000B858Q/the-new-th-live",
+  "sessionTitle" : "The new th live",
+  "sessionTime" : "07:15:00",
+  "sessionDescription" : "THe desctipyion",
+  "sessionDate" : "2019-10-15",
+  "role" : "Admin",
+  "products" : "",
+  "level" : "",
+  "lengthOfSession" : "45",
+  "featured" : true,
   "academyCourses" : [ ]
 } ]
