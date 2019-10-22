@@ -1,5 +1,28 @@
 [ {
   "vidyardId" : "",
+  "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B858pIAB/2019-10-22_10-48-45",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Developer",
+    "speakerName" : "Wade Wegner",
+    "speakerBio" : "Good",
+    "imageUrl" : ""
+  } ],
+  "slug" : "a09S000000B858p/s-dfs-fdf",
+  "sessionTitle" : "s dfs fdf",
+  "sessionTime" : "07:15:00",
+  "sessionDescription" : "sdf sdf sdf",
+  "sessionDate" : "2019-10-23",
+  "role" : "",
+  "products" : "",
+  "level" : "",
+  "lengthOfSession" : "44",
+  "featured" : false,
+  "academyCourses" : [ ]
+}, {
+  "vidyardId" : "",
   "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B8550IAB/2019-10-22_10-43-19",
   "thTrailmixes" : [ ],
   "thModules" : [ ],
@@ -69,6 +92,29 @@
   "academyCourses" : [ ]
 }, {
   "vidyardId" : "",
+  "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B858uIAB/2019-10-22_10-51-02",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Dev",
+    "speakerName" : "Alvaro Callero",
+    "speakerBio" : "dev bio",
+    "imageUrl" : ""
+  } ],
+  "slug" : "a09S000000B858u/sdf-dsf-dsf-sdf-d",
+  "sessionTitle" : "sdf dsf dsf sdf d",
+  "sessionTime" : "07:30:00",
+  "sessionDescription" : "f sdf sd fsdf sdf",
+  "sessionDate" : "2019-10-23",
+  "role" : "Developer",
+  "products" : "",
+  "level" : "",
+  "lengthOfSession" : "55",
+  "featured" : false,
+  "academyCourses" : [ ]
+}, {
+  "vidyardId" : "",
   "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B7nskIAB",
   "thTrailmixes" : [ ],
   "thModules" : [ ],
@@ -111,6 +157,29 @@
   "products" : "",
   "level" : "Beginner",
   "lengthOfSession" : "44",
+  "featured" : false,
+  "academyCourses" : [ ]
+}, {
+  "vidyardId" : "",
+  "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B858kIAB/2019-10-22_10-48-47",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Developer",
+    "speakerName" : "Wade Wegner",
+    "speakerBio" : "Good",
+    "imageUrl" : ""
+  } ],
+  "slug" : "a09S000000B858k/sdf-dsfds-fds-sdf-sd",
+  "sessionTitle" : "sdf dsfds fds sdf sd",
+  "sessionTime" : "07:30:00",
+  "sessionDescription" : "f sdf sdf. sf",
+  "sessionDate" : "2019-10-02",
+  "role" : "",
+  "products" : "",
+  "level" : "",
+  "lengthOfSession" : "55",
   "featured" : false,
   "academyCourses" : [ ]
 }, {
