@@ -23,6 +23,29 @@
   "academyCourses" : [ ]
 }, {
   "vidyardId" : "",
+  "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B7nskIAB",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Developer",
+    "speakerName" : "Wade Wegner",
+    "speakerBio" : "Good",
+    "imageUrl" : ""
+  } ],
+  "slug" : "a09S000000B7nsk/ew-fewfewfewf-ewf-ewf-ewf-ewf-ewf-ewf-ewf-ewf-ewf",
+  "sessionTitle" : "ew fewfewfewf ewf ewf ewf ewf ewf ewf ewf ewf ewf",
+  "sessionTime" : "07:45:00",
+  "sessionDescription" : "ew fewfewfewf ewf ewf ewf ewf ewf ewf ewf ewf ewfew fewfewfewf ewf ewf ewf ewf ewf ewf ewf ewf ewfew fewfewfewf ewf ewf ewf ewf ewf ewf ewf ewf ewfew fewfewfewf ewf ewf ewf ewf ewf ewf ewf ewf ewfew fewfewfewf ewf ewf ewf ewf ewf ewf ewf ewf ewfew fewfewfewf ewf ewf ewf ewf ewf ewf ewf ewf ewfew fewfewfewf ewf ewf ewf ewf ewf ewf ewf ewf ewfew fewfewfewf ewf ewf ewf ewf ewf ewf ewf ewf ewfew fewfewfewf ewf ewf ewf ewf ewf ewf ewf ewf ewfew fewfewfewf ewf ewf ewf ewf ewf ewf ewf ewf ewfew fewfewf",
+  "sessionDate" : "2019-10-31",
+  "role" : "Admin",
+  "products" : "",
+  "level" : "",
+  "lengthOfSession" : "3",
+  "featured" : true,
+  "academyCourses" : [ ]
+}, {
+  "vidyardId" : "",
   "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B7lpbIAB",
   "thTrailmixes" : [ ],
   "thModules" : [ ],
