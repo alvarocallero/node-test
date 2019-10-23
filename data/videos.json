@@ -92,6 +92,29 @@
   "academyCourses" : [ ]
 }, {
   "vidyardId" : "",
+  "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B87hWIAR/2019-10-23_07-19-42",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Developer",
+    "speakerName" : "Wade Wegner",
+    "speakerBio" : "Good",
+    "imageUrl" : ""
+  } ],
+  "slug" : "a09S000000B87hW/test",
+  "sessionTitle" : "TEST",
+  "sessionTime" : "07:45:00",
+  "sessionDescription" : "TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST",
+  "sessionDate" : "2019-10-30",
+  "role" : "",
+  "products" : "",
+  "level" : "",
+  "lengthOfSession" : "45",
+  "featured" : false,
+  "academyCourses" : [ ]
+}, {
+  "vidyardId" : "",
   "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B854qIAB/2019-10-22_10-37-30",
   "thTrailmixes" : [ ],
   "thModules" : [ ],
