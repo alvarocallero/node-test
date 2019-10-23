@@ -97,9 +97,9 @@
   "thModules" : [ ],
   "speakers" : [ {
     "speakerTwitter" : "",
-    "speakerTitle" : "Developer",
-    "speakerName" : "Wade Wegner",
-    "speakerBio" : "Good",
+    "speakerTitle" : "Dev",
+    "speakerName" : "Alvaro Callero",
+    "speakerBio" : "dev bio",
     "imageUrl" : ""
   } ],
   "slug" : "a09S000000B87hW/test",
