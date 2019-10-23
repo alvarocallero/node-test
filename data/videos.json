@@ -1,6 +1,6 @@
 [ {
   "vidyardId" : "",
-  "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B858pIAB/2019-10-22_10-48-45",
+  "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B858pIAB",
   "thTrailmixes" : [ ],
   "thModules" : [ ],
   "speakers" : [ {
@@ -19,6 +19,52 @@
   "products" : "",
   "level" : "",
   "lengthOfSession" : "44",
+  "featured" : false,
+  "academyCourses" : [ ]
+}, {
+  "vidyardId" : "",
+  "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B87lQIAR",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Developer",
+    "speakerName" : "Wade Wegner",
+    "speakerBio" : "Good",
+    "imageUrl" : ""
+  } ],
+  "slug" : "a09S000000B87lQ/c",
+  "sessionTitle" : "C",
+  "sessionTime" : "07:45:00",
+  "sessionDescription" : "fsfsdf",
+  "sessionDate" : "2019-10-09",
+  "role" : "",
+  "products" : "",
+  "level" : "Intermediate",
+  "lengthOfSession" : "45",
+  "featured" : false,
+  "academyCourses" : [ ]
+}, {
+  "vidyardId" : "",
+  "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B87lVIAR",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Dev",
+    "speakerName" : "Alvaro Callero",
+    "speakerBio" : "dev bio",
+    "imageUrl" : ""
+  } ],
+  "slug" : "a09S000000B87lV/d",
+  "sessionTitle" : "D",
+  "sessionTime" : "07:45:00",
+  "sessionDescription" : "sdfsdfsdf",
+  "sessionDate" : "2019-10-30",
+  "role" : "",
+  "products" : "",
+  "level" : "",
+  "lengthOfSession" : "3",
   "featured" : false,
   "academyCourses" : [ ]
 }, {
@@ -46,6 +92,29 @@
   "academyCourses" : [ ]
 }, {
   "vidyardId" : "",
+  "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B87laIAB",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Developer",
+    "speakerName" : "Wade Wegner",
+    "speakerBio" : "Good",
+    "imageUrl" : ""
+  } ],
+  "slug" : "a09S000000B87la/e",
+  "sessionTitle" : "E",
+  "sessionTime" : "08:15:00",
+  "sessionDescription" : "sdfsdfsdf",
+  "sessionDate" : "2019-10-30",
+  "role" : "",
+  "products" : "",
+  "level" : "",
+  "lengthOfSession" : "34",
+  "featured" : false,
+  "academyCourses" : [ ]
+}, {
+  "vidyardId" : "",
   "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B87khIAB",
   "thTrailmixes" : [ ],
   "thModules" : [ ],
@@ -65,6 +134,75 @@
   "products" : "Community Cloud",
   "level" : "Beginner",
   "lengthOfSession" : "33",
+  "featured" : true,
+  "academyCourses" : [ ]
+}, {
+  "vidyardId" : "",
+  "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B87lLIAR",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Dev",
+    "speakerName" : "Alvaro Callero",
+    "speakerBio" : "dev bio",
+    "imageUrl" : ""
+  } ],
+  "slug" : "a09S000000B87lL/b",
+  "sessionTitle" : "B",
+  "sessionTime" : "08:15:00",
+  "sessionDescription" : "wedewd",
+  "sessionDate" : "2019-10-24",
+  "role" : "",
+  "products" : "",
+  "level" : "",
+  "lengthOfSession" : "45",
+  "featured" : false,
+  "academyCourses" : [ ]
+}, {
+  "vidyardId" : "",
+  "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B87lBIAR",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Developer",
+    "speakerName" : "Wade Wegner",
+    "speakerBio" : "Good",
+    "imageUrl" : ""
+  } ],
+  "slug" : "a09S000000B87lB/hello-to-the-new-record",
+  "sessionTitle" : "Hello to the new record",
+  "sessionTime" : "08:15:00",
+  "sessionDescription" : "THE BEST DESCRIPTION VEVER",
+  "sessionDate" : "2019-10-30",
+  "role" : "Admin",
+  "products" : "",
+  "level" : "",
+  "lengthOfSession" : "45",
+  "featured" : true,
+  "academyCourses" : [ ]
+}, {
+  "vidyardId" : "",
+  "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B87lGIAR",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Dev",
+    "speakerName" : "Alvaro Callero",
+    "speakerBio" : "dev bio",
+    "imageUrl" : ""
+  } ],
+  "slug" : "a09S000000B87lG/a",
+  "sessionTitle" : "A",
+  "sessionTime" : "08:00:00",
+  "sessionDescription" : "A descr",
+  "sessionDate" : "2019-10-30",
+  "role" : "Admin",
+  "products" : "",
+  "level" : "",
+  "lengthOfSession" : "45",
   "featured" : true,
   "academyCourses" : [ ]
 } ]
