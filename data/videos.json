@@ -115,6 +115,29 @@
   "academyCourses" : [ ]
 }, {
   "vidyardId" : "",
+  "thumbnailUrl" : "",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Developer",
+    "speakerName" : "Wade Wegner",
+    "speakerBio" : "Good",
+    "imageUrl" : ""
+  } ],
+  "slug" : "a09S000000B88ji/a-ver-cheeee",
+  "sessionTitle" : "a ver cheeee",
+  "sessionTime" : "07:30:00",
+  "sessionDescription" : "a ver cheeeea ver cheeeea ver cheeeea ver cheeeea ver cheeeea ver cheeeea ver cheeeea ver cheeee",
+  "sessionDate" : "2019-10-30",
+  "role" : "Admin",
+  "products" : "Community Cloud",
+  "level" : "Intermediate",
+  "lengthOfSession" : "45",
+  "featured" : true,
+  "academyCourses" : [ ]
+}, {
+  "vidyardId" : "",
   "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B858QIAR",
   "thTrailmixes" : [ ],
   "thModules" : [ ],
