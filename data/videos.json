@@ -23,29 +23,6 @@
   "academyCourses" : [ ]
 }, {
   "vidyardId" : "",
-  "thumbnailUrl" : "",
-  "thTrailmixes" : [ ],
-  "thModules" : [ ],
-  "speakers" : [ {
-    "speakerTwitter" : "",
-    "speakerTitle" : "Developer",
-    "speakerName" : "Wade Wegner",
-    "speakerBio" : "Good",
-    "imageUrl" : ""
-  } ],
-  "slug" : "a09S000000B87kS/la-nueva-session",
-  "sessionTitle" : "La nueva session",
-  "sessionTime" : "08:00:00",
-  "sessionDescription" : "sisies nueva si",
-  "sessionDate" : "2019-10-31",
-  "role" : "",
-  "products" : "",
-  "level" : "Beginner",
-  "lengthOfSession" : "45",
-  "featured" : true,
-  "academyCourses" : [ ]
-}, {
-  "vidyardId" : "",
   "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B858QIAR/2019-10-22_10-44-50",
   "thTrailmixes" : [ ],
   "thModules" : [ ],
@@ -65,6 +42,29 @@
   "products" : "",
   "level" : "",
   "lengthOfSession" : "45",
+  "featured" : true,
+  "academyCourses" : [ ]
+}, {
+  "vidyardId" : "",
+  "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B87khIAB",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Developer",
+    "speakerName" : "Wade Wegner",
+    "speakerBio" : "Good",
+    "imageUrl" : ""
+  } ],
+  "slug" : "a09S000000B87kh/dsdsdsds",
+  "sessionTitle" : "dsdsdsds",
+  "sessionTime" : "07:15:00",
+  "sessionDescription" : "dsdsdsds",
+  "sessionDate" : "2019-10-23",
+  "role" : "Admin",
+  "products" : "Community Cloud",
+  "level" : "Beginner",
+  "lengthOfSession" : "33",
   "featured" : true,
   "academyCourses" : [ ]
 } ]
