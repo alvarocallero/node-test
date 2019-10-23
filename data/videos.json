@@ -44,4 +44,27 @@
   "lengthOfSession" : "45",
   "featured" : true,
   "academyCourses" : [ ]
+}, {
+  "vidyardId" : "",
+  "thumbnailUrl" : "",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Developer",
+    "speakerName" : "Wade Wegner",
+    "speakerBio" : "Good",
+    "imageUrl" : ""
+  } ],
+  "slug" : "a09S000000B88rA/sdf",
+  "sessionTitle" : "sdf",
+  "sessionTime" : "08:00:00",
+  "sessionDescription" : "sdf",
+  "sessionDate" : "2019-10-30",
+  "role" : "",
+  "products" : "",
+  "level" : "",
+  "lengthOfSession" : "45",
+  "featured" : false,
+  "academyCourses" : [ ]
 } ]
