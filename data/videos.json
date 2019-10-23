@@ -69,6 +69,29 @@
   "academyCourses" : [ ]
 }, {
   "vidyardId" : "",
+  "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B88jdIAB",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Developer",
+    "speakerName" : "Wade Wegner",
+    "speakerBio" : "Good",
+    "imageUrl" : ""
+  } ],
+  "slug" : "a09S000000B88jd/wdwdwdwwdd-wd-d-d",
+  "sessionTitle" : "wdwdwdwwdd wd d d",
+  "sessionTime" : "08:00:00",
+  "sessionDescription" : "wdwdwdwwdd wd d dwdwdwdwwdd wd d dwdwdwdwwdd wd d dwdwdwdwwdd wd d dwdwdwdwwdd wd d dwdwdwdwwdd wd d dwdwdwdwwdd wd d dwdwdwdwwdd wd d dwdwdwdwwdd wd d dwdwdwdwwdd wd d dwdwdwdwwdd wd d dwdwdwdwwdd wd d dwdwdwdwwdd wd d dwdwdwdwwdd wd d dwdwdwdwwdd wd d dwdwdwdwwdd wd d dwdwdwdwwdd wd d dwdwdwdwwdd wd d dwdwdwdwwdd wd d dwdwdwdwwdd wd d dwdwdwdwwdd wd d dwdwdwdwwdd wd d dwdwdwdwwdd wd d dwdwdwdwwdd wd d dwdwdwdwwdd wd d dwdwdwdwwdd wd d dwdwdwdwwdd wd d dwdwdwdwwdd wd d dwdwdwdwwdd wd d dwdwdwdw",
+  "sessionDate" : "2019-10-30",
+  "role" : "Admin",
+  "products" : "Commerce Cloud",
+  "level" : "Intermediate",
+  "lengthOfSession" : "45",
+  "featured" : true,
+  "academyCourses" : [ ]
+}, {
+  "vidyardId" : "",
   "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B87lVIAR",
   "thTrailmixes" : [ ],
   "thModules" : [ ],
