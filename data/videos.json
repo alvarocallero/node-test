@@ -115,7 +115,7 @@
   "academyCourses" : [ ]
 }, {
   "vidyardId" : "",
-  "thumbnailUrl" : "",
+  "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a09S000000B88jiIAB",
   "thTrailmixes" : [ ],
   "thModules" : [ ],
   "speakers" : [ {
