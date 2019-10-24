@@ -10,6 +10,29 @@
     "speakerBio" : "Good",
     "imageUrl" : ""
   } ],
+  "slug" : "a09S000000B89wC/prueba-2",
+  "sessionTitle" : "Prueba 2",
+  "sessionTime" : "19:00:00.000Z",
+  "sessionDescription" : "Prueba 2",
+  "sessionDate" : "2019-10-30",
+  "role" : "Developer",
+  "products" : "Education Cloud",
+  "level" : "Intermediate",
+  "lengthOfSession" : "60",
+  "featured" : true,
+  "academyCourses" : [ ]
+}, {
+  "vidyardId" : "",
+  "thumbnailUrl" : "",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Developer",
+    "speakerName" : "Wade Wegner",
+    "speakerBio" : "Good",
+    "imageUrl" : ""
+  } ],
   "slug" : "a09S000000B89tA/test",
   "sessionTitle" : "Test",
   "sessionTime" : "17:00:00.000Z",
