@@ -103,7 +103,11 @@
 }, {
   "vidyardId" : "",
   "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/2019-10-28_08-15-30",
-  "thTrailmixes" : [ ],
+  "thTrailmixes" : [ {
+    "trailmixUrl" : "www.google.com",
+    "trailmixName" : "TEST",
+    "trailmixDuration" : "45"
+  } ],
   "thModules" : [ ],
   "speakers" : [ {
     "speakerTwitter" : "",
@@ -123,7 +127,13 @@
   "lengthOfSession" : "3",
   "ibmLiveId" : "",
   "featured" : false,
-  "academyCourses" : [ ]
+  "academyCourses" : [ {
+    "virtualDuration" : "",
+    "inPersonDuration" : "",
+    "deliveryFormat" : "",
+    "courseUrl" : "",
+    "courseName" : "TESTfsdsdeeelkk"
+  } ]
 }, {
   "vidyardId" : "",
   "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/2019-10-28_08-09-08",
