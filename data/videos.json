@@ -19,6 +19,7 @@
   "products" : "",
   "level" : "",
   "lengthOfSession" : "55",
+  "ibmLiveId" : "",
   "featured" : false,
   "academyCourses" : [ ]
 }, {
@@ -42,6 +43,7 @@
   "products" : "Education Cloud",
   "level" : "Intermediate",
   "lengthOfSession" : "55",
+  "ibmLiveId" : "",
   "featured" : true,
   "academyCourses" : [ ]
 } ]
