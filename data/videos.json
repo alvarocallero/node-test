@@ -306,4 +306,29 @@
   "ibmLiveId" : "",
   "featured" : false,
   "academyCourses" : [ ]
+}, {
+  "vidyardId" : "1234",
+  "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/2019-10-31_06-09-47",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Developer",
+    "speakerTBIDProfile" : "",
+    "speakerName" : "Wade Wegner",
+    "speakerBio" : "Good",
+    "imageUrl" : ""
+  } ],
+  "slug" : "a09S000000B8iR4/test",
+  "sessionTitle" : "TEST",
+  "sessionTime" : "09:00:00.000Z",
+  "sessionDescription" : "TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST",
+  "sessionDate" : "2019-11-28",
+  "role" : "Developer",
+  "products" : "Einstein",
+  "level" : "Intermediate",
+  "lengthOfSession" : "60",
+  "ibmLiveId" : "",
+  "featured" : true,
+  "academyCourses" : [ ]
 } ]
