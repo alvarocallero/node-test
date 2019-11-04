@@ -1,4 +1,29 @@
 [ {
+  "vidyardId" : "",
+  "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/dfc-resources2-staging/resources2/trailhead-live/drm-admin/2019-11-04_11-54-20",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Developer",
+    "speakerTBIDProfile" : "",
+    "speakerName" : "Wade Wegner",
+    "speakerBio" : "Good",
+    "imageUrl" : ""
+  } ],
+  "slug" : "a09S000000BB9gZ/sdfdsfdsf",
+  "sessionTitle" : "sdfdsfdsf",
+  "sessionTime" : "09:00:00.000Z",
+  "sessionDescription" : "sdfsdfsdf",
+  "sessionDate" : "2019-11-27",
+  "role" : "",
+  "products" : "",
+  "level" : "",
+  "lengthOfSession" : "3",
+  "ibmLiveId" : "",
+  "featured" : false,
+  "academyCourses" : [ ]
+}, {
   "vidyardId" : "4312",
   "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/dfc-resources2-staging/resources2/trailhead-live/drm-admin/2019-11-04_08-57-37",
   "thTrailmixes" : [ ],
