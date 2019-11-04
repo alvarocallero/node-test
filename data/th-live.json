@@ -1,1 +1,51 @@
-[ ]
+[ {
+  "vidyardId" : "",
+  "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/2019-11-04_04-44-32",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Dev",
+    "speakerTBIDProfile" : "",
+    "speakerName" : "Alvaro Callero",
+    "speakerBio" : "dev bio",
+    "imageUrl" : ""
+  } ],
+  "slug" : "a09S000000BAzbh/test-2",
+  "sessionTitle" : "TEST 2",
+  "sessionTime" : "09:15:00.000Z",
+  "sessionDescription" : "My test 2",
+  "sessionDate" : "2019-11-06",
+  "role" : "Business User",
+  "products" : "Education Cloud",
+  "level" : "Intermediate",
+  "lengthOfSession" : "15",
+  "ibmLiveId" : "",
+  "featured" : false,
+  "academyCourses" : [ ]
+}, {
+  "vidyardId" : "4321",
+  "thumbnailUrl" : "",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Developer",
+    "speakerTBIDProfile" : "",
+    "speakerName" : "Wade Wegner",
+    "speakerBio" : "Good",
+    "imageUrl" : ""
+  } ],
+  "slug" : "a09S000000BAzbc/test",
+  "sessionTitle" : "TEST",
+  "sessionTime" : "10:00:00.000Z",
+  "sessionDescription" : "My new test",
+  "sessionDate" : "2019-11-29",
+  "role" : "Admin",
+  "products" : "Einstein",
+  "level" : "Intermediate",
+  "lengthOfSession" : "60",
+  "ibmLiveId" : "1233",
+  "featured" : true,
+  "academyCourses" : [ ]
+} ]
