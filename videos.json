@@ -1,4 +1,29 @@
 [ {
+  "vidyardId" : "",
+  "thumbnailUrl" : "",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "leeanndroid",
+    "speakerTitle" : "Principal Admin Evangelist",
+    "speakerTBIDProfile" : "",
+    "speakerName" : "LeeAnne Rimel",
+    "speakerBio" : "I am passionate about educating, enabling, and learning from our Salesforce Administrator community and everyone who builds on the force.com platform.",
+    "imageUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a2I3k000008fWVTEA2"
+  } ],
+  "slug" : "a2r3k000001WFI9/learning-how-to-build-apps-for-mobile",
+  "sessionTitle" : "Learning how to Build Apps for Mobile",
+  "sessionTime" : "09:00:00.000Z",
+  "sessionDescription" : "Learn how to build app as an admin for mobile.",
+  "sessionDate" : "2019-11-28",
+  "role" : "Admin",
+  "products" : "",
+  "level" : "Beginner",
+  "lengthOfSession" : "60",
+  "ibmLiveId" : "",
+  "featured" : false,
+  "academyCourses" : [ ]
+}, {
   "vidyardId" : "CLJ7cjykDSQsKG9AfVvMV5",
   "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/dfc-resources2-production/resources2/trailhead-live/drm-admin/2019-11-13_06-50-09",
   "thTrailmixes" : [ {
