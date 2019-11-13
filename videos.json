@@ -16,4 +16,44 @@
   "ibmLiveId" : "",
   "featured" : false,
   "academyCourses" : [ ]
+}, {
+  "vidyardId" : "CLJ7cjykDSQsKG9AfVvMV5",
+  "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/dfc-resources2-production/resources2/trailhead-live/drm-admin/2019-11-13_06-50-09",
+  "thTrailmixes" : [ {
+    "trailmixUrl" : "www.google.com",
+    "trailmixName" : "New trail",
+    "trailmixDuration" : "60"
+  } ],
+  "thModules" : [ {
+    "moduleUrl" : "https://trailhead.salesforce.com/module/lightning-web-components-basics",
+    "moduleName" : "Lightning Web Components Basics",
+    "moduleDuration" : "60",
+    "badgeUrl" : "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/lightning-web-components-basics/80a88b1ee88352b7377f12382b3cff17_badge.png"
+  } ],
+  "speakers" : [ {
+    "speakerTwitter" : "@amcgriff87",
+    "speakerTitle" : "Consultant",
+    "speakerTBIDProfile" : "",
+    "speakerName" : "Aaron McGriff",
+    "speakerBio" : "Aaron McGriff truly took full advantage of the power of Trailhead.  Just over the course of a couple years he went from unemployed to a Certified #AwesomeAdmin, Dreamforce Speaker and a Golden Hoodie Award. He recently landed a consulting role at Slalom.",
+    "imageUrl" : "https://s3.us-east-1.amazonaws.com/drm-events/a2I2A000008fWSoUAM"
+  } ],
+  "slug" : "a2r3k000001WFI4/welcome-to-trailhead-live",
+  "sessionTitle" : "Welcome to Trailhead Live",
+  "sessionTime" : "17:00:00.000Z",
+  "sessionDescription" : "Join us for a tour of the Trailhead Live platform.",
+  "sessionDate" : "2019-11-20",
+  "role" : "Business User",
+  "products" : "",
+  "level" : "",
+  "lengthOfSession" : "60",
+  "ibmLiveId" : "",
+  "featured" : false,
+  "academyCourses" : [ {
+    "virtualDuration" : "30 days",
+    "inPersonDuration" : "30 days",
+    "deliveryFormat" : "Virtual",
+    "courseUrl" : "https://help.salesforce.com/HTTrainingCourseDetail?id=a230M000000Q5Xb",
+    "courseName" : "Salesforce Proficiency Pack for Administrators"
+  } ]
 } ]
