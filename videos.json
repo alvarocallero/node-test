@@ -1,22 +1,4 @@
 [ {
-  "vidyardId" : "",
-  "thumbnailUrl" : "",
-  "thTrailmixes" : [ ],
-  "thModules" : [ ],
-  "speakers" : [ ],
-  "slug" : "a2r3k000001WFHz/test",
-  "sessionTitle" : "TEST",
-  "sessionTime" : "09:15:00.000Z",
-  "sessionDescription" : "TEST",
-  "sessionDate" : "2019-12-27",
-  "role" : "",
-  "products" : "",
-  "level" : "",
-  "lengthOfSession" : "60",
-  "ibmLiveId" : "",
-  "featured" : false,
-  "academyCourses" : [ ]
-}, {
   "vidyardId" : "CLJ7cjykDSQsKG9AfVvMV5",
   "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/dfc-resources2-production/resources2/trailhead-live/drm-admin/2019-11-13_06-50-09",
   "thTrailmixes" : [ {
@@ -45,7 +27,7 @@
   "sessionDate" : "2019-11-20",
   "role" : "Business User",
   "products" : "",
-  "level" : "",
+  "level" : "Beginner",
   "lengthOfSession" : "60",
   "ibmLiveId" : "",
   "featured" : false,
