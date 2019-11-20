@@ -1,1 +1,26 @@
-[ ]
+[ {
+  "vidyardId" : "",
+  "thumbnailUrl" : "https://s3.us-east-1.amazonaws.com/dfc-resources2-staging/resources2/trailhead-live/drm-admin/2019-11-20_08-25-52",
+  "thTrailmixes" : [ ],
+  "thModules" : [ ],
+  "speakers" : [ {
+    "speakerTwitter" : "",
+    "speakerTitle" : "Dev",
+    "speakerTBIDProfile" : "",
+    "speakerName" : "Alvaro",
+    "speakerBio" : "Very great",
+    "imageUrl" : ""
+  } ],
+  "slug" : "a0921000003hDk2/test",
+  "sessionTitle" : "TEST",
+  "sessionTime" : "09:00:00.000Z",
+  "sessionDescription" : "TEST descr",
+  "sessionDate" : "2019-11-27",
+  "role" : "Admin",
+  "products" : "Commerce Cloud",
+  "level" : "Intermediate",
+  "lengthOfSession" : "54",
+  "ibmLiveId" : "3",
+  "featured" : false,
+  "academyCourses" : [ ]
+} ]
